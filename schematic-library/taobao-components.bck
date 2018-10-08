@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S108T02
+D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://cdn.sparkfun.com/datasheets/Components/General%20IC/S108,208T02%20Series.pdf
+$ENDCMP
+#
+$CMP S112S01_0
+D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 12A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s112s01_e.pdf
+$ENDCMP
+#
+$CMP S116S01_0
+D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 16A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s01_e.pdf
+$ENDCMP
+#
+$CMP S202S01_0
+D Random Phase Opto-Triac, Vdrm 600V, Ift 8mA, IT 8A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s102s01_e.pdf
+$ENDCMP
+#
+$CMP S212S01_0
+D Random Phase Opto-Triac, Vdrm 600V, Ift 8mA, IT 12A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s112s01_e.pdf
+$ENDCMP
+#
+$CMP S216S01_0
+D Random Phase Opto-Triac, Vdrm 600V, Ift 8mA, IT 16A
+K Opto-Triac Opto Triac Random Phase Solid State Relays
+F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s01_e.pdf
+$ENDCMP
+#
+#End Doc Library

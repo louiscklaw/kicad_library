@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SILxx-1Cxx-51x
+D Standex Meder SIL reed relay, SPDT
+K Single Pole Reed Relay SPDT
+F https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf
+$ENDCMP
+#
+#End Doc Library
