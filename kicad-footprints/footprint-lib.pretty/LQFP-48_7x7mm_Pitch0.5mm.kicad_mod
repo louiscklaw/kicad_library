@@ -1,4 +1,4 @@
-(module handsoldering_customized:LQFP-48_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 5B598C73)
+(module LQFP-48_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 5BBD0E2F)
   (descr "48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)")
   (tags "QFP 0.5")
   (attr smd)
@@ -77,7 +77,7 @@
   (pad 46 smd rect (at -1.75 -4.5 90) (size 2.5 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -2.25 -4.5 90) (size 2.5 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -2.75 -4.5 90) (size 2.5 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/LQFP-48_7x7mm_Pitch0.5mm.wrl
+  (model /usr/share/kicad/modules/packages3d/Package_QFP.3dshapes/LQFP-48_7x7mm_P0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

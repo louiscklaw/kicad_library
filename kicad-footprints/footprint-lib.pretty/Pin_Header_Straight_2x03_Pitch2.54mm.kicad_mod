@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_2x03_Pitch2.54mm (layer F.Cu) (tedit 5BBB3218)
+(module Pin_Header_Straight_2x03_Pitch2.54mm (layer F.Cu) (tedit 5BBD0CF9)
   (descr "Through hole straight pin header, 2x03, 2.54mm pitch, double rows")
   (tags "Through hole pin header THT 2x03 2.54mm double row")
   (fp_text reference REF** (at 1.27 -2.33) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 4 thru_hole oval (at 2.54 2.54) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 0 5.08) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 2.54 5.08) (size 2 2) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x03_Pitch2.54mm.wrl
+  (model /usr/share/kicad/modules/packages3d/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
