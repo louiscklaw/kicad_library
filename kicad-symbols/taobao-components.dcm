@@ -36,6 +36,16 @@ K Opto-Triac Opto Triac Random Phase Solid State Relays
 F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s01_e.pdf
 $ENDCMP
 #
+$CMP VBAT
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VUSB_5V
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP V_EXT_LED
 D positive voltage power-flag symbol
 K Power Flag Symbol
