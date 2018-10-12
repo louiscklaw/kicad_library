@@ -41,6 +41,11 @@ D battery positive  voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VUSB_5V
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP V_EXT_LED
 D positive voltage power-flag symbol
 K Power Flag Symbol
