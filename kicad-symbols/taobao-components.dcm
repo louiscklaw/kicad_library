@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP C106
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP100u
+D Polarised capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP S108T02
 D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A
 K Opto-Triac Opto Triac Random Phase Solid State Relays
@@ -38,6 +50,21 @@ $ENDCMP
 #
 $CMP VBAT
 D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VDD_SIM800C
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VDD_STM32_0
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VIN
+D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
