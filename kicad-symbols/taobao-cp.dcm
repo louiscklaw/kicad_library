@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP_1uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_2.2uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_4.7uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_10uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_10uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_22uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_22uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_47uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_47uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_100uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_220uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_100uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP_220uf
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+#End Doc Library

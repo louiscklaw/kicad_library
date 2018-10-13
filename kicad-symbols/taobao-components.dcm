@@ -58,7 +58,7 @@ D battery positive  voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
-$CMP VDD_STM32_0
+$CMP VDD_STM32
 D battery positive  voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
