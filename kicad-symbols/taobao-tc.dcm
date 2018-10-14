@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC105
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC105
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC225
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC225
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC475
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC475
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC106
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC106
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC226
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC226
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC476
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC476
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC107
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC107
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP TC227
+D Polarized capacitor, small symbol
+K cap capacitor
+F ~
+$ENDCMP
+#
+#End Doc Library

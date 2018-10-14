@@ -6,459 +6,9 @@ K R r res resistor R0 0
 F ~
 $ENDCMP
 #
-$CMP R150
-D Resistor
-K R r res resistor R150 15
-F ~
-$ENDCMP
-#
-$CMP R241
-D Resistor
-K R r res resistor R241 240
-F ~
-$ENDCMP
-#
-$CMP R392
-D Resistor
-K R r res resistor R392 3.9K
-F ~
-$ENDCMP
-#
-$CMP R623
-D Resistor
-K R r res resistor R623 62K
-F ~
-$ENDCMP
-#
-$CMP R160
-D Resistor
-K R r res resistor R160 16
-F ~
-$ENDCMP
-#
-$CMP R271
-D Resistor
-K R r res resistor R271 270
-F ~
-$ENDCMP
-#
-$CMP R432
-D Resistor
-K R r res resistor R432 4.3K
-F ~
-$ENDCMP
-#
-$CMP R683
-D Resistor
-K R r res resistor R683 68K
-F ~
-$ENDCMP
-#
-$CMP R180
-D Resistor
-K R r res resistor R180 18
-F ~
-$ENDCMP
-#
-$CMP R301
-D Resistor
-K R r res resistor R301 300
-F ~
-$ENDCMP
-#
-$CMP R472
-D Resistor
-K R r res resistor R472 4.7K
-F ~
-$ENDCMP
-#
-$CMP R753
-D Resistor
-K R r res resistor R753 75K
-F ~
-$ENDCMP
-#
-$CMP R200
-D Resistor
-K R r res resistor R200 20
-F ~
-$ENDCMP
-#
-$CMP R331
-D Resistor
-K R r res resistor R331 330
-F ~
-$ENDCMP
-#
-$CMP R512
-D Resistor
-K R r res resistor R512 5.1K
-F ~
-$ENDCMP
-#
-$CMP R823
-D Resistor
-K R r res resistor R823 82K
-F ~
-$ENDCMP
-#
-$CMP R220
-D Resistor
-K R r res resistor R220 22
-F ~
-$ENDCMP
-#
-$CMP R361
-D Resistor
-K R r res resistor R361 360
-F ~
-$ENDCMP
-#
-$CMP R562
-D Resistor
-K R r res resistor R562 5.6K
-F ~
-$ENDCMP
-#
-$CMP R913
-D Resistor
-K R r res resistor R913 91K
-F ~
-$ENDCMP
-#
-$CMP R240
-D Resistor
-K R r res resistor R240 24
-F ~
-$ENDCMP
-#
-$CMP R391
-D Resistor
-K R r res resistor R391 390
-F ~
-$ENDCMP
-#
-$CMP R622
-D Resistor
-K R r res resistor R622 6.2K
-F ~
-$ENDCMP
-#
-$CMP R104
-D Resistor
-K R r res resistor R104 100K
-F ~
-$ENDCMP
-#
-$CMP R270
-D Resistor
-K R r res resistor R270 27
-F ~
-$ENDCMP
-#
-$CMP R431
-D Resistor
-K R r res resistor R431 430
-F ~
-$ENDCMP
-#
-$CMP R682
-D Resistor
-K R r res resistor R682 6.8K
-F ~
-$ENDCMP
-#
-$CMP R114
-D Resistor
-K R r res resistor R114 110K
-F ~
-$ENDCMP
-#
-$CMP R300
-D Resistor
-K R r res resistor R300 30
-F ~
-$ENDCMP
-#
-$CMP R471
-D Resistor
-K R r res resistor R471 470
-F ~
-$ENDCMP
-#
-$CMP R752
-D Resistor
-K R r res resistor R752 7.5K
-F ~
-$ENDCMP
-#
-$CMP R124
-D Resistor
-K R r res resistor R124 120K
-F ~
-$ENDCMP
-#
-$CMP R330
-D Resistor
-K R r res resistor R330 33
-F ~
-$ENDCMP
-#
-$CMP R511
-D Resistor
-K R r res resistor R511 510
-F ~
-$ENDCMP
-#
-$CMP R822
-D Resistor
-K R r res resistor R822 8.2K
-F ~
-$ENDCMP
-#
-$CMP R134
-D Resistor
-K R r res resistor R134 130K
-F ~
-$ENDCMP
-#
-$CMP R360
-D Resistor
-K R r res resistor R360 36
-F ~
-$ENDCMP
-#
-$CMP R561
-D Resistor
-K R r res resistor R561 560
-F ~
-$ENDCMP
-#
-$CMP R912
-D Resistor
-K R r res resistor R912 9.1K
-F ~
-$ENDCMP
-#
-$CMP R154
-D Resistor
-K R r res resistor R154 150K
-F ~
-$ENDCMP
-#
-$CMP R390
-D Resistor
-K R r res resistor R390 39
-F ~
-$ENDCMP
-#
-$CMP R621
-D Resistor
-K R r res resistor R621 620
-F ~
-$ENDCMP
-#
-$CMP R103
-D Resistor
-K R r res resistor R103 10K
-F ~
-$ENDCMP
-#
-$CMP R164
-D Resistor
-K R r res resistor R164 160K
-F ~
-$ENDCMP
-#
-$CMP R2.-1
-D Resistor
-K R r res resistor R2.-1 2.7
-F ~
-$ENDCMP
-#
-$CMP R430
-D Resistor
-K R r res resistor R430 43
-F ~
-$ENDCMP
-#
-$CMP R681
-D Resistor
-K R r res resistor R681 680
-F ~
-$ENDCMP
-#
-$CMP R113
-D Resistor
-K R r res resistor R113 11K
-F ~
-$ENDCMP
-#
-$CMP R184
-D Resistor
-K R r res resistor R184 180K
-F ~
-$ENDCMP
-#
-$CMP R3.-1
-D Resistor
-K R r res resistor R3.-1 3
-F ~
-$ENDCMP
-#
-$CMP R470
-D Resistor
-K R r res resistor R470 47
-F ~
-$ENDCMP
-#
-$CMP R751
-D Resistor
-K R r res resistor R751 750
-F ~
-$ENDCMP
-#
-$CMP R123
-D Resistor
-K R r res resistor R123 12K
-F ~
-$ENDCMP
-#
-$CMP R204
-D Resistor
-K R r res resistor R204 200K
-F ~
-$ENDCMP
-#
-$CMP R3.-1
-D Resistor
-K R r res resistor R3.-1 3.3
-F ~
-$ENDCMP
-#
-$CMP R510
-D Resistor
-K R r res resistor R510 51
-F ~
-$ENDCMP
-#
-$CMP R821
-D Resistor
-K R r res resistor R821 820
-F ~
-$ENDCMP
-#
-$CMP R133
-D Resistor
-K R r res resistor R133 13K
-F ~
-$ENDCMP
-#
-$CMP R224
-D Resistor
-K R r res resistor R224 220K
-F ~
-$ENDCMP
-#
-$CMP R3.-1
-D Resistor
-K R r res resistor R3.-1 3.6
-F ~
-$ENDCMP
-#
-$CMP R560
-D Resistor
-K R r res resistor R560 56
-F ~
-$ENDCMP
-#
-$CMP R911
-D Resistor
-K R r res resistor R911 910
-F ~
-$ENDCMP
-#
-$CMP R153
-D Resistor
-K R r res resistor R153 15K
-F ~
-$ENDCMP
-#
-$CMP R244
-D Resistor
-K R r res resistor R244 240K
-F ~
-$ENDCMP
-#
-$CMP R3.-1
-D Resistor
-K R r res resistor R3.-1 3.9
-F ~
-$ENDCMP
-#
-$CMP R620
-D Resistor
-K R r res resistor R620 62
-F ~
-$ENDCMP
-#
-$CMP R102
-D Resistor
-K R r res resistor R102 1K
-F ~
-$ENDCMP
-#
-$CMP R163
-D Resistor
-K R r res resistor R163 16K
-F ~
-$ENDCMP
-#
-$CMP R274
-D Resistor
-K R r res resistor R274 270K
-F ~
-$ENDCMP
-#
-$CMP R4.-1
-D Resistor
-K R r res resistor R4.-1 4.3
-F ~
-$ENDCMP
-#
-$CMP R680
-D Resistor
-K R r res resistor R680 68
-F ~
-$ENDCMP
-#
 $CMP R112
 D Resistor
 K R r res resistor R112 1.1K
-F ~
-$ENDCMP
-#
-$CMP R183
-D Resistor
-K R r res resistor R183 18K
-F ~
-$ENDCMP
-#
-$CMP R304
-D Resistor
-K R r res resistor R304 300K
-F ~
-$ENDCMP
-#
-$CMP R4.-1
-D Resistor
-K R r res resistor R4.-1 4.7
-F ~
-$ENDCMP
-#
-$CMP R750
-D Resistor
-K R r res resistor R750 75
 F ~
 $ENDCMP
 #
@@ -468,57 +18,9 @@ K R r res resistor R122 1.2K
 F ~
 $ENDCMP
 #
-$CMP R203
-D Resistor
-K R r res resistor R203 20K
-F ~
-$ENDCMP
-#
-$CMP R334
-D Resistor
-K R r res resistor R334 330K
-F ~
-$ENDCMP
-#
-$CMP R5.-1
-D Resistor
-K R r res resistor R5.-1 5.1
-F ~
-$ENDCMP
-#
-$CMP R820
-D Resistor
-K R r res resistor R820 82
-F ~
-$ENDCMP
-#
 $CMP R132
 D Resistor
 K R r res resistor R132 1.3K
-F ~
-$ENDCMP
-#
-$CMP R223
-D Resistor
-K R r res resistor R223 22K
-F ~
-$ENDCMP
-#
-$CMP R364
-D Resistor
-K R r res resistor R364 360K
-F ~
-$ENDCMP
-#
-$CMP R5.-1
-D Resistor
-K R r res resistor R5.-1 5.6
-F ~
-$ENDCMP
-#
-$CMP R910
-D Resistor
-K R r res resistor R910 91
 F ~
 $ENDCMP
 #
@@ -528,57 +30,9 @@ K R r res resistor R152 1.5K
 F ~
 $ENDCMP
 #
-$CMP R243
-D Resistor
-K R r res resistor R243 24K
-F ~
-$ENDCMP
-#
-$CMP R394
-D Resistor
-K R r res resistor R394 390K
-F ~
-$ENDCMP
-#
-$CMP R6.-1
-D Resistor
-K R r res resistor R6.-1 6.2
-F ~
-$ENDCMP
-#
-$CMP R101
-D Resistor
-K R r res resistor R101 100
-F ~
-$ENDCMP
-#
 $CMP R162
 D Resistor
 K R r res resistor R162 1.6K
-F ~
-$ENDCMP
-#
-$CMP R273
-D Resistor
-K R r res resistor R273 27K
-F ~
-$ENDCMP
-#
-$CMP R434
-D Resistor
-K R r res resistor R434 430K
-F ~
-$ENDCMP
-#
-$CMP R6.-1
-D Resistor
-K R r res resistor R6.-1 6.8
-F ~
-$ENDCMP
-#
-$CMP R111
-D Resistor
-K R r res resistor R111 110
 F ~
 $ENDCMP
 #
@@ -588,135 +42,27 @@ K R r res resistor R182 1.8K
 F ~
 $ENDCMP
 #
-$CMP R303
-D Resistor
-K R r res resistor R303 30K
-F ~
-$ENDCMP
-#
-$CMP R474
-D Resistor
-K R r res resistor R474 470K
-F ~
-$ENDCMP
-#
-$CMP R7.-1
-D Resistor
-K R r res resistor R7.-1 7.5
-F ~
-$ENDCMP
-#
-$CMP R121
-D Resistor
-K R r res resistor R121 120
-F ~
-$ENDCMP
-#
-$CMP R202
-D Resistor
-K R r res resistor R202 2K
-F ~
-$ENDCMP
-#
-$CMP R333
-D Resistor
-K R r res resistor R333 33K
-F ~
-$ENDCMP
-#
-$CMP R514
-D Resistor
-K R r res resistor R514 510K
-F ~
-$ENDCMP
-#
-$CMP R8.-1
-D Resistor
-K R r res resistor R8.-1 8.2
-F ~
-$ENDCMP
-#
-$CMP R131
-D Resistor
-K R r res resistor R131 130
-F ~
-$ENDCMP
-#
-$CMP R222
-D Resistor
-K R r res resistor R222 2.2K
-F ~
-$ENDCMP
-#
-$CMP R363
-D Resistor
-K R r res resistor R363 36K
-F ~
-$ENDCMP
-#
-$CMP R564
-D Resistor
-K R r res resistor R564 560K
-F ~
-$ENDCMP
-#
-$CMP R9.-1
-D Resistor
-K R r res resistor R9.-1 9.1
-F ~
-$ENDCMP
-#
-$CMP R151
-D Resistor
-K R r res resistor R151 150
-F ~
-$ENDCMP
-#
-$CMP R242
-D Resistor
-K R r res resistor R242 2.4K
-F ~
-$ENDCMP
-#
-$CMP R393
-D Resistor
-K R r res resistor R393 39K
-F ~
-$ENDCMP
-#
-$CMP R624
-D Resistor
-K R r res resistor R624 620K
-F ~
-$ENDCMP
-#
 $CMP R100
 D Resistor
 K R r res resistor R100 10
 F ~
 $ENDCMP
 #
-$CMP R161
+$CMP R101
 D Resistor
-K R r res resistor R161 160
+K R r res resistor R101 100
 F ~
 $ENDCMP
 #
-$CMP R272
+$CMP R104
 D Resistor
-K R r res resistor R272 2.7K
+K R r res resistor R104 100K
 F ~
 $ENDCMP
 #
-$CMP R433
+$CMP R103
 D Resistor
-K R r res resistor R433 43K
-F ~
-$ENDCMP
-#
-$CMP R684
-D Resistor
-K R r res resistor R684 680K
+K R r res resistor R103 10K
 F ~
 $ENDCMP
 #
@@ -726,27 +72,21 @@ K R r res resistor R110 11
 F ~
 $ENDCMP
 #
-$CMP R181
+$CMP R111
 D Resistor
-K R r res resistor R181 180
+K R r res resistor R111 110
 F ~
 $ENDCMP
 #
-$CMP R302
+$CMP R114
 D Resistor
-K R r res resistor R302 3K
+K R r res resistor R114 110K
 F ~
 $ENDCMP
 #
-$CMP R473
+$CMP R113
 D Resistor
-K R r res resistor R473 47K
-F ~
-$ENDCMP
-#
-$CMP R754
-D Resistor
-K R r res resistor R754 750K
+K R r res resistor R113 11K
 F ~
 $ENDCMP
 #
@@ -756,27 +96,21 @@ K R r res resistor R120 12
 F ~
 $ENDCMP
 #
-$CMP R201
+$CMP R121
 D Resistor
-K R r res resistor R201 200
+K R r res resistor R121 120
 F ~
 $ENDCMP
 #
-$CMP R332
+$CMP R124
 D Resistor
-K R r res resistor R332 3.3K
+K R r res resistor R124 120K
 F ~
 $ENDCMP
 #
-$CMP R513
+$CMP R123
 D Resistor
-K R r res resistor R513 51K
-F ~
-$ENDCMP
-#
-$CMP R824
-D Resistor
-K R r res resistor R824 820K
+K R r res resistor R123 12K
 F ~
 $ENDCMP
 #
@@ -786,9 +120,249 @@ K R r res resistor R130 13
 F ~
 $ENDCMP
 #
+$CMP R131
+D Resistor
+K R r res resistor R131 130
+F ~
+$ENDCMP
+#
+$CMP R134
+D Resistor
+K R r res resistor R134 130K
+F ~
+$ENDCMP
+#
+$CMP R133
+D Resistor
+K R r res resistor R133 13K
+F ~
+$ENDCMP
+#
+$CMP R150
+D Resistor
+K R r res resistor R150 15
+F ~
+$ENDCMP
+#
+$CMP R151
+D Resistor
+K R r res resistor R151 150
+F ~
+$ENDCMP
+#
+$CMP R154
+D Resistor
+K R r res resistor R154 150K
+F ~
+$ENDCMP
+#
+$CMP R153
+D Resistor
+K R r res resistor R153 15K
+F ~
+$ENDCMP
+#
+$CMP R160
+D Resistor
+K R r res resistor R160 16
+F ~
+$ENDCMP
+#
+$CMP R161
+D Resistor
+K R r res resistor R161 160
+F ~
+$ENDCMP
+#
+$CMP R164
+D Resistor
+K R r res resistor R164 160K
+F ~
+$ENDCMP
+#
+$CMP R163
+D Resistor
+K R r res resistor R163 16K
+F ~
+$ENDCMP
+#
+$CMP R180
+D Resistor
+K R r res resistor R180 18
+F ~
+$ENDCMP
+#
+$CMP R181
+D Resistor
+K R r res resistor R181 180
+F ~
+$ENDCMP
+#
+$CMP R184
+D Resistor
+K R r res resistor R184 180K
+F ~
+$ENDCMP
+#
+$CMP R183
+D Resistor
+K R r res resistor R183 18K
+F ~
+$ENDCMP
+#
+$CMP R102
+D Resistor
+K R r res resistor R102 1K
+F ~
+$ENDCMP
+#
+$CMP R222
+D Resistor
+K R r res resistor R222 2.2K
+F ~
+$ENDCMP
+#
+$CMP R242
+D Resistor
+K R r res resistor R242 2.4K
+F ~
+$ENDCMP
+#
+$CMP R2R7
+D Resistor
+K R r res resistor R2R7 2.7
+F ~
+$ENDCMP
+#
+$CMP R272
+D Resistor
+K R r res resistor R272 2.7K
+F ~
+$ENDCMP
+#
+$CMP R200
+D Resistor
+K R r res resistor R200 20
+F ~
+$ENDCMP
+#
+$CMP R201
+D Resistor
+K R r res resistor R201 200
+F ~
+$ENDCMP
+#
+$CMP R204
+D Resistor
+K R r res resistor R204 200K
+F ~
+$ENDCMP
+#
+$CMP R203
+D Resistor
+K R r res resistor R203 20K
+F ~
+$ENDCMP
+#
+$CMP R220
+D Resistor
+K R r res resistor R220 22
+F ~
+$ENDCMP
+#
 $CMP R221
 D Resistor
 K R r res resistor R221 220
+F ~
+$ENDCMP
+#
+$CMP R224
+D Resistor
+K R r res resistor R224 220K
+F ~
+$ENDCMP
+#
+$CMP R223
+D Resistor
+K R r res resistor R223 22K
+F ~
+$ENDCMP
+#
+$CMP R240
+D Resistor
+K R r res resistor R240 24
+F ~
+$ENDCMP
+#
+$CMP R241
+D Resistor
+K R r res resistor R241 240
+F ~
+$ENDCMP
+#
+$CMP R244
+D Resistor
+K R r res resistor R244 240K
+F ~
+$ENDCMP
+#
+$CMP R243
+D Resistor
+K R r res resistor R243 24K
+F ~
+$ENDCMP
+#
+$CMP R270
+D Resistor
+K R r res resistor R270 27
+F ~
+$ENDCMP
+#
+$CMP R271
+D Resistor
+K R r res resistor R271 270
+F ~
+$ENDCMP
+#
+$CMP R274
+D Resistor
+K R r res resistor R274 270K
+F ~
+$ENDCMP
+#
+$CMP R273
+D Resistor
+K R r res resistor R273 27K
+F ~
+$ENDCMP
+#
+$CMP R202
+D Resistor
+K R r res resistor R202 2K
+F ~
+$ENDCMP
+#
+$CMP R3R0
+D Resistor
+K R r res resistor R3R0 3
+F ~
+$ENDCMP
+#
+$CMP R3R3
+D Resistor
+K R r res resistor R3R3 3.3
+F ~
+$ENDCMP
+#
+$CMP R332
+D Resistor
+K R r res resistor R332 3.3K
+F ~
+$ENDCMP
+#
+$CMP R3R6
+D Resistor
+K R r res resistor R3R6 3.6
 F ~
 $ENDCMP
 #
@@ -798,15 +372,441 @@ K R r res resistor R362 3.6K
 F ~
 $ENDCMP
 #
+$CMP R3R9
+D Resistor
+K R r res resistor R3R9 3.9
+F ~
+$ENDCMP
+#
+$CMP R392
+D Resistor
+K R r res resistor R392 3.9K
+F ~
+$ENDCMP
+#
+$CMP R300
+D Resistor
+K R r res resistor R300 30
+F ~
+$ENDCMP
+#
+$CMP R301
+D Resistor
+K R r res resistor R301 300
+F ~
+$ENDCMP
+#
+$CMP R304
+D Resistor
+K R r res resistor R304 300K
+F ~
+$ENDCMP
+#
+$CMP R303
+D Resistor
+K R r res resistor R303 30K
+F ~
+$ENDCMP
+#
+$CMP R330
+D Resistor
+K R r res resistor R330 33
+F ~
+$ENDCMP
+#
+$CMP R331
+D Resistor
+K R r res resistor R331 330
+F ~
+$ENDCMP
+#
+$CMP R334
+D Resistor
+K R r res resistor R334 330K
+F ~
+$ENDCMP
+#
+$CMP R333
+D Resistor
+K R r res resistor R333 33K
+F ~
+$ENDCMP
+#
+$CMP R360
+D Resistor
+K R r res resistor R360 36
+F ~
+$ENDCMP
+#
+$CMP R361
+D Resistor
+K R r res resistor R361 360
+F ~
+$ENDCMP
+#
+$CMP R364
+D Resistor
+K R r res resistor R364 360K
+F ~
+$ENDCMP
+#
+$CMP R363
+D Resistor
+K R r res resistor R363 36K
+F ~
+$ENDCMP
+#
+$CMP R390
+D Resistor
+K R r res resistor R390 39
+F ~
+$ENDCMP
+#
+$CMP R391
+D Resistor
+K R r res resistor R391 390
+F ~
+$ENDCMP
+#
+$CMP R394
+D Resistor
+K R r res resistor R394 390K
+F ~
+$ENDCMP
+#
+$CMP R393
+D Resistor
+K R r res resistor R393 39K
+F ~
+$ENDCMP
+#
+$CMP R302
+D Resistor
+K R r res resistor R302 3K
+F ~
+$ENDCMP
+#
+$CMP R4R3
+D Resistor
+K R r res resistor R4R3 4.3
+F ~
+$ENDCMP
+#
+$CMP R432
+D Resistor
+K R r res resistor R432 4.3K
+F ~
+$ENDCMP
+#
+$CMP R4R7
+D Resistor
+K R r res resistor R4R7 4.7
+F ~
+$ENDCMP
+#
+$CMP R472
+D Resistor
+K R r res resistor R472 4.7K
+F ~
+$ENDCMP
+#
+$CMP R430
+D Resistor
+K R r res resistor R430 43
+F ~
+$ENDCMP
+#
+$CMP R431
+D Resistor
+K R r res resistor R431 430
+F ~
+$ENDCMP
+#
+$CMP R434
+D Resistor
+K R r res resistor R434 430K
+F ~
+$ENDCMP
+#
+$CMP R433
+D Resistor
+K R r res resistor R433 43K
+F ~
+$ENDCMP
+#
+$CMP R470
+D Resistor
+K R r res resistor R470 47
+F ~
+$ENDCMP
+#
+$CMP R471
+D Resistor
+K R r res resistor R471 470
+F ~
+$ENDCMP
+#
+$CMP R474
+D Resistor
+K R r res resistor R474 470K
+F ~
+$ENDCMP
+#
+$CMP R473
+D Resistor
+K R r res resistor R473 47K
+F ~
+$ENDCMP
+#
+$CMP R5R1
+D Resistor
+K R r res resistor R5R1 5.1
+F ~
+$ENDCMP
+#
+$CMP R512
+D Resistor
+K R r res resistor R512 5.1K
+F ~
+$ENDCMP
+#
+$CMP R5R6
+D Resistor
+K R r res resistor R5R6 5.6
+F ~
+$ENDCMP
+#
+$CMP R562
+D Resistor
+K R r res resistor R562 5.6K
+F ~
+$ENDCMP
+#
+$CMP R510
+D Resistor
+K R r res resistor R510 51
+F ~
+$ENDCMP
+#
+$CMP R511
+D Resistor
+K R r res resistor R511 510
+F ~
+$ENDCMP
+#
+$CMP R514
+D Resistor
+K R r res resistor R514 510K
+F ~
+$ENDCMP
+#
+$CMP R513
+D Resistor
+K R r res resistor R513 51K
+F ~
+$ENDCMP
+#
+$CMP R560
+D Resistor
+K R r res resistor R560 56
+F ~
+$ENDCMP
+#
+$CMP R561
+D Resistor
+K R r res resistor R561 560
+F ~
+$ENDCMP
+#
+$CMP R564
+D Resistor
+K R r res resistor R564 560K
+F ~
+$ENDCMP
+#
 $CMP R563
 D Resistor
 K R r res resistor R563 56K
 F ~
 $ENDCMP
 #
+$CMP R6R2
+D Resistor
+K R r res resistor R6R2 6.2
+F ~
+$ENDCMP
+#
+$CMP R622
+D Resistor
+K R r res resistor R622 6.2K
+F ~
+$ENDCMP
+#
+$CMP R6R8
+D Resistor
+K R r res resistor R6R8 6.8
+F ~
+$ENDCMP
+#
+$CMP R682
+D Resistor
+K R r res resistor R682 6.8K
+F ~
+$ENDCMP
+#
+$CMP R620
+D Resistor
+K R r res resistor R620 62
+F ~
+$ENDCMP
+#
+$CMP R621
+D Resistor
+K R r res resistor R621 620
+F ~
+$ENDCMP
+#
+$CMP R624
+D Resistor
+K R r res resistor R624 620K
+F ~
+$ENDCMP
+#
+$CMP R623
+D Resistor
+K R r res resistor R623 62K
+F ~
+$ENDCMP
+#
+$CMP R680
+D Resistor
+K R r res resistor R680 68
+F ~
+$ENDCMP
+#
+$CMP R681
+D Resistor
+K R r res resistor R681 680
+F ~
+$ENDCMP
+#
+$CMP R684
+D Resistor
+K R r res resistor R684 680K
+F ~
+$ENDCMP
+#
+$CMP R683
+D Resistor
+K R r res resistor R683 68K
+F ~
+$ENDCMP
+#
+$CMP R7R5
+D Resistor
+K R r res resistor R7R5 7.5
+F ~
+$ENDCMP
+#
+$CMP R752
+D Resistor
+K R r res resistor R752 7.5K
+F ~
+$ENDCMP
+#
+$CMP R750
+D Resistor
+K R r res resistor R750 75
+F ~
+$ENDCMP
+#
+$CMP R751
+D Resistor
+K R r res resistor R751 750
+F ~
+$ENDCMP
+#
+$CMP R754
+D Resistor
+K R r res resistor R754 750K
+F ~
+$ENDCMP
+#
+$CMP R753
+D Resistor
+K R r res resistor R753 75K
+F ~
+$ENDCMP
+#
+$CMP R8R2
+D Resistor
+K R r res resistor R8R2 8.2
+F ~
+$ENDCMP
+#
+$CMP R822
+D Resistor
+K R r res resistor R822 8.2K
+F ~
+$ENDCMP
+#
+$CMP R820
+D Resistor
+K R r res resistor R820 82
+F ~
+$ENDCMP
+#
+$CMP R821
+D Resistor
+K R r res resistor R821 820
+F ~
+$ENDCMP
+#
+$CMP R824
+D Resistor
+K R r res resistor R824 820K
+F ~
+$ENDCMP
+#
+$CMP R823
+D Resistor
+K R r res resistor R823 82K
+F ~
+$ENDCMP
+#
+$CMP R9R1
+D Resistor
+K R r res resistor R9R1 9.1
+F ~
+$ENDCMP
+#
+$CMP R912
+D Resistor
+K R r res resistor R912 9.1K
+F ~
+$ENDCMP
+#
+$CMP R910
+D Resistor
+K R r res resistor R910 91
+F ~
+$ENDCMP
+#
+$CMP R911
+D Resistor
+K R r res resistor R911 910
+F ~
+$ENDCMP
+#
 $CMP R914
 D Resistor
 K R r res resistor R914 910K
+F ~
+$ENDCMP
+#
+$CMP R913
+D Resistor
+K R r res resistor R913 91K
 F ~
 $ENDCMP
 #
