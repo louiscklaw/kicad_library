@@ -1,1 +1,1 @@
-# My kicad library collection
+# My kicad library and footprint collection
