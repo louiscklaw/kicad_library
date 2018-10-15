@@ -1,5 +1,41 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LED_BLUE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_GREEN
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_ORANGE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_RED
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_WHITE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_YELLOW
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
 $CMP S108T02
 D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A
 K Opto-Triac Opto Triac Random Phase Solid State Relays

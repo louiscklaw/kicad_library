@@ -1,92 +1,92 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TC105
+$CMP 6V,TC105
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC105
+$CMP 35V,TC105
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC225
+$CMP 16V,TC225
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC225
+$CMP 35V,TC225
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC475
+$CMP 16V,TC475
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC475
+$CMP 25V,TC475
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC106
+$CMP 10V,TC106
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC106
+$CMP 16V,TC106
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC226
+$CMP 10V,TC226
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC226
+$CMP 16V,TC226
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC476
+$CMP 6V,TC476
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC476
+$CMP 10V,TC476
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC107
+$CMP 6V,TC107
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC107
+$CMP 16V,TC107
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
-$CMP TC227
+$CMP 6V,TC227
 D Polarized capacitor, small symbol
-K cap capacitor
+K cap capacitor titanium_capacitor 鉭電容
 F ~
 $ENDCMP
 #
