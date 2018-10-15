@@ -92,6 +92,21 @@ D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VIN_GPS
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VIN_GSM
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VIN_STM32
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP VUSB_5V
 D battery positive  voltage power-flag symbol
 K Power Flag Symbol
