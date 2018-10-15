@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD_1N5817_SS12
+D Schottky diode, small symbol, 肖特基二极管 ,
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library

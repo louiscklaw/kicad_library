@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZD_3V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_3V3
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_3V6
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_4V7
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_5V1
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_5V6
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_6V2
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_7V5
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_10V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_12V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_15V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_20V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_24V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+$CMP ZD_39V
+D Zener diode, small symbol, https://item.taobao.com/item.htm?spm=a1z09.2.0.0.bc7f2e8d06bf3P&id=526175091304&_u=fot8j1n5bfc
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library

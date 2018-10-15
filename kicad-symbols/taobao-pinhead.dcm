@@ -1,0 +1,525 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIN_HEAD_1x01
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x02
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x03
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x04
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x05
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x06
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x07
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x08
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x09
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x10
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x11
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x12
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x13
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x14
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x15
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x16
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x17
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x18
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x19
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x20
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x21
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x22
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x23
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x24
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x25
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x26
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x27
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x28
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_1x29
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x01
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x02
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x03
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x04
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x05
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x06
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x07
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x08
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x09
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x10
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x11
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x12
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x13
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x14
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x15
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x16
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x17
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x18
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x19
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x20
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x21
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x22
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x23
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x24
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x25
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x26
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x27
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x28
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_2x29
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x01
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x02
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x03
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x04
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x05
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x06
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x07
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x08
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x09
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x10
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x11
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x12
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x13
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x14
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x15
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x16
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x17
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x18
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x19
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x20
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x21
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x22
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x23
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x24
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x25
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x26
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x27
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x28
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+$CMP PIN_HEAD_3x29
+D Generic connector, single row, https://detail.tmall.com/item.htm?spm=a230r.1.14.30.2ab6682fV9I30u&id=14570712634&ns=1&abbucket=19
+K connector pinhead
+F ~
+$ENDCMP
+#
+#End Doc Library

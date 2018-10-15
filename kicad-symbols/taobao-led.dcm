@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED_RED
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode https://item.taobao.com/item.htm?spm=2013.1.0.0.16691961RUKr3e&id=41375954474
+F ~
+$ENDCMP
+#
+$CMP LED_ORANGE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode https://item.taobao.com/item.htm?spm=2013.1.0.0.16691961RUKr3e&id=41375954474
+F ~
+$ENDCMP
+#
+$CMP LED_BLUE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode https://item.taobao.com/item.htm?spm=2013.1.0.0.16691961RUKr3e&id=41375954474
+F ~
+$ENDCMP
+#
+$CMP LED_GREEN
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode https://item.taobao.com/item.htm?spm=2013.1.0.0.16691961RUKr3e&id=41375954474
+F ~
+$ENDCMP
+#
+$CMP LED_WHITE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode https://item.taobao.com/item.htm?spm=2013.1.0.0.16691961RUKr3e&id=41375954474
+F ~
+$ENDCMP
+#
+#End Doc Library
