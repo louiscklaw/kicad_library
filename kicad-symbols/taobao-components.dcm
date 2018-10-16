@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Fuse_500mA
+D Fuse, small symbol
+K fuse
+F ~
+$ENDCMP
+#
 $CMP LED_BLUE
 D Light emitting diode, small symbol
 K LED diode light-emitting-diode
@@ -88,6 +94,11 @@ K Power Flag Symbol
 $ENDCMP
 #
 $CMP VIN
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VIN_ESP8266
 D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
