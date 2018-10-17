@@ -42,6 +42,12 @@ K LED diode light-emitting-diode
 F ~
 $ENDCMP
 #
+$CMP MBR120
+D Schottky diode, small symbol, 肖特基二极管 ,
+K diode
+F ~
+$ENDCMP
+#
 $CMP S108T02
 D Random Phase Opto-Triac, Vdrm 400V, Ift 8mA, IT 8A
 K Opto-Triac Opto Triac Random Phase Solid State Relays
