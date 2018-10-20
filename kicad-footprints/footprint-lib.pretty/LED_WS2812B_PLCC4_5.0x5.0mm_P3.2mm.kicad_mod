@@ -1,4 +1,4 @@
-(module LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939)
+(module LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB162B)
   (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
   (tags "LED RGB NeoPixel")
   (attr smd)
@@ -34,6 +34,6 @@
   (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )

@@ -135,6 +135,11 @@ D battery positive  voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VWS2812
+D battery positive  voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP V_EXT_LED
 D positive voltage power-flag symbol
 K Power Flag Symbol
