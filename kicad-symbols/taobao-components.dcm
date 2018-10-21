@@ -135,6 +135,16 @@ D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VLED+
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VLED-
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP VRA1
 D positive voltage power-flag symbol
 K Power Flag Symbol
