@@ -816,4 +816,10 @@ K R r res resistor R913 91K
 F ~
 $ENDCMP
 #
+$CMP R106
+D Resistor
+K R r res resistor R106 10M
+F ~
+$ENDCMP
+#
 #End Doc Library
