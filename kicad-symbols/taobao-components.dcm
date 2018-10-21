@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3V
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +3V0
+D power-flag symbol +3.3V
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP AOD417
 D P-MOSFET transistor, gate/drain/source
 K transistor PMOS P-MOS P-MOSFET
