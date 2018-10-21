@@ -6,6 +6,11 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
+$CMP AVCC
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP Fuse_500mA
 D Fuse, small symbol
 K fuse
@@ -90,6 +95,11 @@ K Opto-Triac Opto Triac Random Phase Solid State Relays
 F http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/s116s01_e.pdf
 $ENDCMP
 #
+$CMP SVREF
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP VBAT
 D battery positive  voltage power-flag symbol
 K Power Flag Symbol
@@ -102,11 +112,6 @@ $ENDCMP
 #
 $CMP VDD_STM32
 D battery positive  voltage power-flag symbol
-K Power Flag Symbol
-$ENDCMP
-#
-$CMP VIN
-D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
@@ -130,6 +135,16 @@ D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VRA1
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP VRA2
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP VUSB_5V
 D battery positive  voltage power-flag symbol
 K Power Flag Symbol
@@ -141,6 +156,71 @@ K Power Flag Symbol
 $ENDCMP
 #
 $CMP V_EXT_LED
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vcc_phy
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vcpu
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vdd_phy
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vdram
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vhp
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vhp_bp
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vio
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vmcsi
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vpe
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vpll
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vrtc
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vrtc_io
+D positive voltage power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Vsys
 D positive voltage power-flag symbol
 K Power Flag Symbol
 $ENDCMP

@@ -672,6 +672,12 @@ K R r res resistor R624 620K
 F ~
 $ENDCMP
 #
+$CMP R602
+D Resistor
+K R r res resistor R602 6K
+F ~
+$ENDCMP
+#
 $CMP R623
 D Resistor
 K R r res resistor R623 62K
