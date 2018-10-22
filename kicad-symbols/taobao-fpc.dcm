@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP fpc-16-bottom
+D Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector 16P 型号：下接
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4aed2e8d1hRsfJ&id=552732254981&_u=mot8j1n5bfa
+$ENDCMP
+#
+$CMP fpc-16-top
+D Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector 16P 型号：上接
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4aed2e8d1hRsfJ&id=552732254981&_u=mot8j1n5bfa
+$ENDCMP
+#
+$CMP fpc-40-bottom
+D Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector, 40P型号：下接
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4aed2e8d1hRsfJ&id=552732254981&_u=mot8j1n5bfa
+$ENDCMP
+#
+$CMP fpc-40-top
+D Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector, 40P型号：上接
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4aed2e8d1hRsfJ&id=552732254981&_u=mot8j1n5bfa
+$ENDCMP
+#
+#End Doc Library
