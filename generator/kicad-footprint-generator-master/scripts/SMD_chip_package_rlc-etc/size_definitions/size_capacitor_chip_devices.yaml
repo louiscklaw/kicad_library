@@ -1,0 +1,60 @@
+
+SMD_1825:
+    code_imperial: "1825"
+    code_metric: "4564"
+    body_length:
+        nominal: 4.6
+        tolerance: 0.5
+    body_width:
+        nominal: 6.3
+        tolerance: 0.4
+    terminal_length:
+        nominal: 0.75
+        tolerance: 0.35
+    ipc_reference: "ipc_spec_larger_or_equal_0603"
+    size_info: '(Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf)'
+
+SMD_2220:
+    code_imperial: "2220"
+    code_metric: "5650"
+    body_length:
+        nominal: 5.7
+        tolerance: 0.5
+    body_width:
+        nominal: 5.0
+        tolerance: 0.4
+    terminal_length:
+        nominal: 0.85
+        tolerance: 0.35
+    ipc_reference: "ipc_spec_larger_or_equal_0603"
+    size_info: '(Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf)'
+
+SMD_2225:
+    code_imperial: "2225"
+    code_metric: "5664"
+    body_length:
+        nominal: 5.72
+        tolerance: 0.25
+    body_width:
+        nominal: 6.35
+        tolerance: 0.25
+    terminal_length:
+        nominal: 0.85
+        tolerance: 0.35
+    ipc_reference: "ipc_spec_larger_or_equal_0603"
+    size_info: '(Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf)'
+
+SMD_3640:
+    code_imperial: "3640"
+    code_metric: "9110"
+    body_length:
+        nominal: 9.14
+        tolerance: 0.25
+    body_width:
+        nominal: 10.2
+        tolerance: 0.25
+    terminal_length:
+        minimum: 0.76
+        maximum: 1.52
+    ipc_reference: "ipc_spec_larger_or_equal_0603"
+    size_info: '(Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf)'

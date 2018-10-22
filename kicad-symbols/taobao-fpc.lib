@@ -9,7 +9,7 @@ F1 "fpc-16-bottom" 0 -900 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- TE_2-84952-0_1x16-1MP_P1.0mm_Horizontal
+ TE_2-84952-0_1x16-1MP_P*mm_*
 $ENDFPLIST
 DRAW
 S -50 -795 0 -805 1 1 6 N
@@ -56,7 +56,7 @@ F1 "fpc-16-top" 0 -900 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- TE_2-84952-0_1x40-1MP_P1.0mm_Horizontal
+ TE_2-84952-0_1x16-1MP_P*mm_*
 $ENDFPLIST
 DRAW
 S -50 -795 0 -805 1 1 6 N
@@ -103,7 +103,7 @@ F1 "fpc-40-bottom" 0 -2100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- TE_2-84952-0_1x40-1MP_P1.0mm_Horizontal
+ TE_2-84952-0_1x40-1MP_P*mm_*
 $ENDFPLIST
 DRAW
 S -50 -1995 0 -2005 1 1 6 N
@@ -198,7 +198,7 @@ F1 "fpc-40-top" 0 -2100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- Connector*:*_1x??_*
+ TE_2-84952-0_1x40-1MP_P*mm_*
 $ENDFPLIST
 DRAW
 S -50 -1995 0 -2005 1 1 6 N
