@@ -6,4 +6,10 @@ K diode
 F ~
 $ENDCMP
 #
+$CMP SD_1N5819_S4
+D Schottky diode, small symbol, 肖特基二极管 ,
+K diode
+F ~
+$ENDCMP
+#
 #End Doc Library
