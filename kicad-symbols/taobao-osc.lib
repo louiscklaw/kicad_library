@@ -180,9 +180,7 @@ F1 "O32.768K" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
- *MicroCrystal*8.0x3.7mm*
- *MicroCrystal*3.2x1.5mm*
- *c38*lf*l8.0mm*
+ *MC-306*
 $ENDFPLIST
 DRAW
 S -30 -60 30 60 0 1 0 N
