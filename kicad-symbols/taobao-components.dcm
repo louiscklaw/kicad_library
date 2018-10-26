@@ -30,6 +30,18 @@ K Single Gate Buff Tri-State LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP D772
+D PNP transistor, base/collector/emitter
+K transistor PNP
+F ~
+$ENDCMP
+#
+$CMP D882
+D NPN transistor, base/collector/emitter
+K transistor NPN
+F ~
+$ENDCMP
+#
 $CMP OMRON_G3MB-202P
 F https://www.digikey.com/product-detail/en/omron-automation-and-safety/G3MB-202P-DC5/Z909-ND/206380
 $ENDCMP
