@@ -54,12 +54,6 @@ K capacitor cap O25M
 F ~
 $ENDCMP
 #
-$CMP O32.768K
-D Unpolarized capacitor, small symbol,
-K capacitor cap O32.768K
-F ~
-$ENDCMP
-#
 $CMP O48M
 D Unpolarized capacitor, small symbol,
 K capacitor cap O48M
@@ -88,6 +82,12 @@ $CMP O8M
 D Unpolarized capacitor, small symbol,
 K capacitor cap O8M
 F ~
+$ENDCMP
+#
+$CMP O_EPSON_32.768K
+D kHz RANGE CRYSTAL UNIT,
+K capacitor cap O32.768K EPSON
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306&lang=en
 $ENDCMP
 #
 #End Doc Library
