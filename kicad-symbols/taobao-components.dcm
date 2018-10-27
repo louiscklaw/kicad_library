@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1N5824
+D Schottky diode, small symbol
+K diode Schottky
+F ~
+$ENDCMP
+#
 $CMP 74AHC1G125
 D Single Buffer Gate Tri-State, Low-Voltage CMOS
 K Single Gate Buff Tri-State LVC CMOS
