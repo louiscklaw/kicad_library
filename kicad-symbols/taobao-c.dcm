@@ -6,9 +6,45 @@ K capacitor cap C1pf
 F ~
 $ENDCMP
 #
+$CMP C1pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C1pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C1pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C1pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C1pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C1pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C4.7pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C4.7pf 
+F ~
+$ENDCMP
+#
+$CMP C4.7pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C4.7pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C4.7pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C4.7pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C4.7pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C4.7pf,0402 
 F ~
 $ENDCMP
 #
@@ -18,9 +54,45 @@ K capacitor cap C6.8pf
 F ~
 $ENDCMP
 #
+$CMP C6.8pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C6.8pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C6.8pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C6.8pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C6.8pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C6.8pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C10pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C10pf 
+F ~
+$ENDCMP
+#
+$CMP C10pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C10pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C10pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C10pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C10pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C10pf,0402 
 F ~
 $ENDCMP
 #
@@ -30,9 +102,45 @@ K capacitor cap C15pf
 F ~
 $ENDCMP
 #
+$CMP C15pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C15pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C15pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C15pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C15pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C15pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C18pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C18pf 
+F ~
+$ENDCMP
+#
+$CMP C18pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C18pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C18pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C18pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C18pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C18pf,0402 
 F ~
 $ENDCMP
 #
@@ -42,9 +150,45 @@ K capacitor cap C20pf
 F ~
 $ENDCMP
 #
+$CMP C20pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C20pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C20pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C20pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C20pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C20pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C22pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C22pf 
+F ~
+$ENDCMP
+#
+$CMP C22pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C22pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C22pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C22pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C22pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C22pf,0402 
 F ~
 $ENDCMP
 #
@@ -54,9 +198,45 @@ K capacitor cap C30pf
 F ~
 $ENDCMP
 #
+$CMP C30pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C30pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C30pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C30pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C30pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C30pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C33pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C33pf 
+F ~
+$ENDCMP
+#
+$CMP C33pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C33pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C33pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C33pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C33pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C33pf,0402 
 F ~
 $ENDCMP
 #
@@ -66,9 +246,45 @@ K capacitor cap C47pf
 F ~
 $ENDCMP
 #
+$CMP C47pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C47pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C47pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C47pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C47pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C47pf,0402 
+F ~
+$ENDCMP
+#
 $CMP C68pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C68pf 
+F ~
+$ENDCMP
+#
+$CMP C68pf,0805
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C68pf,0805 
+F ~
+$ENDCMP
+#
+$CMP C68pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C68pf,0603 
+F ~
+$ENDCMP
+#
+$CMP C68pf,0402
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C68pf,0402 
 F ~
 $ENDCMP
 #
@@ -78,9 +294,45 @@ K capacitor cap C101 100(p) ,0.1(n) ,0.0001(u)
 F ~
 $ENDCMP
 #
+$CMP C101,0805
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0805 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
+$CMP C101,0603
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0603 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
+$CMP C101,0402
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0402 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
 $CMP C121
 D Unpolarized capacitor, small symbol, 120(p) ,0.12(n) ,0.00012(u)
 K capacitor cap C121 120(p) ,0.12(n) ,0.00012(u)
+F ~
+$ENDCMP
+#
+$CMP C121,0805
+D Unpolarized capacitor, small symbol, 120(p) ,0.12(n) ,0.00012(u)
+K capacitor cap C121,0805 120(p) ,0.12(n) ,0.00012(u)
+F ~
+$ENDCMP
+#
+$CMP C121,0603
+D Unpolarized capacitor, small symbol, 120(p) ,0.12(n) ,0.00012(u)
+K capacitor cap C121,0603 120(p) ,0.12(n) ,0.00012(u)
+F ~
+$ENDCMP
+#
+$CMP C121,0402
+D Unpolarized capacitor, small symbol, 120(p) ,0.12(n) ,0.00012(u)
+K capacitor cap C121,0402 120(p) ,0.12(n) ,0.00012(u)
 F ~
 $ENDCMP
 #
@@ -90,9 +342,45 @@ K capacitor cap C151 150(p) ,0.15(n) ,0.00015(u)
 F ~
 $ENDCMP
 #
+$CMP C151,0805
+D Unpolarized capacitor, small symbol, 150(p) ,0.15(n) ,0.00015(u)
+K capacitor cap C151,0805 150(p) ,0.15(n) ,0.00015(u)
+F ~
+$ENDCMP
+#
+$CMP C151,0603
+D Unpolarized capacitor, small symbol, 150(p) ,0.15(n) ,0.00015(u)
+K capacitor cap C151,0603 150(p) ,0.15(n) ,0.00015(u)
+F ~
+$ENDCMP
+#
+$CMP C151,0402
+D Unpolarized capacitor, small symbol, 150(p) ,0.15(n) ,0.00015(u)
+K capacitor cap C151,0402 150(p) ,0.15(n) ,0.00015(u)
+F ~
+$ENDCMP
+#
 $CMP C181
 D Unpolarized capacitor, small symbol, 180(p) ,0.18(n) ,0.00018(u)
 K capacitor cap C181 180(p) ,0.18(n) ,0.00018(u)
+F ~
+$ENDCMP
+#
+$CMP C181,0805
+D Unpolarized capacitor, small symbol, 180(p) ,0.18(n) ,0.00018(u)
+K capacitor cap C181,0805 180(p) ,0.18(n) ,0.00018(u)
+F ~
+$ENDCMP
+#
+$CMP C181,0603
+D Unpolarized capacitor, small symbol, 180(p) ,0.18(n) ,0.00018(u)
+K capacitor cap C181,0603 180(p) ,0.18(n) ,0.00018(u)
+F ~
+$ENDCMP
+#
+$CMP C181,0402
+D Unpolarized capacitor, small symbol, 180(p) ,0.18(n) ,0.00018(u)
+K capacitor cap C181,0402 180(p) ,0.18(n) ,0.00018(u)
 F ~
 $ENDCMP
 #
@@ -102,9 +390,45 @@ K capacitor cap C201 200(p) ,0.20(n) ,0.00020(u)
 F ~
 $ENDCMP
 #
+$CMP C201,0805
+D Unpolarized capacitor, small symbol, 200(p) ,0.20(n) ,0.00020(u)
+K capacitor cap C201,0805 200(p) ,0.20(n) ,0.00020(u)
+F ~
+$ENDCMP
+#
+$CMP C201,0603
+D Unpolarized capacitor, small symbol, 200(p) ,0.20(n) ,0.00020(u)
+K capacitor cap C201,0603 200(p) ,0.20(n) ,0.00020(u)
+F ~
+$ENDCMP
+#
+$CMP C201,0402
+D Unpolarized capacitor, small symbol, 200(p) ,0.20(n) ,0.00020(u)
+K capacitor cap C201,0402 200(p) ,0.20(n) ,0.00020(u)
+F ~
+$ENDCMP
+#
 $CMP C221
 D Unpolarized capacitor, small symbol, 220(p) ,0.22(n) ,0.00022(u)
 K capacitor cap C221 220(p) ,0.22(n) ,0.00022(u)
+F ~
+$ENDCMP
+#
+$CMP C221,0805
+D Unpolarized capacitor, small symbol, 220(p) ,0.22(n) ,0.00022(u)
+K capacitor cap C221,0805 220(p) ,0.22(n) ,0.00022(u)
+F ~
+$ENDCMP
+#
+$CMP C221,0603
+D Unpolarized capacitor, small symbol, 220(p) ,0.22(n) ,0.00022(u)
+K capacitor cap C221,0603 220(p) ,0.22(n) ,0.00022(u)
+F ~
+$ENDCMP
+#
+$CMP C221,0402
+D Unpolarized capacitor, small symbol, 220(p) ,0.22(n) ,0.00022(u)
+K capacitor cap C221,0402 220(p) ,0.22(n) ,0.00022(u)
 F ~
 $ENDCMP
 #
@@ -114,9 +438,45 @@ K capacitor cap C331 330(p) ,0.33(n) ,0.00033(u)
 F ~
 $ENDCMP
 #
+$CMP C331,0805
+D Unpolarized capacitor, small symbol, 330(p) ,0.33(n) ,0.00033(u)
+K capacitor cap C331,0805 330(p) ,0.33(n) ,0.00033(u)
+F ~
+$ENDCMP
+#
+$CMP C331,0603
+D Unpolarized capacitor, small symbol, 330(p) ,0.33(n) ,0.00033(u)
+K capacitor cap C331,0603 330(p) ,0.33(n) ,0.00033(u)
+F ~
+$ENDCMP
+#
+$CMP C331,0402
+D Unpolarized capacitor, small symbol, 330(p) ,0.33(n) ,0.00033(u)
+K capacitor cap C331,0402 330(p) ,0.33(n) ,0.00033(u)
+F ~
+$ENDCMP
+#
 $CMP C391
 D Unpolarized capacitor, small symbol, 390(p) ,0.39(n) ,0.00039(u)
 K capacitor cap C391 390(p) ,0.39(n) ,0.00039(u)
+F ~
+$ENDCMP
+#
+$CMP C391,0805
+D Unpolarized capacitor, small symbol, 390(p) ,0.39(n) ,0.00039(u)
+K capacitor cap C391,0805 390(p) ,0.39(n) ,0.00039(u)
+F ~
+$ENDCMP
+#
+$CMP C391,0603
+D Unpolarized capacitor, small symbol, 390(p) ,0.39(n) ,0.00039(u)
+K capacitor cap C391,0603 390(p) ,0.39(n) ,0.00039(u)
+F ~
+$ENDCMP
+#
+$CMP C391,0402
+D Unpolarized capacitor, small symbol, 390(p) ,0.39(n) ,0.00039(u)
+K capacitor cap C391,0402 390(p) ,0.39(n) ,0.00039(u)
 F ~
 $ENDCMP
 #
@@ -126,9 +486,45 @@ K capacitor cap C471 470(p) ,0.47(n) ,0.00047(u)
 F ~
 $ENDCMP
 #
+$CMP C471,0805
+D Unpolarized capacitor, small symbol, 470(p) ,0.47(n) ,0.00047(u)
+K capacitor cap C471,0805 470(p) ,0.47(n) ,0.00047(u)
+F ~
+$ENDCMP
+#
+$CMP C471,0603
+D Unpolarized capacitor, small symbol, 470(p) ,0.47(n) ,0.00047(u)
+K capacitor cap C471,0603 470(p) ,0.47(n) ,0.00047(u)
+F ~
+$ENDCMP
+#
+$CMP C471,0402
+D Unpolarized capacitor, small symbol, 470(p) ,0.47(n) ,0.00047(u)
+K capacitor cap C471,0402 470(p) ,0.47(n) ,0.00047(u)
+F ~
+$ENDCMP
+#
 $CMP C561
 D Unpolarized capacitor, small symbol, 560(p) ,0.56(n) ,0.00056(u)
 K capacitor cap C561 560(p) ,0.56(n) ,0.00056(u)
+F ~
+$ENDCMP
+#
+$CMP C561,0805
+D Unpolarized capacitor, small symbol, 560(p) ,0.56(n) ,0.00056(u)
+K capacitor cap C561,0805 560(p) ,0.56(n) ,0.00056(u)
+F ~
+$ENDCMP
+#
+$CMP C561,0603
+D Unpolarized capacitor, small symbol, 560(p) ,0.56(n) ,0.00056(u)
+K capacitor cap C561,0603 560(p) ,0.56(n) ,0.00056(u)
+F ~
+$ENDCMP
+#
+$CMP C561,0402
+D Unpolarized capacitor, small symbol, 560(p) ,0.56(n) ,0.00056(u)
+K capacitor cap C561,0402 560(p) ,0.56(n) ,0.00056(u)
 F ~
 $ENDCMP
 #
@@ -138,9 +534,45 @@ K capacitor cap C681 680(p) ,0.68(n) ,0.00068(u)
 F ~
 $ENDCMP
 #
+$CMP C681,0805
+D Unpolarized capacitor, small symbol, 680(p) ,0.68(n) ,0.00068(u)
+K capacitor cap C681,0805 680(p) ,0.68(n) ,0.00068(u)
+F ~
+$ENDCMP
+#
+$CMP C681,0603
+D Unpolarized capacitor, small symbol, 680(p) ,0.68(n) ,0.00068(u)
+K capacitor cap C681,0603 680(p) ,0.68(n) ,0.00068(u)
+F ~
+$ENDCMP
+#
+$CMP C681,0402
+D Unpolarized capacitor, small symbol, 680(p) ,0.68(n) ,0.00068(u)
+K capacitor cap C681,0402 680(p) ,0.68(n) ,0.00068(u)
+F ~
+$ENDCMP
+#
 $CMP C102
 D Unpolarized capacitor, small symbol, 1000(p) ,1 or 1n(n) ,0.001(u)
 K capacitor cap C102 1000(p) ,1 or 1n(n) ,0.001(u)
+F ~
+$ENDCMP
+#
+$CMP C102,0805
+D Unpolarized capacitor, small symbol, 1000(p) ,1 or 1n(n) ,0.001(u)
+K capacitor cap C102,0805 1000(p) ,1 or 1n(n) ,0.001(u)
+F ~
+$ENDCMP
+#
+$CMP C102,0603
+D Unpolarized capacitor, small symbol, 1000(p) ,1 or 1n(n) ,0.001(u)
+K capacitor cap C102,0603 1000(p) ,1 or 1n(n) ,0.001(u)
+F ~
+$ENDCMP
+#
+$CMP C102,0402
+D Unpolarized capacitor, small symbol, 1000(p) ,1 or 1n(n) ,0.001(u)
+K capacitor cap C102,0402 1000(p) ,1 or 1n(n) ,0.001(u)
 F ~
 $ENDCMP
 #
@@ -150,9 +582,45 @@ K capacitor cap C152 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
 F ~
 $ENDCMP
 #
+$CMP C152,0805
+D Unpolarized capacitor, small symbol, 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+K capacitor cap C152,0805 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+F ~
+$ENDCMP
+#
+$CMP C152,0603
+D Unpolarized capacitor, small symbol, 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+K capacitor cap C152,0603 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+F ~
+$ENDCMP
+#
+$CMP C152,0402
+D Unpolarized capacitor, small symbol, 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+K capacitor cap C152,0402 1500(p) ,1.5 or 1n5(n) ,0.0015(u)
+F ~
+$ENDCMP
+#
 $CMP C222
 D Unpolarized capacitor, small symbol, 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
 K capacitor cap C222 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+F ~
+$ENDCMP
+#
+$CMP C222,0805
+D Unpolarized capacitor, small symbol, 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+K capacitor cap C222,0805 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+F ~
+$ENDCMP
+#
+$CMP C222,0603
+D Unpolarized capacitor, small symbol, 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+K capacitor cap C222,0603 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+F ~
+$ENDCMP
+#
+$CMP C222,0402
+D Unpolarized capacitor, small symbol, 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
+K capacitor cap C222,0402 2200(p) ,2.2 or 2n2(n) ,0.0022(u)
 F ~
 $ENDCMP
 #
@@ -162,9 +630,45 @@ K capacitor cap C332 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
 F ~
 $ENDCMP
 #
+$CMP C332,0805
+D Unpolarized capacitor, small symbol, 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+K capacitor cap C332,0805 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+F ~
+$ENDCMP
+#
+$CMP C332,0603
+D Unpolarized capacitor, small symbol, 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+K capacitor cap C332,0603 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+F ~
+$ENDCMP
+#
+$CMP C332,0402
+D Unpolarized capacitor, small symbol, 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+K capacitor cap C332,0402 3300(p) ,3.3 or 3n3(n) ,0.0033(u)
+F ~
+$ENDCMP
+#
 $CMP C472
 D Unpolarized capacitor, small symbol, 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
 K capacitor cap C472 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+F ~
+$ENDCMP
+#
+$CMP C472,0805
+D Unpolarized capacitor, small symbol, 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+K capacitor cap C472,0805 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+F ~
+$ENDCMP
+#
+$CMP C472,0603
+D Unpolarized capacitor, small symbol, 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+K capacitor cap C472,0603 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+F ~
+$ENDCMP
+#
+$CMP C472,0402
+D Unpolarized capacitor, small symbol, 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
+K capacitor cap C472,0402 4700(p) ,4.7 or 4n4(n) ,0.0047(u)
 F ~
 $ENDCMP
 #
@@ -174,9 +678,45 @@ K capacitor cap C682 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
 F ~
 $ENDCMP
 #
+$CMP C682,0805
+D Unpolarized capacitor, small symbol, 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+K capacitor cap C682,0805 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+F ~
+$ENDCMP
+#
+$CMP C682,0603
+D Unpolarized capacitor, small symbol, 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+K capacitor cap C682,0603 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+F ~
+$ENDCMP
+#
+$CMP C682,0402
+D Unpolarized capacitor, small symbol, 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+K capacitor cap C682,0402 6800(p) ,6.8 or 6n8(n) ,0.0068(u)
+F ~
+$ENDCMP
+#
 $CMP C103
 D Unpolarized capacitor, small symbol, 10000(p) ,10 or 10n(n) ,0.01(u)
 K capacitor cap C103 10000(p) ,10 or 10n(n) ,0.01(u)
+F ~
+$ENDCMP
+#
+$CMP C103,0805
+D Unpolarized capacitor, small symbol, 10000(p) ,10 or 10n(n) ,0.01(u)
+K capacitor cap C103,0805 10000(p) ,10 or 10n(n) ,0.01(u)
+F ~
+$ENDCMP
+#
+$CMP C103,0603
+D Unpolarized capacitor, small symbol, 10000(p) ,10 or 10n(n) ,0.01(u)
+K capacitor cap C103,0603 10000(p) ,10 or 10n(n) ,0.01(u)
+F ~
+$ENDCMP
+#
+$CMP C103,0402
+D Unpolarized capacitor, small symbol, 10000(p) ,10 or 10n(n) ,0.01(u)
+K capacitor cap C103,0402 10000(p) ,10 or 10n(n) ,0.01(u)
 F ~
 $ENDCMP
 #
@@ -186,9 +726,45 @@ K capacitor cap C223 22000(p) ,22 or 22n(n) ,0.022(u)
 F ~
 $ENDCMP
 #
+$CMP C223,0805
+D Unpolarized capacitor, small symbol, 22000(p) ,22 or 22n(n) ,0.022(u)
+K capacitor cap C223,0805 22000(p) ,22 or 22n(n) ,0.022(u)
+F ~
+$ENDCMP
+#
+$CMP C223,0603
+D Unpolarized capacitor, small symbol, 22000(p) ,22 or 22n(n) ,0.022(u)
+K capacitor cap C223,0603 22000(p) ,22 or 22n(n) ,0.022(u)
+F ~
+$ENDCMP
+#
+$CMP C223,0402
+D Unpolarized capacitor, small symbol, 22000(p) ,22 or 22n(n) ,0.022(u)
+K capacitor cap C223,0402 22000(p) ,22 or 22n(n) ,0.022(u)
+F ~
+$ENDCMP
+#
 $CMP C333
 D Unpolarized capacitor, small symbol, 33000(p) ,33 or 33n(n) ,0.033(u)
 K capacitor cap C333 33000(p) ,33 or 33n(n) ,0.033(u)
+F ~
+$ENDCMP
+#
+$CMP C333,0805
+D Unpolarized capacitor, small symbol, 33000(p) ,33 or 33n(n) ,0.033(u)
+K capacitor cap C333,0805 33000(p) ,33 or 33n(n) ,0.033(u)
+F ~
+$ENDCMP
+#
+$CMP C333,0603
+D Unpolarized capacitor, small symbol, 33000(p) ,33 or 33n(n) ,0.033(u)
+K capacitor cap C333,0603 33000(p) ,33 or 33n(n) ,0.033(u)
+F ~
+$ENDCMP
+#
+$CMP C333,0402
+D Unpolarized capacitor, small symbol, 33000(p) ,33 or 33n(n) ,0.033(u)
+K capacitor cap C333,0402 33000(p) ,33 or 33n(n) ,0.033(u)
 F ~
 $ENDCMP
 #
@@ -198,9 +774,45 @@ K capacitor cap C473 47000(p) ,47 or 47n(n) ,0.047(u)
 F ~
 $ENDCMP
 #
+$CMP C473,0805
+D Unpolarized capacitor, small symbol, 47000(p) ,47 or 47n(n) ,0.047(u)
+K capacitor cap C473,0805 47000(p) ,47 or 47n(n) ,0.047(u)
+F ~
+$ENDCMP
+#
+$CMP C473,0603
+D Unpolarized capacitor, small symbol, 47000(p) ,47 or 47n(n) ,0.047(u)
+K capacitor cap C473,0603 47000(p) ,47 or 47n(n) ,0.047(u)
+F ~
+$ENDCMP
+#
+$CMP C473,0402
+D Unpolarized capacitor, small symbol, 47000(p) ,47 or 47n(n) ,0.047(u)
+K capacitor cap C473,0402 47000(p) ,47 or 47n(n) ,0.047(u)
+F ~
+$ENDCMP
+#
 $CMP C683
 D Unpolarized capacitor, small symbol, 68000(p) ,68 or 68n(n) ,0.068(u)
 K capacitor cap C683 68000(p) ,68 or 68n(n) ,0.068(u)
+F ~
+$ENDCMP
+#
+$CMP C683,0805
+D Unpolarized capacitor, small symbol, 68000(p) ,68 or 68n(n) ,0.068(u)
+K capacitor cap C683,0805 68000(p) ,68 or 68n(n) ,0.068(u)
+F ~
+$ENDCMP
+#
+$CMP C683,0603
+D Unpolarized capacitor, small symbol, 68000(p) ,68 or 68n(n) ,0.068(u)
+K capacitor cap C683,0603 68000(p) ,68 or 68n(n) ,0.068(u)
+F ~
+$ENDCMP
+#
+$CMP C683,0402
+D Unpolarized capacitor, small symbol, 68000(p) ,68 or 68n(n) ,0.068(u)
+K capacitor cap C683,0402 68000(p) ,68 or 68n(n) ,0.068(u)
 F ~
 $ENDCMP
 #
@@ -210,9 +822,45 @@ K capacitor cap C104 100000(p) ,100 or 100n(n) ,0.1(u)
 F ~
 $ENDCMP
 #
+$CMP C104,0805
+D Unpolarized capacitor, small symbol, 100000(p) ,100 or 100n(n) ,0.1(u)
+K capacitor cap C104,0805 100000(p) ,100 or 100n(n) ,0.1(u)
+F ~
+$ENDCMP
+#
+$CMP C104,0603
+D Unpolarized capacitor, small symbol, 100000(p) ,100 or 100n(n) ,0.1(u)
+K capacitor cap C104,0603 100000(p) ,100 or 100n(n) ,0.1(u)
+F ~
+$ENDCMP
+#
+$CMP C104,0402
+D Unpolarized capacitor, small symbol, 100000(p) ,100 or 100n(n) ,0.1(u)
+K capacitor cap C104,0402 100000(p) ,100 or 100n(n) ,0.1(u)
+F ~
+$ENDCMP
+#
 $CMP C154
 D Unpolarized capacitor, small symbol, 150000(p) ,150 or 150n(n) ,0.15(u)
 K capacitor cap C154 150000(p) ,150 or 150n(n) ,0.15(u)
+F ~
+$ENDCMP
+#
+$CMP C154,0805
+D Unpolarized capacitor, small symbol, 150000(p) ,150 or 150n(n) ,0.15(u)
+K capacitor cap C154,0805 150000(p) ,150 or 150n(n) ,0.15(u)
+F ~
+$ENDCMP
+#
+$CMP C154,0603
+D Unpolarized capacitor, small symbol, 150000(p) ,150 or 150n(n) ,0.15(u)
+K capacitor cap C154,0603 150000(p) ,150 or 150n(n) ,0.15(u)
+F ~
+$ENDCMP
+#
+$CMP C154,0402
+D Unpolarized capacitor, small symbol, 150000(p) ,150 or 150n(n) ,0.15(u)
+K capacitor cap C154,0402 150000(p) ,150 or 150n(n) ,0.15(u)
 F ~
 $ENDCMP
 #
@@ -222,9 +870,45 @@ K capacitor cap C224 220000(p) ,220 or 220n(n) ,0.22(u)
 F ~
 $ENDCMP
 #
+$CMP C224,0805
+D Unpolarized capacitor, small symbol, 220000(p) ,220 or 220n(n) ,0.22(u)
+K capacitor cap C224,0805 220000(p) ,220 or 220n(n) ,0.22(u)
+F ~
+$ENDCMP
+#
+$CMP C224,0603
+D Unpolarized capacitor, small symbol, 220000(p) ,220 or 220n(n) ,0.22(u)
+K capacitor cap C224,0603 220000(p) ,220 or 220n(n) ,0.22(u)
+F ~
+$ENDCMP
+#
+$CMP C224,0402
+D Unpolarized capacitor, small symbol, 220000(p) ,220 or 220n(n) ,0.22(u)
+K capacitor cap C224,0402 220000(p) ,220 or 220n(n) ,0.22(u)
+F ~
+$ENDCMP
+#
 $CMP C334
 D Unpolarized capacitor, small symbol, 330000(p) ,330 or 330n(n) ,0.33(u)
 K capacitor cap C334 330000(p) ,330 or 330n(n) ,0.33(u)
+F ~
+$ENDCMP
+#
+$CMP C334,0805
+D Unpolarized capacitor, small symbol, 330000(p) ,330 or 330n(n) ,0.33(u)
+K capacitor cap C334,0805 330000(p) ,330 or 330n(n) ,0.33(u)
+F ~
+$ENDCMP
+#
+$CMP C334,0603
+D Unpolarized capacitor, small symbol, 330000(p) ,330 or 330n(n) ,0.33(u)
+K capacitor cap C334,0603 330000(p) ,330 or 330n(n) ,0.33(u)
+F ~
+$ENDCMP
+#
+$CMP C334,0402
+D Unpolarized capacitor, small symbol, 330000(p) ,330 or 330n(n) ,0.33(u)
+K capacitor cap C334,0402 330000(p) ,330 or 330n(n) ,0.33(u)
 F ~
 $ENDCMP
 #
@@ -234,9 +918,45 @@ K capacitor cap C474 470000(p) ,470 or 470n(n) ,0.47(u)
 F ~
 $ENDCMP
 #
+$CMP C474,0805
+D Unpolarized capacitor, small symbol, 470000(p) ,470 or 470n(n) ,0.47(u)
+K capacitor cap C474,0805 470000(p) ,470 or 470n(n) ,0.47(u)
+F ~
+$ENDCMP
+#
+$CMP C474,0603
+D Unpolarized capacitor, small symbol, 470000(p) ,470 or 470n(n) ,0.47(u)
+K capacitor cap C474,0603 470000(p) ,470 or 470n(n) ,0.47(u)
+F ~
+$ENDCMP
+#
+$CMP C474,0402
+D Unpolarized capacitor, small symbol, 470000(p) ,470 or 470n(n) ,0.47(u)
+K capacitor cap C474,0402 470000(p) ,470 or 470n(n) ,0.47(u)
+F ~
+$ENDCMP
+#
 $CMP C105
 D Unpolarized capacitor, small symbol, 1000000(p) ,1000(n) ,1.0(u)
 K capacitor cap C105 1000000(p) ,1000(n) ,1.0(u)
+F ~
+$ENDCMP
+#
+$CMP C105,0805
+D Unpolarized capacitor, small symbol, 1000000(p) ,1000(n) ,1.0(u)
+K capacitor cap C105,0805 1000000(p) ,1000(n) ,1.0(u)
+F ~
+$ENDCMP
+#
+$CMP C105,0603
+D Unpolarized capacitor, small symbol, 1000000(p) ,1000(n) ,1.0(u)
+K capacitor cap C105,0603 1000000(p) ,1000(n) ,1.0(u)
+F ~
+$ENDCMP
+#
+$CMP C105,0402
+D Unpolarized capacitor, small symbol, 1000000(p) ,1000(n) ,1.0(u)
+K capacitor cap C105,0402 1000000(p) ,1000(n) ,1.0(u)
 F ~
 $ENDCMP
 #
@@ -246,15 +966,45 @@ K capacitor cap C106 10000000(p) ,10000(n) ,10(u)
 F ~
 $ENDCMP
 #
+$CMP C106,0805
+D Unpolarized capacitor, small symbol, 10000000(p) ,10000(n) ,10(u)
+K capacitor cap C106,0805 10000000(p) ,10000(n) ,10(u)
+F ~
+$ENDCMP
+#
+$CMP C106,0603
+D Unpolarized capacitor, small symbol, 10000000(p) ,10000(n) ,10(u)
+K capacitor cap C106,0603 10000000(p) ,10000(n) ,10(u)
+F ~
+$ENDCMP
+#
+$CMP C106,0402
+D Unpolarized capacitor, small symbol, 10000000(p) ,10000(n) ,10(u)
+K capacitor cap C106,0402 10000000(p) ,10000(n) ,10(u)
+F ~
+$ENDCMP
+#
 $CMP C106-50v
 D Unpolarized capacitor, small symbol, 10000000(p) ,10000(n) ,10(u)
 K capacitor cap C106-50v 10000000(p) ,10000(n) ,10(u)
 F ~
 $ENDCMP
 #
+$CMP C106-50v,1206
+D Unpolarized capacitor, small symbol, 10000000(p) ,10000(n) ,10(u)
+K capacitor cap C106-50v,1206 10000000(p) ,10000(n) ,10(u)
+F ~
+$ENDCMP
+#
 $CMP C104-50v
 D Unpolarized capacitor, small symbol, 100000(p) ,100 or 100n(n) ,0.1(u)
 K capacitor cap C104-50v 100000(p) ,100 or 100n(n) ,0.1(u)
+F ~
+$ENDCMP
+#
+$CMP C104-50v,1206
+D Unpolarized capacitor, small symbol, 100000(p) ,100 or 100n(n) ,0.1(u)
+K capacitor cap C104-50v,1206 100000(p) ,100 or 100n(n) ,0.1(u)
 F ~
 $ENDCMP
 #
