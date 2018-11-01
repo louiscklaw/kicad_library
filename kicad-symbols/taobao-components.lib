@@ -2225,4 +2225,27 @@ X I/O 6 650 100 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# waveshare-swd-pinsocket
+#
+DEF waveshare-swd-pinsocket U 0 40 Y Y 1 F N
+F0 "U" 0 -300 50 H V C CNN
+F1 "waveshare-swd-pinsocket" 0 -350 50 H V C CNN
+F2 "" -50 -250 50 H I C CNN
+F3 "" -50 -250 50 H I C CNN
+$FPLIST
+ *waveshare-swd-pinsocket*
+$ENDFPLIST
+DRAW
+S -300 250 300 -250 0 1 0 f
+X RST 1 500 150 200 L 50 50 1 1 P
+X SWDIO 2 -500 150 200 R 50 50 1 1 P
+X GND 3 500 50 200 L 50 50 1 1 P
+X GND 4 -500 50 200 R 50 50 1 1 P
+X SWIM 5 500 -50 200 L 50 50 1 1 P
+X SWCLK 6 -500 -50 200 R 50 50 1 1 P
+X VCC 7 500 -150 200 L 50 50 1 1 P
+X VCC 8 -500 -150 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library
