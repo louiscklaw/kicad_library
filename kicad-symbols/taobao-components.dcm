@@ -48,6 +48,12 @@ K transistor NPN
 F ~
 $ENDCMP
 #
+$CMP O24M_SHIELD
+D Unpolarized capacitor, small symbol,
+K capacitor cap O10M
+F ~
+$ENDCMP
+#
 $CMP OMRON_G3MB-202P
 F https://www.digikey.com/product-detail/en/omron-automation-and-safety/G3MB-202P-DC5/Z909-ND/206380
 $ENDCMP
