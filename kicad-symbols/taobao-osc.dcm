@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LFXTAL009678Reel
+D Unpolarized capacitor, small symbol,
+K capacitor cap O24M
+F ~
+$ENDCMP
+#
 $CMP O10M
 D Unpolarized capacitor, small symbol,
 K capacitor cap O10M
