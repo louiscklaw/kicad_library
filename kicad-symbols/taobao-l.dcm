@@ -6,25 +6,25 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_1.0uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
 $CMP L_1.5nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_1.8uH
+$CMP L_3.3nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_100nH
+$CMP L_4.7nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_5.6nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -36,7 +36,37 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_10uH
+$CMP L_15nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_22nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_33nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_47nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_68uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_100nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -48,19 +78,49 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_12uH
+$CMP L_220nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_15nH
+$CMP L_270nH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_15uH
+$CMP L_330nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_470nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_680nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_820nH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_1.0uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_1.8uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -78,79 +138,13 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_220nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_22nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_22uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_270nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_3.3nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
 $CMP L_3.3uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_330nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_33nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_33uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_4.7nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_470nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_47nH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic
-F ~
-$ENDCMP
-#
-$CMP L_5.6nH
+$CMP L_4.7uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -168,19 +162,37 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_680nH
+$CMP L_10uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_68uH
+$CMP L_12uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_820nH
+$CMP L_15uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_22uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_33uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L_47uH
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
