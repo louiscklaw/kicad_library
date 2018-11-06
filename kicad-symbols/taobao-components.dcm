@@ -46,6 +46,12 @@ K Single Gate Buff Tri-State LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP AP2305BGN
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
 $CMP Audio_plug
 D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
 K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
