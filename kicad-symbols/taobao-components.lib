@@ -2558,7 +2558,7 @@ ENDDEF
 DEF allwinner-V3S-multipart U 0 40 Y Y 15 F N
 F0 "U" 0 -550 50 H V C CNN
 F1 "allwinner-V3S-multipart" 0 -650 50 H V C CNN
-F2 "" -500 -700 50 H I C CNN
+F2 "footprint-lib:v3s-elqfp128" -500 -700 50 H I C CNN
 F3 "" -500 -700 50 H I C CNN
 $FPLIST
  footprint-lib.pretty:v3s-elqfp128
