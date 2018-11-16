@@ -1,4 +1,4 @@
-(module OMRON-G3MB-202P (layer F.Cu) (tedit 5BDC0501)
+(module OMRON-G3MB-202P (layer F.Cu) (tedit 5BE6D9F9)
   (descr "relay, 34.51series")
   (fp_text reference U2 (at 0 -3.8) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
