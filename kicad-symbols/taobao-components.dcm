@@ -55,6 +55,7 @@ $ENDCMP
 $CMP Audio_plug
 D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
 K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+F https://detail.tmall.com/item.htm?id=39181232738&spm=a1z0k.7628869.0.0.5b3b4562nNSM0k&_u=t2dmg8j26111
 $ENDCMP
 #
 $CMP D772
@@ -83,6 +84,11 @@ $CMP R49R9,0603
 D Resistor, small symbol
 K R resistor
 F ~
+$ENDCMP
+#
+$CMP RTL8723BS
+K wifi 8723
+F https://item.taobao.com/item.htm?spm=a230r.1.14.4.6d442d26wF681H&id=562166002176&ns=1&abbucket=18#detail
 $ENDCMP
 #
 #End Doc Library
