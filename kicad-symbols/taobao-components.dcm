@@ -70,6 +70,10 @@ K transistor NPN
 F ~
 $ENDCMP
 #
+$CMP NS2009
+F https://detail.tmall.com/item.htm?spm=a230r.1.14.1.5ffb4135GWSPJ6&id=562984265061&cm_id=140105335569ed55e27b&abbucket=18
+$ENDCMP
+#
 $CMP O24M_SHIELD
 D Unpolarized capacitor, small symbol,
 K capacitor cap O10M
