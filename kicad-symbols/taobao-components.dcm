@@ -84,6 +84,10 @@ $CMP OMRON_G3MB-202P
 F https://www.digikey.com/product-detail/en/omron-automation-and-safety/G3MB-202P-DC5/Z909-ND/206380
 $ENDCMP
 #
+$CMP PT4101
+F https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.2.8e7b6c67Z3HcWs&id=41297185685&areaId=441900&user_id=2207691322&cat_id=2&is_b=1&rn=015661076501747266d994c3649992db
+$ENDCMP
+#
 $CMP R49R9,0603
 D Resistor, small symbol
 K R resistor
