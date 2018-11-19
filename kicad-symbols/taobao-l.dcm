@@ -120,7 +120,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_1.0uH_POWER
+$CMP L_1.0uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -138,7 +138,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_2.2uH_POWER
+$CMP L_2.2uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -156,7 +156,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_3.3uH_POWER
+$CMP L_3.3uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -168,7 +168,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_4.7uH_POWER
+$CMP L_4.7uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -186,7 +186,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_6.8uH_POWER
+$CMP L_6.8uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -198,7 +198,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_10uH_POWER
+$CMP L_10uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -222,7 +222,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_22uH_POWER
+$CMP L_22uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -234,7 +234,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_33uH_POWER
+$CMP L_33uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
@@ -246,7 +246,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP L_47uH_POWER
+$CMP L_47uH_CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic
 F ~
