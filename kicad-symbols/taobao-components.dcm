@@ -52,6 +52,11 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
+$CMP AT45DB161D
+K AT45DB161D-SU
+F https://detail.tmall.com/item.htm?spm=a230r.1.14.4.277b501f27PIOx&id=36779751918&cm_id=140105335569ed55e27b&abbucket=18
+$ENDCMP
+#
 $CMP Audio_plug
 D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
 K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
