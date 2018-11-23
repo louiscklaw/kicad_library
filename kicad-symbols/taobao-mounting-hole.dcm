@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOUNT_M2
+D Mounting Hole
+K mounting hole MOUNT_M2
+F ~
+$ENDCMP
+#
+$CMP MOUNT_M2.5
+D Mounting Hole
+K mounting hole MOUNT_M2.5
+F ~
+$ENDCMP
+#
+$CMP MOUNT_M3
+D Mounting Hole
+K mounting hole MOUNT_M3
+F ~
+$ENDCMP
+#
+$CMP MOUNT_M4
+D Mounting Hole
+K mounting hole MOUNT_M4
+F ~
+$ENDCMP
+#
+$CMP MOUNT_M5
+D Mounting Hole
+K mounting hole MOUNT_M5
+F ~
+$ENDCMP
+#
+$CMP MOUNT_M6
+D Mounting Hole
+K mounting hole MOUNT_M6
+F ~
+$ENDCMP
+#
+#End Doc Library
