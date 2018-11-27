@@ -1,4 +1,4 @@
-(module Conn_RPi_02_20 (layer F.Cu) (tedit 5BFD99A0)
+(module Conn_RPi_02_20 (layer F.Cu) (tedit 5BFD9A2B)
   (descr "Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 2x20 2.54mm double row")
   (fp_text reference J1 (at -1.27 -2.77) (layer F.SilkS)

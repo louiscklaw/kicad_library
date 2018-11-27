@@ -1,4 +1,4 @@
-(module Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal (layer F.Cu) (tedit 5BF29946)
+(module Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal locked (layer F.Cu) (tedit 5BFDB046)
   (descr "Molex FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator")
   (tags "connector Hirose  top entry")
   (attr smd)
@@ -88,5 +88,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/fpc.3dshapes/FH12A-40S-0.5SH.stp
+    (offset (xyz 16.5 -20.5 0.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 90 0))
   )
 )
