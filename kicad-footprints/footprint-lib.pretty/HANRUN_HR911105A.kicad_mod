@@ -1,4 +1,4 @@
-(module HANRUN_HR911105A (layer F.Cu) (tedit 5BE01E45)
+(module HANRUN_HR911105A (layer F.Cu) (tedit 5BFD8FEE)
   (fp_text reference HANRUN_HR911105A (at -4.20901 -12.5028) (layer F.SilkS)
     (effects (font (size 1.60765 1.60765) (thickness 0.05)))
   )
@@ -37,4 +37,9 @@
   (pad 16 thru_hole circle (at -7.745 3.05 270) (size 2.8 2.8) (drill 1.63) (layers *.Cu *.Mask))
   (pad Hole np_thru_hole circle (at -5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
   (pad Hole np_thru_hole circle (at 5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/rj45_ethernet/rj45_ETH.wrl
+    (offset (xyz 0 0 -0.5))
+    (scale (xyz 4.8 4.8 4.8))
+    (rotate (xyz 0 0 180))
+  )
 )
