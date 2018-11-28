@@ -1,4 +1,4 @@
-(module SO-8_5.3x6.2mm_P1.27mm locked (layer F.Cu) (tedit 5BFDB1FD)
+(module SO-8_5.3x6.2mm_P1.27mm locked (layer F.Cu) (tedit 5BFEDFD5)
   (descr "8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)")
   (tags "SOIC 1.27")
   (attr smd)
