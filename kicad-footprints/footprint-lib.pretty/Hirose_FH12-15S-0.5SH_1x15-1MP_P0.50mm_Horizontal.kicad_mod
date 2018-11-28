@@ -1,4 +1,4 @@
-(module Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal locked (layer F.Cu) (tedit 5BFEDBA7)
+(module Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal locked (layer F.Cu) (tedit 5BFEDEB0)
   (descr "Molex FH12, FFC/FPC connector, FH12-15S-0.5SH, 15 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator")
   (tags "connector Hirose  top entry")
   (attr smd)
@@ -61,9 +61,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/logic/_workspace/kicad/kicad_library/kicad-packages3d/fpc.3dshapes/WM10967TR-ND .stp"
-    (offset (xyz 0 0.5 0))
-    (scale (xyz 0.5 0.5 0.5))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/fpc.3dshapes/ZF5S-15-01-T-WT.stp
+    (offset (xyz 0 -3.5 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )
