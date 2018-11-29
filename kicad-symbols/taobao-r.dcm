@@ -816,6 +816,12 @@ K R r res resistor R221 220
 F ~
 $ENDCMP
 #
+$CMP R221,1206
+D Resistor
+K R r res resistor R221,1206 220
+F ~
+$ENDCMP
+#
 $CMP R221,0603
 D Resistor
 K R r res resistor R221,0603 220
