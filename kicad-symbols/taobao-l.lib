@@ -1647,7 +1647,7 @@ ENDDEF
 DEF L_1.0uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_1.0uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -1832,7 +1832,7 @@ ENDDEF
 DEF L_2.2uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_2.2uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2017,7 +2017,7 @@ ENDDEF
 DEF L_3.3uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_3.3uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2120,7 +2120,7 @@ ENDDEF
 DEF L_4.7uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_4.7uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2305,7 +2305,7 @@ ENDDEF
 DEF L_6.8uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_6.8uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2408,7 +2408,7 @@ ENDDEF
 DEF L_10uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_10uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2675,7 +2675,7 @@ ENDDEF
 DEF L_22uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_22uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2778,7 +2778,7 @@ ENDDEF
 DEF L_33uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_33uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
@@ -2881,7 +2881,7 @@ ENDDEF
 DEF L_47uH,CD43 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_47uH,CD43" 30 -40 50 H V L CNN
-F2 "Inductor_SMD:*CD43*" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD43*
