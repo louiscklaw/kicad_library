@@ -1,15 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP +3.3V_0
-D Power flag, +3.3V
-K power-flag
-$ENDCMP
-#
-$CMP +3V3A
-D Power flag, +3.3V
-K power-flag
-$ENDCMP
-#
 $CMP 1N5824
 D Schottky diode, small symbol
 K diode Schottky
