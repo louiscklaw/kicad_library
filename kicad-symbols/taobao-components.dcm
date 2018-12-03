@@ -53,6 +53,12 @@ K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
 F https://detail.tmall.com/item.htm?id=39181232738&spm=a1z0k.7628869.0.0.5b3b4562nNSM0k&_u=t2dmg8j26111
 $ENDCMP
 #
+$CMP BC817-40(SOT23)
+D NPN transistor, base/emitter/collector
+K transistor NPN
+F ~
+$ENDCMP
+#
 $CMP D772
 D PNP transistor, base/collector/emitter
 K transistor PNP
@@ -81,6 +87,12 @@ $ENDCMP
 #
 $CMP PT4101
 F https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.2.8e7b6c67Z3HcWs&id=41297185685&areaId=441900&user_id=2207691322&cat_id=2&is_b=1&rn=015661076501747266d994c3649992db
+$ENDCMP
+#
+$CMP Q_PMOS_GSD
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
 $ENDCMP
 #
 $CMP R49R9,0603

@@ -192,6 +192,18 @@ K capacitor cap C22pf,0402
 F ~
 $ENDCMP
 #
+$CMP C27pf
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C27pf 
+F ~
+$ENDCMP
+#
+$CMP C27pf,0603
+D Unpolarized capacitor, small symbol, 
+K capacitor cap C27pf,0603 
+F ~
+$ENDCMP
+#
 $CMP C30pf
 D Unpolarized capacitor, small symbol, 
 K capacitor cap C30pf 
