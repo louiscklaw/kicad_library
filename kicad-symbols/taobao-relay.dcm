@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SLA-05VDC-SL-C
+D Omron G5LE relay, Miniature Single Pole, SPDT, 10A
+K Miniature Single Pole Relay
+F http://www.omron.com/ecb/products/pdf/en-g5le.pdf
+$ENDCMP
+#
+#End Doc Library
