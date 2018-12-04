@@ -1,4 +1,4 @@
-(module Conn_RPi_02_20 (layer F.Cu) (tedit 5C06BA29)
+(module Conn_RPi_02_20 (layer F.Cu) (tedit 5C06BF6C)
   (descr "Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 2x20 2.54mm double row")
   (fp_text reference J1 (at 0 -26.9) (layer F.SilkS)
@@ -87,7 +87,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/logic/_workspace/kicad/kicad_library/kicad-packages3d/RaspberryPi2 STEP214.STEP"
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/dummy_raspberry_pi_3.STEP
     (offset (xyz 0 -10.5 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 90))
