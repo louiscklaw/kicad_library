@@ -1,4 +1,4 @@
-(module Arduino_Nano (layer F.Cu) (tedit 5C069C0E)
+(module Arduino_Nano (layer F.Cu) (tedit 5C06BA70)
   (descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
   (tags "Arduino Nano")
   (fp_text reference U1 (at 7.62 -5.08) (layer F.SilkS)
