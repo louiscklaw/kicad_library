@@ -12,7 +12,7 @@ K 1N5819 SS14 diode
 F ~
 $ENDCMP
 #
-$CMP SD_M1
+$CMP SD_1N4001_M1
 D 50V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
 K M1 diode
 F ~
@@ -78,15 +78,15 @@ K SS110 diode
 F ~
 $ENDCMP
 #
-$CMP SD_SS220
-D 200V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K SS220 diode
-F ~
-$ENDCMP
-#
 $CMP SD_SS210
 D 100V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
 K SS210 diode
+F ~
+$ENDCMP
+#
+$CMP SD_SS220
+D 200V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K SS220 diode
 F ~
 $ENDCMP
 #
