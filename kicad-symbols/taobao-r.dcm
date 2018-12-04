@@ -2430,4 +2430,22 @@ K R r res resistor R913,0402 91K
 F ~
 $ENDCMP
 #
+$CMP R106
+D Resistor
+K R r res resistor R106 10M
+F ~
+$ENDCMP
+#
+$CMP R106,0603
+D Resistor
+K R r res resistor R106,0603 10M
+F ~
+$ENDCMP
+#
+$CMP R106,0402
+D Resistor
+K R r res resistor R106,0402 10M
+F ~
+$ENDCMP
+#
 #End Doc Library
