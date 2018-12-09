@@ -36,6 +36,11 @@ K Single Gate Buff Tri-State LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP AMS1085-ADJ
+D 3A LOW DROPOUT VOLTAGE REGULATOR
+F http://www.advanced-monolithic.com/pdf/ds1085.pdf
+$ENDCMP
+#
 $CMP AP2305BGN
 D P-MOSFET transistor, gate/source/drain
 K transistor PMOS P-MOS P-MOSFET
