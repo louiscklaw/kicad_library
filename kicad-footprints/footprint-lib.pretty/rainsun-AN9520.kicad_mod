@@ -1,4 +1,4 @@
-(module rainsun-AN9520 (layer F.Cu) (tedit 5C12AB1B)
+(module rainsun-AN9520 (layer F.Cu) (tedit 5C14B02A)
   (fp_text reference REF** (at 0 4.826) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,4 +16,9 @@
   (fp_line (start 14 -4) (end -7 -4) (layer F.Fab) (width 0.1))
   (pad 1 smd roundrect (at -4.75 0 90) (size 3 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad ~ smd roundrect (at 4.75 0 90) (size 3 2.4) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/rainsun-AN9520.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz -90 0 0))
+  )
 )
