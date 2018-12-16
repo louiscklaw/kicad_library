@@ -46,6 +46,12 @@ K Single Gate Buff Tri-State LVC CMOS
 F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
 $ENDCMP
 #
+$CMP A5W-K
+D IM Relay, standard version, monostable, switching current 2/5A, power 60W/62.5VA, voltage 220VDC/250VAC, THT package
+K relay monostable
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=108-98001&DocType=SS&DocLang=EN
+$ENDCMP
+#
 $CMP AMS1085-ADJ
 D 3A LOW DROPOUT VOLTAGE REGULATOR
 F http://www.advanced-monolithic.com/pdf/ds1085.pdf
