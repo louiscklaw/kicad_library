@@ -1,99 +1,165 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LFXTAL009678Reel
-D Unpolarized capacitor, small symbol,
-K capacitor cap O24M
+$CMP O_10M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_10M HC49
 F ~
 $ENDCMP
 #
-$CMP O10M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O10M
+$CMP O_26M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_26M,3225 OSC3225
 F ~
 $ENDCMP
 #
-$CMP O11.0592M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O11.0592M
+$CMP O_24M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_24M HC49
 F ~
 $ENDCMP
 #
-$CMP O12.288M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O12.288M
+$CMP O_12.288M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_12.288M HC49
 F ~
 $ENDCMP
 #
-$CMP O12M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O12M
+$CMP O_12M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_12M,3225 OSC3225
 F ~
 $ENDCMP
 #
-$CMP O16M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O16M
+$CMP O_25M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_25M,3225 OSC3225
 F ~
 $ENDCMP
 #
-$CMP O20M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O20M
+$CMP O_32M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_32M,3225 OSC3225
 F ~
 $ENDCMP
 #
-$CMP O22.1184M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O22.1184M
+$CMP O_20M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_20M HC49
 F ~
 $ENDCMP
 #
-$CMP O24M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O24M
+$CMP O_MC-146
+D Unpolarized capacitor, small symbol, MC-146
+K capacitor cap O_MC-146 MC-146
 F ~
 $ENDCMP
 #
-$CMP O25M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O25M
+$CMP O_12M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_12M HC49
 F ~
 $ENDCMP
 #
-$CMP O48M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O48M
+$CMP O_4M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_4M HC49
 F ~
 $ENDCMP
 #
-$CMP O4M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O4M
+$CMP O_11.0592M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_11.0592M HC49
 F ~
 $ENDCMP
 #
-$CMP O6M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O6M
+$CMP O_24M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_24M,3225 OSC3225
 F ~
 $ENDCMP
 #
-$CMP O7.3728M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O7.3728M
+$CMP O_32.768K
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_32.768K HC49
 F ~
 $ENDCMP
 #
-$CMP O8M
-D Unpolarized capacitor, small symbol,
-K capacitor cap O8M
+$CMP O_25M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_25M HC49
 F ~
 $ENDCMP
 #
-$CMP O_EPSON_32.768K
-D kHz RANGE CRYSTAL UNIT,
-K capacitor cap O32.768K EPSON
-F https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306&lang=en
+$CMP O_MC-156
+D Unpolarized capacitor, small symbol, MC-156
+K capacitor cap O_MC-156 MC-156
+F ~
+$ENDCMP
+#
+$CMP O_16M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_16M,3225 OSC3225
+F ~
+$ENDCMP
+#
+$CMP O_48M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_48M,3225 OSC3225
+F ~
+$ENDCMP
+#
+$CMP O_20M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_20M,3225 OSC3225
+F ~
+$ENDCMP
+#
+$CMP O_40M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_40M,3225 OSC3225
+F ~
+$ENDCMP
+#
+$CMP O_27M,3225
+D Unpolarized capacitor, small symbol, OSC3225
+K capacitor cap O_27M,3225 OSC3225
+F ~
+$ENDCMP
+#
+$CMP O_16M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_16M HC49
+F ~
+$ENDCMP
+#
+$CMP O_6M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_6M HC49
+F ~
+$ENDCMP
+#
+$CMP O_22.1184M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_22.1184M HC49
+F ~
+$ENDCMP
+#
+$CMP O_8M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_8M HC49
+F ~
+$ENDCMP
+#
+$CMP O_7.3728M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_7.3728M HC49
+F ~
+$ENDCMP
+#
+$CMP O_48M
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_48M HC49
+F ~
 $ENDCMP
 #
 #End Doc Library
