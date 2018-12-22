@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AO3423
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F ~
+$ENDCMP
+#
 $CMP BSN20
 D N-MOSFET transistor, gate/source/drain
 K transistor NMOS N-MOS N-MOSFET
