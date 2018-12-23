@@ -126,4 +126,10 @@ K ES1M diode
 F ~
 $ENDCMP
 #
+$CMP SD_B5819WS
+D , Schottky diode, small symbol, 肖特基二极管 ,
+K  diode
+F ~
+$ENDCMP
+#
 #End Doc Library
