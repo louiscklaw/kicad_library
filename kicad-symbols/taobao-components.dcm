@@ -12,9 +12,45 @@ K transistor NMOS N-MOS N-MOSFET
 F ~
 $ENDCMP
 #
+$CMP C_NC,0402
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0402 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
+$CMP C_NC,0603
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0603 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
+$CMP C_NC,0805
+D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
+K capacitor cap C101,0805 100(p) ,0.1(n) ,0.0001(u)
+F ~
+$ENDCMP
+#
 $CMP IR_MODULE
 D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
+F ~
+$ENDCMP
+#
+$CMP R_NC,0402
+D Resistor
+K R r res resistor R103,0402 10K
+F ~
+$ENDCMP
+#
+$CMP R_NC,0603
+D Resistor
+K R r res resistor R106,0603 10M
+F ~
+$ENDCMP
+#
+$CMP R_NC,0805
+D Resistor
+K R r res resistor R103,0805 10K
 F ~
 $ENDCMP
 #
