@@ -1,0 +1,3 @@
+[submodule "kicad-footprints/Panelization.pretty"]
+	path = kicad-footprints/Panelization.pretty
+	url = git@github.com:madworm/Panelization.pretty.git
