@@ -10,3 +10,15 @@
 [submodule "SparkFun-KiCad-Libraries"]
 	path = SparkFun-KiCad-Libraries
 	url = git@github.com:sparkfun/SparkFun-KiCad-Libraries.git
+[submodule "tinkerforge-kicad-libraries"]
+	path = tinkerforge-kicad-libraries
+	url = git@github.com:Tinkerforge/kicad-libraries.git
+[submodule "freetronics_kicad_library"]
+	path = freetronics_kicad_library
+	url = git@github.com:freetronics/freetronics_kicad_library.git
+[submodule "ab2-kicad-library"]
+	path = ab2-kicad-library
+	url = git@github.com:ab2tech/KiCad.git
+[submodule "stm32-kicad-lib"]
+	path = stm32-kicad-lib
+	url = git@github.com:esden/stm32-kicad-lib.git
