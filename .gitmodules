@@ -1,3 +1,12 @@
 [submodule "kicad-footprints/Panelization.pretty"]
 	path = kicad-footprints/Panelization.pretty
 	url = git@github.com:madworm/Panelization.pretty.git
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = git@github.com:digikey/digikey-kicad-library.git
+[submodule "olimex-kicad"]
+	path = olimex-kicad
+	url = git@github.com:OLIMEX/KiCAD.git
+[submodule "SparkFun-KiCad-Libraries"]
+	path = SparkFun-KiCad-Libraries
+	url = git@github.com:sparkfun/SparkFun-KiCad-Libraries.git
