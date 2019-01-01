@@ -54,4 +54,10 @@ K R r res resistor R103,0805 10K
 F ~
 $ENDCMP
 #
+$CMP UPZ1608E221-2R2TF
+D Ferrite bead, small symbol
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
 #End Doc Library
