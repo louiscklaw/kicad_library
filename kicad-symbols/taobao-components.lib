@@ -4922,6 +4922,34 @@ X Vdd-1V2-sys 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
+# Vdd_33_usb
+#
+DEF Vdd_33_usb #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Vdd_33_usb" 0 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 50 50 50 N
+P 2 0 1 0 0 0 0 50 N
+X Vdd_33_usb 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Vdd_50_usb
+#
+DEF Vdd_50_usb #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Vdd_50_usb" 0 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 50 50 50 N
+P 2 0 1 0 0 0 0 50 N
+X Vdd_50_usb 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
 # Vdd_phy
 #
 DEF Vdd_phy #PWR 0 0 Y Y 1 F P
@@ -4933,6 +4961,20 @@ DRAW
 P 2 0 1 0 -50 50 50 50 N
 P 2 0 1 0 0 0 0 50 N
 X Vdd_phy 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Vdd_usb
+#
+DEF Vdd_usb #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "Vdd_usb" 0 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 50 50 50 N
+P 2 0 1 0 0 0 0 50 N
+X Vdd_usb 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
