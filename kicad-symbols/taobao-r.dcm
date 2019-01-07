@@ -864,6 +864,54 @@ K R r res resistor R102,0402 1K
 F ~
 $ENDCMP
 #
+$CMP R1R0
+D Resistor
+K R r res resistor R1R0 1
+F ~
+$ENDCMP
+#
+$CMP R1R0,0805
+D Resistor
+K R r res resistor R1R0,0805 1
+F ~
+$ENDCMP
+#
+$CMP R1R0,0603
+D Resistor
+K R r res resistor R1R0,0603 1
+F ~
+$ENDCMP
+#
+$CMP R1R0,0402
+D Resistor
+K R r res resistor R1R0,0402 1
+F ~
+$ENDCMP
+#
+$CMP R2R2
+D Resistor
+K R r res resistor R2R2 2.2
+F ~
+$ENDCMP
+#
+$CMP R2R2,0805
+D Resistor
+K R r res resistor R2R2,0805 2.2
+F ~
+$ENDCMP
+#
+$CMP R2R2,0603
+D Resistor
+K R r res resistor R2R2,0603 2.2
+F ~
+$ENDCMP
+#
+$CMP R2R2,0402
+D Resistor
+K R r res resistor R2R2,0402 2.2
+F ~
+$ENDCMP
+#
 $CMP R222
 D Resistor
 K R r res resistor R222 2.2K

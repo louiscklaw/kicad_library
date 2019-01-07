@@ -990,6 +990,12 @@ K capacitor cap C225 2200000(p) ,2200(n) ,2.2(u)
 F ~
 $ENDCMP
 #
+$CMP C225,0603
+D Unpolarized capacitor, small symbol, 2200000(p) ,2200(n) ,2.2(u)
+K capacitor cap C225,0603 2200000(p) ,2200(n) ,2.2(u)
+F ~
+$ENDCMP
+#
 $CMP C225,1206
 D Unpolarized capacitor, small symbol, 2200000(p) ,2200(n) ,2.2(u)
 K capacitor cap C225,1206 2200000(p) ,2200(n) ,2.2(u)
