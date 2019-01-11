@@ -22,3 +22,6 @@
 [submodule "stm32-kicad-lib"]
 	path = stm32-kicad-lib
 	url = git@github.com:esden/stm32-kicad-lib.git
+[submodule "ESP32-kiCAD-Footprints"]
+	path = ESP32-kiCAD-Footprints
+	url = git@github.com:adamjvr/ESP32-kiCAD-Footprints.git
