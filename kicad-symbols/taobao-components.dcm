@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +12V2
+D Power flag, +12V
+K power-flag
+$ENDCMP
+#
 $CMP AGND
 D Power flag, analog ground
 K power-flag
