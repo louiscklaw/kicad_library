@@ -5,6 +5,11 @@ D Power flag, +12V
 K power-flag
 $ENDCMP
 #
+$CMP +5V_PI_SRC
+D Power flag, +5V
+K power-flag
+$ENDCMP
+#
 $CMP AGND
 D Power flag, analog ground
 K power-flag
