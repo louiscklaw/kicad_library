@@ -50,6 +50,12 @@ K capacitor cap C101,0805 100(p) ,0.1(n) ,0.0001(u)
 F ~
 $ENDCMP
 #
+$CMP Conn_ENDSTOP
+D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP GND_STM32
 D Power flag, ground
 K power-flag
