@@ -5,6 +5,11 @@ D Power flag, +12V
 K power-flag
 $ENDCMP
 #
+$CMP +3V3_STM32
+D Power flag, +12V
+K power-flag
+$ENDCMP
+#
 $CMP +5V_PI_SRC
 D Power flag, +5V
 K power-flag
@@ -43,6 +48,11 @@ $CMP C_NC,0805
 D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
 K capacitor cap C101,0805 100(p) ,0.1(n) ,0.0001(u)
 F ~
+$ENDCMP
+#
+$CMP GND_STM32
+D Power flag, ground
+K power-flag
 $ENDCMP
 #
 $CMP IR_MODULE
