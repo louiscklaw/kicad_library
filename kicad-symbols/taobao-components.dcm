@@ -67,6 +67,11 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP PGND
+D Power flag, ground
+K power-flag
+$ENDCMP
+#
 $CMP R_NC,0402
 D Resistor
 K R r res resistor R103,0402 10K
@@ -83,6 +88,11 @@ $CMP R_NC,0805
 D Resistor
 K R r res resistor R103,0805 10K
 F ~
+$ENDCMP
+#
+$CMP SGND
+D Power flag, ground
+K power-flag
 $ENDCMP
 #
 $CMP UPZ1608E221-2R2TF
