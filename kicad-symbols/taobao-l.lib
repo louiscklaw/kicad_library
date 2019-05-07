@@ -90,7 +90,7 @@ ENDDEF
 DEF L_100uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_100uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -130,7 +130,7 @@ ENDDEF
 DEF L_100uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_100uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -150,7 +150,7 @@ ENDDEF
 DEF L_100uH,CD32 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_100uH,CD32" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_3x1.4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD32*
@@ -275,7 +275,7 @@ ENDDEF
 DEF L_10uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_10uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -295,7 +295,7 @@ ENDDEF
 DEF L_10uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_10uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -335,7 +335,7 @@ ENDDEF
 DEF L_10uH,CD32 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_10uH,CD32" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_3x1.4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD32*
@@ -436,7 +436,7 @@ ENDDEF
 DEF L_150uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_150uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -559,7 +559,7 @@ ENDDEF
 DEF L_15uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_15uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -579,7 +579,7 @@ ENDDEF
 DEF L_15uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_15uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -807,7 +807,7 @@ ENDDEF
 DEF L_2.2uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_2.2uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -847,7 +847,7 @@ ENDDEF
 DEF L_2.2uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_2.2uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -867,7 +867,7 @@ ENDDEF
 DEF L_2.2uH,CD32 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_2.2uH,CD32" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_3x1.4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD32*
@@ -969,7 +969,7 @@ ENDDEF
 DEF L_220uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_220uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -989,7 +989,7 @@ ENDDEF
 DEF L_220uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_220uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1133,7 +1133,7 @@ ENDDEF
 DEF L_22uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_22uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1153,7 +1153,7 @@ ENDDEF
 DEF L_22uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_22uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1318,7 +1318,7 @@ ENDDEF
 DEF L_3.3uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_3.3uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1338,7 +1338,7 @@ ENDDEF
 DEF L_3.3uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_3.3uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1440,7 +1440,7 @@ ENDDEF
 DEF L_330uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_330uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1460,7 +1460,7 @@ ENDDEF
 DEF L_330uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_330uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1625,7 +1625,7 @@ ENDDEF
 DEF L_33uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_33uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1645,7 +1645,7 @@ ENDDEF
 DEF L_33uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_33uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1810,7 +1810,7 @@ ENDDEF
 DEF L_4.7uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_4.7uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1830,7 +1830,7 @@ ENDDEF
 DEF L_4.7uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_4.7uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -1953,7 +1953,7 @@ ENDDEF
 DEF L_470uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_470uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -1973,7 +1973,7 @@ ENDDEF
 DEF L_470uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_470uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -2139,7 +2139,7 @@ ENDDEF
 DEF L_47uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_47uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -2159,7 +2159,7 @@ ENDDEF
 DEF L_47uH,CD32 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_47uH,CD32" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_3x1.4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD32*
@@ -2179,7 +2179,7 @@ ENDDEF
 DEF L_47uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_47uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -2342,7 +2342,7 @@ ENDDEF
 DEF L_6.8uH,5A,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_6.8uH,5A,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -2362,7 +2362,7 @@ ENDDEF
 DEF L_6.8uH,5A,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_6.8uH,5A,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
@@ -2525,7 +2525,7 @@ ENDDEF
 DEF L_68uH,CD54 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_68uH,CD54" 30 -40 50 H V L CNN
-F2 "w_smd_inductors:inductor_smd_4.8x2.8mm" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_5x4mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD54*
@@ -2545,7 +2545,7 @@ ENDDEF
 DEF L_68uH,CD74 L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
 F1 "L_68uH,CD74" 30 -40 50 H V L CNN
-F2 "" 0 0 50 H I C CNN
+F2 "w_smd_inductors:inductor_smd_6x4.3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  L*CD74*
