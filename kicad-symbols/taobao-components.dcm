@@ -95,9 +95,21 @@ D Power flag, ground
 K power-flag
 $ENDCMP
 #
+$CMP STP55NF06
+D N-MOSFET transistor, gate/drain/source
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
 $CMP UPZ1608E221-2R2TF
 D Ferrite bead, small symbol
 K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
+$CMP WSK220N04
+D N-MOSFET transistor, gate/drain/source
+K transistor NMOS N-MOS N-MOSFET
 F ~
 $ENDCMP
 #
