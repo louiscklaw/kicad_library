@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SD_1N4001_M1
+D 50V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
+K M1 diode
+F ~
+$ENDCMP
+#
 $CMP SD_1N5817_SS12
 D 20V, 1Amp, Schottky diode, small symbol, 肖特基二极管 ,
 K 1N5817 SS12 diode
@@ -12,9 +18,33 @@ K 1N5819 SS14 diode
 F ~
 $ENDCMP
 #
-$CMP SD_1N4001_M1
-D 50V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
-K M1 diode
+$CMP SD_1N5822_SS34
+D 40V, 3Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K 1N5822 SS34 diode
+F ~
+$ENDCMP
+#
+$CMP SD_B5819WS
+D , Schottky diode, small symbol, 肖特基二极管 ,
+K  diode
+F ~
+$ENDCMP
+#
+$CMP SD_ES1D
+D 200V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
+K ES1D diode
+F ~
+$ENDCMP
+#
+$CMP SD_ES1J
+D 600V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
+K ES1J diode
+F ~
+$ENDCMP
+#
+$CMP SD_ES1M
+D 1000V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
+K ES1M diode
 F ~
 $ENDCMP
 #
@@ -30,39 +60,9 @@ K M1 diode
 F ~
 $ENDCMP
 #
-$CMP SD_SS24
-D 40V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K SS36 diode
-F ~
-$ENDCMP
-#
 $CMP SD_RS1M
 D 1000V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
 K RS1M diode
-F ~
-$ENDCMP
-#
-$CMP SD_US1M
-D 1000V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
-K US1M diode
-F ~
-$ENDCMP
-#
-$CMP SD_1N5822_SS34
-D 40V, 3Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K 1N5822 SS34 diode
-F ~
-$ENDCMP
-#
-$CMP SD_SS36
-D 60V, 3Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K SS36 diode
-F ~
-$ENDCMP
-#
-$CMP SD_SS26
-D 60V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K SS26 diode
 F ~
 $ENDCMP
 #
@@ -78,6 +78,12 @@ K SS110 diode
 F ~
 $ENDCMP
 #
+$CMP SD_SS16
+D 60V, 1Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K SS16 diode
+F ~
+$ENDCMP
+#
 $CMP SD_SS210
 D 100V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
 K SS210 diode
@@ -90,9 +96,27 @@ K SS220 diode
 F ~
 $ENDCMP
 #
+$CMP SD_SS24
+D 40V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K SS36 diode
+F ~
+$ENDCMP
+#
+$CMP SD_SS26
+D 60V, 2Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K SS26 diode
+F ~
+$ENDCMP
+#
 $CMP SD_SS310
 D 100V, 3Amp, Schottky diode, small symbol, 肖特基二极管 ,
 K SS310 diode
+F ~
+$ENDCMP
+#
+$CMP SD_SS36
+D 60V, 3Amp, Schottky diode, small symbol, 肖特基二极管 ,
+K SS36 diode
 F ~
 $ENDCMP
 #
@@ -102,33 +126,9 @@ K SS510 diode
 F ~
 $ENDCMP
 #
-$CMP SD_SS16
-D 60V, 1Amp, Schottky diode, small symbol, 肖特基二极管 ,
-K SS16 diode
-F ~
-$ENDCMP
-#
-$CMP SD_ES1J
-D 600V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
-K ES1J diode
-F ~
-$ENDCMP
-#
-$CMP SD_ES1D
-D 200V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
-K ES1D diode
-F ~
-$ENDCMP
-#
-$CMP SD_ES1M
+$CMP SD_US1M
 D 1000V, 1A, Schottky diode, small symbol, 肖特基二极管 ,
-K ES1M diode
-F ~
-$ENDCMP
-#
-$CMP SD_B5819WS
-D , Schottky diode, small symbol, 肖特基二极管 ,
-K  diode
+K US1M diode
 F ~
 $ENDCMP
 #

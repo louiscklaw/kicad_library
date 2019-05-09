@@ -107,6 +107,18 @@ K L ferrite bead inductor filter
 F ~
 $ENDCMP
 #
+$CMP USB_B_Micro_1
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini_1
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
 $CMP WSK220N04
 D N-MOSFET transistor, gate/drain/source
 K transistor NMOS N-MOS N-MOSFET
