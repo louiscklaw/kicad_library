@@ -30,6 +30,12 @@ K transistor PMOS P-MOS P-MOSFET
 F ~
 $ENDCMP
 #
+$CMP BLUEPILL_SWD
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP BSN20
 D N-MOSFET transistor, gate/source/drain
 K transistor NMOS N-MOS N-MOSFET
