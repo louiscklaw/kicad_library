@@ -15,6 +15,10 @@ D Power flag, +5V
 K power-flag
 $ENDCMP
 #
+$CMP 74LVC1G125
+F https://www.diodes.com/assets/Datasheets/74AHCT1G125.pdf
+$ENDCMP
+#
 $CMP AGND
 D Power flag, analog ground
 K power-flag
