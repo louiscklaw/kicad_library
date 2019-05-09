@@ -71,6 +71,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP O_EPSON_32.768K
+D Unpolarized capacitor, small symbol, HC49
+K capacitor cap O_32.768K HC49
+F ~
+$ENDCMP
+#
 $CMP PGND
 D Power flag, ground
 K power-flag
