@@ -117,6 +117,12 @@ K transistor NMOS N-MOS N-MOSFET
 F ~
 $ENDCMP
 #
+$CMP SWD_PROGRAMMING_TESTPIN_2.54
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP UPZ1608E221-2R2TF
 D Ferrite bead, small symbol
 K L ferrite bead inductor filter
