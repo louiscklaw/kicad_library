@@ -123,6 +123,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP TTL_TERMINAL
+D TTL DEBUG TERMINAL 3.3V
+K TTL 232 DEBUG
+F ~
+$ENDCMP
+#
 $CMP UPZ1608E221-2R2TF
 D Ferrite bead, small symbol
 K L ferrite bead inductor filter
