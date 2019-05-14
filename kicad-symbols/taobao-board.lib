@@ -53,7 +53,7 @@ ENDDEF
 DEF bluepill-stm32f103c8t6 U 0 40 Y Y 1 F N
 F0 "U" 0 -1650 50 H V C CNN
 F1 "bluepill-stm32f103c8t6" 0 -1750 50 H V C CNN
-F2 "" 0 100 50 H I C CNN
+F2 "Package_DIP:DIP-40_W15.24mm_LongPads" 0 100 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
 DRAW
 T 900 0 -200 100 0 0 0 BLUEPILL Normal 0 C C

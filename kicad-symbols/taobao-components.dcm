@@ -31,8 +31,8 @@ F ~
 $ENDCMP
 #
 $CMP BLUEPILL_SWD
-D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
-K connector
+D STM32 SWD STM32F103C8T6 BLUEPILL
+K STM32 SWD STM32F103C8T6 BLUEPILL
 F ~
 $ENDCMP
 #
