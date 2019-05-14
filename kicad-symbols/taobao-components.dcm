@@ -111,6 +111,12 @@ D Power flag, ground
 K power-flag
 $ENDCMP
 #
+$CMP SSD1306-OLED-SPI
+D SSD1306-OLED-SPI SSD1306  OLED
+K SSD1306-OLED-SPI SSD1306  OLED
+F ~
+$ENDCMP
+#
 $CMP STP55NF06
 D N-MOSFET transistor, gate/drain/source
 K transistor NMOS N-MOS N-MOSFET
