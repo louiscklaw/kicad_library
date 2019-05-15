@@ -5,4 +5,10 @@ D BLUEPILL STM32F103C8T6
 K BLUEPILL STM32F103C8T6 STM32
 $ENDCMP
 #
+$CMP friendlyarm_nano_pi_duo2
+D nano pi duo2 friendlyarm
+K nano pi duo2 friendlyarm
+F http://wiki.friendlyarm.com/wiki/index.php/NanoPi_Duo2
+$ENDCMP
+#
 #End Doc Library
