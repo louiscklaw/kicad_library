@@ -30,12 +30,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_100uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_100uH,CD74
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -90,12 +84,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_10uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_10uH,CD32
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -115,12 +103,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_150uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_150uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -192,12 +174,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_1uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_2.2uH_shielded,3A
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -216,12 +192,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_2.2uH,1210
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_2.2uH,0603
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -235,12 +205,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_2.2uH,CD74
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_2.2uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -271,12 +235,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_220uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_220uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -319,12 +277,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_22uH,0603
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_22uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -378,12 +330,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_3.3uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_3.3uH,CD54
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -409,12 +355,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_330uH
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_330uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -468,12 +408,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_33uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_33uH,CD54
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -522,12 +456,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_4.7uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_4.7uH,CD54
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -559,12 +487,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_470uH,1210
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_470uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -613,12 +535,6 @@ F test_datasheet
 $ENDCMP
 #
 $CMP L_47uH,0603
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
-$CMP L_47uH,CD43
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
@@ -678,12 +594,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_6.8uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_6.8uH,CD54
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -732,12 +642,6 @@ K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a31
 F test_datasheet
 $ENDCMP
 #
-$CMP L_68uH,CD43
-D Inductor, small symbol
-K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
-F test_datasheet
-$ENDCMP
-#
 $CMP L_68uH,CD54
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
@@ -748,6 +652,12 @@ $CMP L_68uH,CD74
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F test_datasheet
+$ENDCMP
+#
+$CMP L_2.2uH,1210
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=566019283951&_u=hot8j1n4784
 $ENDCMP
 #
 $CMP L_1uH,5A
@@ -856,6 +766,186 @@ $CMP L_47uH,5A,CD1040
 D Inductor, small symbol
 K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
 F https://item.taobao.com/item.htm?spm=a230r.1.14.118.72da542bQgsiTw&id=569376479969&ns=1&abbucket=4#detail
+$ENDCMP
+#
+$CMP L_1uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_1.5uH
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_1.5uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_2.2uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_3.3uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_4.7uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_6.8uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_10uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_15uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_22uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_33uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_47uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_68uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_100uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_150uH,CD43
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5a3e2e8dORO2Cq&id=584064786502&_u=hot8j1nb9db
+$ENDCMP
+#
+$CMP L_2.2uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_3.3uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_4.7uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_6.8uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_10uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_15uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_22uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_33uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_47uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_68uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_100uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_150uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_220uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_330uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
+$ENDCMP
+#
+$CMP L_470uH,CD127
+D Inductor, small symbol
+K inductor choke coil reactor magnetic https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.1.591f626b7gr8DE&pvid=26ac0fb6-ecef-4e42-81e7-1f850ba96454&pos=1&acm=03054.1003.1.2768562&id=548605283739&scm=1007.16862.95220.23864_0&utparam={%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:1,%22x_pvid%22:%2226ac0fb6-ecef-4e42-81e7-1f850ba96454%22,%22x_object_id%22:548605283739}
+F https://item.taobao.com/item.htm?spm=2013.1.w4018-21667584972.4.38c930a1Lr370S&id=580433714675&scm=1007.11837.58613.i584064786502&pvid=a926762f-ab4c-4d03-ab64-b4e9333f2640
 $ENDCMP
 #
 #End Doc Library
