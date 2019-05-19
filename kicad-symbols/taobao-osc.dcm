@@ -150,6 +150,12 @@ K capacitor cap O_7.3728M HC49
 F ~
 $ENDCMP
 #
+$CMP O_8M,DEBUG
+D Unpolarized capacitor, small symbol, OSCDEBUG
+K capacitor cap O_8M,DEBUG OSCDEBUG
+F ~
+$ENDCMP
+#
 $CMP O_48M
 D Unpolarized capacitor, small symbol, HC49
 K capacitor cap O_48M HC49
