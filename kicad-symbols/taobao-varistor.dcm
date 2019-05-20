@@ -1,0 +1,135 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VAR_5V6
+D Resistor
+K R r res resistor VAR_5V6 VAR_5V6
+F ~
+$ENDCMP
+#
+$CMP VAR_5V6,1206
+D Resistor
+K R r res resistor VAR_5V6,1206 VAR_5V6
+F ~
+$ENDCMP
+#
+$CMP VAR_5V6,0805
+D Resistor
+K R r res resistor VAR_5V6,0805 VAR_5V6
+F ~
+$ENDCMP
+#
+$CMP VAR_5V6,0402
+D Resistor
+K R r res resistor VAR_5V6,0402 VAR_5V6
+F ~
+$ENDCMP
+#
+$CMP VAR_8V
+D Resistor
+K R r res resistor VAR_8V VAR_8V
+F ~
+$ENDCMP
+#
+$CMP VAR_8V,1206
+D Resistor
+K R r res resistor VAR_8V,1206 VAR_8V
+F ~
+$ENDCMP
+#
+$CMP VAR_22V
+D Resistor
+K R r res resistor VAR_22V VAR_22V
+F ~
+$ENDCMP
+#
+$CMP VAR_22V,0805
+D Resistor
+K R r res resistor VAR_22V,0805 VAR_22V
+F ~
+$ENDCMP
+#
+$CMP VAR_18V
+D Resistor
+K R r res resistor VAR_18V VAR_18V
+F ~
+$ENDCMP
+#
+$CMP VAR_18V,1206
+D Resistor
+K R r res resistor VAR_18V,1206 VAR_18V
+F ~
+$ENDCMP
+#
+$CMP VAR_18V,0805
+D Resistor
+K R r res resistor VAR_18V,0805 VAR_18V
+F ~
+$ENDCMP
+#
+$CMP VAR_18V,0603
+D Resistor
+K R r res resistor VAR_18V,0603 VAR_18V
+F ~
+$ENDCMP
+#
+$CMP VAR_48V
+D Resistor
+K R r res resistor VAR_48V VAR_48V
+F ~
+$ENDCMP
+#
+$CMP VAR_48V,0805
+D Resistor
+K R r res resistor VAR_48V,0805 VAR_48V
+F ~
+$ENDCMP
+#
+$CMP VAR_30V
+D Resistor
+K R r res resistor VAR_30V VAR_30V
+F ~
+$ENDCMP
+#
+$CMP VAR_30V,0805
+D Resistor
+K R r res resistor VAR_30V,0805 VAR_30V
+F ~
+$ENDCMP
+#
+$CMP VAR_24V
+D Resistor
+K R r res resistor VAR_24V VAR_24V
+F ~
+$ENDCMP
+#
+$CMP VAR_24V,0603
+D Resistor
+K R r res resistor VAR_24V,0603 VAR_24V
+F ~
+$ENDCMP
+#
+$CMP VAR_3V3
+D Resistor
+K R r res resistor VAR_3V3 VAR_3V3
+F ~
+$ENDCMP
+#
+$CMP VAR_3V3,1206
+D Resistor
+K R r res resistor VAR_3V3,1206 VAR_3V3
+F ~
+$ENDCMP
+#
+$CMP VAR_3V3,0805
+D Resistor
+K R r res resistor VAR_3V3,0805 VAR_3V3
+F ~
+$ENDCMP
+#
+$CMP VAR_3V3,0402
+D Resistor
+K R r res resistor VAR_3V3,0402 VAR_3V3
+F ~
+$ENDCMP
+#
+#End Doc Library
