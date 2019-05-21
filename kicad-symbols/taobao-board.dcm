@@ -11,4 +11,9 @@ K nano pi duo2 friendlyarm
 F http://wiki.friendlyarm.com/wiki/index.php/NanoPi_Duo2
 $ENDCMP
 #
+$CMP lora_debug
+K lora
+F https://detail.tmall.com/item.htm?spm=a230r.1.14.6.5e09526a9EJQaf&id=581909209210&cm_id=140105335569ed55e27b&abbucket=4
+$ENDCMP
+#
 #End Doc Library
