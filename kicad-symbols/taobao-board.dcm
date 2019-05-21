@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP UBLOX-NEO-6M_DEBUG
+D UBLOX-NEO-6M
+K UBLOX DEBUG NEO-6M
+F https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.3b7c2e8db3tGXC&tradeID=235533537498992767&snapShot=true
+$ENDCMP
+#
 $CMP bluepill-stm32f103c8t6
 D BLUEPILL STM32F103C8T6
 K BLUEPILL STM32F103C8T6 STM32
