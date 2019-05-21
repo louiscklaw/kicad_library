@@ -147,6 +147,12 @@ K TTL 232 DEBUG
 F ~
 $ENDCMP
 #
+$CMP Thermistor_NTC,0805
+D Temperature dependent resistor, negative temperature coefficient
+K thermistor NTC resistor sensor RTD
+F https://detail.tmall.com/item.htm?spm=a230r.1.14.42.5ea1520emdqeFI&id=18555459270&ns=1&abbucket=4
+$ENDCMP
+#
 $CMP UPZ1608E221-2R2TF
 D Ferrite bead, small symbol
 K L ferrite bead inductor filter
