@@ -83,6 +83,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP LM75
+D LM75
+K LM75
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.68ed2e8djJACPs&id=15953826507&_u=lot8j1n1b40
+$ENDCMP
+#
 $CMP O_EPSON_32.768K
 D Unpolarized capacitor, small symbol, HC49
 K capacitor cap O_32.768K HC49
