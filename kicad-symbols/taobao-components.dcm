@@ -71,6 +71,12 @@ D Power flag, ground
 K power-flag
 $ENDCMP
 #
+$CMP I2C_DEBUG
+D I2C DEBUG TERMINAL 3.3V
+K I2C DEBUG
+F ~
+$ENDCMP
+#
 $CMP IR_MODULE
 D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
