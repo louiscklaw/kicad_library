@@ -42,6 +42,12 @@ K transistor NMOS N-MOS N-MOSFET
 F ~
 $ENDCMP
 #
+$CMP BUZZER,MLT-8530
+D Buzzer, polarized
+K quartz resonator ceramic
+F https://s.taobao.com/search?q=MLT-8530&s_from=newHeader&ssid=s5-e&search_type=item&sourceId=tb.item
+$ENDCMP
+#
 $CMP C_NC,0402
 D Unpolarized capacitor, small symbol, 100(p) ,0.1(n) ,0.0001(u)
 K capacitor cap C101,0402 100(p) ,0.1(n) ,0.0001(u)
@@ -64,6 +70,10 @@ $CMP Conn_ENDSTOP
 D Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
 F ~
+$ENDCMP
+#
+$CMP ESP-12E
+K ESP-12E
 $ENDCMP
 #
 $CMP GND_STM32

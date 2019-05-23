@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 1N4148
-D Diode, small symbol
-K diode
+$CMP D_1N4148_T4
+D , diode, small symbol, 二极管 ,
+K T4 diode
 F ~
 $ENDCMP
 #
