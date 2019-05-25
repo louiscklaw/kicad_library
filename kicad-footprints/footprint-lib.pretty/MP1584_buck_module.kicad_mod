@@ -1,4 +1,4 @@
-(module MP1584_buck_module (layer F.Cu) (tedit 5CE29F12)
+(module MP1584_buck_module (layer F.Cu) (tedit 5CE8F3E7)
   (fp_text reference REF** (at -3.302 9.271 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -92,4 +92,9 @@
   (pad 3 thru_hole oval (at 9.271 -6.604) (size 3 2) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at -9.271 6.604) (size 3 2) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at -9.271 -6.604) (size 3 2) (drill 1) (layers *.Cu *.Mask))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/MP1584_DC_DC_converter/D-SUN_dcdc_step_down_SIMPLE.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
