@@ -22,4 +22,9 @@ K lora
 F https://detail.tmall.com/item.htm?spm=a230r.1.14.6.5e09526a9EJQaf&id=581909209210&cm_id=140105335569ed55e27b&abbucket=4
 $ENDCMP
 #
+$CMP nodemcu_v1
+D nodemcu esp-12e
+K nodemcu esp-12e
+$ENDCMP
+#
 #End Doc Library
