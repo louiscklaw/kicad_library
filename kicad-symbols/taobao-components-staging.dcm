@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FE1.1
+D FE1.1 usb hubs
+K FE1.1 usb hubs
+F https://www.snapeda.com/parts/FE1.1/Terminus-Tech/datasheet/
+$ENDCMP
+#
 #End Doc Library
