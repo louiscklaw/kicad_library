@@ -5,6 +5,12 @@ D ATMEGA328 ARDUINO
 K ATMEGA328 ARDUINO
 $ENDCMP
 #
+$CMP EC11_VERTICAL
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K EC11 rotatry switch
+F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.61152e8dxnonTp&id=532637189592&_u=rot8j1n8a4b
+$ENDCMP
+#
 $CMP I2C_DEBUG
 D I2C DEBUG
 K I2C DEBUG
