@@ -1,4 +1,4 @@
-(module FE1.1_LQFP48 (layer F.Cu) (tedit 5CEBC144)
+(module FE1.1_LQFP48 (layer F.Cu) (tedit 5CEBC62E)
   (descr "48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)")
   (tags "QFP 0.5")
   (clearance 0.2)
@@ -46,6 +46,7 @@
   (fp_line (start -3.13 3.75) (end -3.75 3.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.75 -3.13) (end -3.75 -3.75) (layer F.CrtYd) (width 0.05))
   (fp_line (start -3.13 -3.75) (end -3.75 -3.75) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center -2.6035 -2.54) (end -2.3495 -2.54) (layer F.SilkS) (width 0.5))
   (pad 1 smd rect (at -4.35 -2.75) (size 1.3 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -4.35 -2.25) (size 1.3 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -4.35 -1.75) (size 1.3 0.25) (layers F.Cu F.Paste F.Mask))
