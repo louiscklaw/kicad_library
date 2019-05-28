@@ -27,6 +27,16 @@ D I2C DEBUG
 K I2C DEBUG
 $ENDCMP
 #
+$CMP LED_dual_small
+D Light emitting diode, small symbol
+K led dual small
+F ~
+$ENDCMP
+#
+$CMP MIC2026
+K MIC2026
+$ENDCMP
+#
 $CMP SDCARD_HEADER
 D SDCARD HEADER
 K SDCARD HEADER
@@ -61,6 +71,16 @@ $CMP Thermistor_NTC,0805
 D Temperature dependent resistor, negative temperature coefficient
 K thermistor NTC resistor sensor RTD
 F ~
+$ENDCMP
+#
+$CMP USB_DEBUG
+D SPI DEBUG HEADER
+K SPI DEBUG HEADER
+$ENDCMP
+#
+$CMP USB_HEADER
+D USB DEBUG HEADER
+K USB DEBUG HEADER
 $ENDCMP
 #
 $CMP W25Q32JVSSIQ
