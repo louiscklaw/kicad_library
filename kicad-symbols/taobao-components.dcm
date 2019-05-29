@@ -42,6 +42,12 @@ D SDCARD HEADER
 K SDCARD HEADER
 $ENDCMP
 #
+$CMP SDCARD_HEADER_10PIN
+D Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)
+K SDCARD_HEADER_10PIN SDCCARD HEADER
+F ~
+$ENDCMP
+#
 $CMP SPI_DEBUG
 D SPI DEBUG HEADER
 K SPI DEBUG HEADER
@@ -81,6 +87,21 @@ $ENDCMP
 $CMP USB_HEADER
 D USB DEBUG HEADER
 K USB DEBUG HEADER
+$ENDCMP
+#
+$CMP Va
+D Power symbol creates a global label with name "+1V0"
+K power-flag
+$ENDCMP
+#
+$CMP Vb
+D Power symbol creates a global label with name "+1V0"
+K power-flag
+$ENDCMP
+#
+$CMP Vc
+D Power symbol creates a global label with name "+1V0"
+K power-flag
 $ENDCMP
 #
 $CMP W25Q32JVSSIQ
