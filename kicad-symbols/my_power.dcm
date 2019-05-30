@@ -15,4 +15,29 @@ D Power flag, +3.3V
 K power-flag
 $ENDCMP
 #
+$CMP VDDS
+D Power flag, VDDS
+K power-flag VDDS
+$ENDCMP
+#
+$CMP VDO
+D Power flag for LDO
+K power-flag LDO
+$ENDCMP
+#
+$CMP Vbat
+D Vbat
+K Vbat
+$ENDCMP
+#
+$CMP Vin
+D Vout
+K Vout
+$ENDCMP
+#
+$CMP Vout
+D Vout
+K Vout
+$ENDCMP
+#
 #End Doc Library

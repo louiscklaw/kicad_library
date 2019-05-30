@@ -58,6 +58,12 @@ D SPI DEBUG HEADER
 K SPI DEBUG HEADER
 $ENDCMP
 #
+$CMP SolderJumper_3_Open
+D Solder Jumper, 3-pole, open
+K Solder Jumper SPDT
+F ~
+$ENDCMP
+#
 $CMP TF_CARD_SOCKET,SELF_EJECT
 K TF_CARD_SOCKET SELF_EJECT SUNTECH_ST-TF-003A
 F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7a6a2e8dHbVc89&id=522573245737&_u=jot8j1n3ccf
