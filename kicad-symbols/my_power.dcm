@@ -40,4 +40,9 @@ D Vout
 K Vout
 $ENDCMP
 #
+$CMP Vusb
+D Vusb
+K Vusb
+$ENDCMP
+#
 #End Doc Library

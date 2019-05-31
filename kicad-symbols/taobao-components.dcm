@@ -95,6 +95,11 @@ D USB DEBUG HEADER
 K USB DEBUG HEADER
 $ENDCMP
 #
+$CMP USB_Micro
+D USB_Micro
+K USB_Micro
+$ENDCMP
+#
 $CMP Va
 D Power symbol creates a global label with name "+1V0"
 K power-flag
