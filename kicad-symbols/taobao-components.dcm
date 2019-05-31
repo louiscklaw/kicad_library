@@ -5,6 +5,11 @@ D ATMEGA328 ARDUINO
 K ATMEGA328 ARDUINO
 $ENDCMP
 #
+$CMP CP2102
+D CP2102_qfn28
+K CP2102
+$ENDCMP
+#
 $CMP EC11_VERTICAL
 D Rotary encoder, dual channel, incremental quadrate outputs, with switch
 K EC11 rotatry switch

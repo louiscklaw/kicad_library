@@ -10,6 +10,11 @@ D Power flag, +3.3V
 K power-flag
 $ENDCMP
 #
+$CMP V8266
+D V8266
+K V8266
+$ENDCMP
+#
 $CMP VDDR
 D Power flag, +3.3V
 K power-flag
