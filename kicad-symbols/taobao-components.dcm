@@ -58,6 +58,12 @@ K SDCARD_HEADER_10PIN SDCCARD HEADER
 F ~
 $ENDCMP
 #
+$CMP SHT20
+D SHT20
+K SHT20
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT20_Datasheet.pdf
+$ENDCMP
+#
 $CMP SPI_DEBUG
 D SPI DEBUG HEADER
 K SPI DEBUG HEADER
