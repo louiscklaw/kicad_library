@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SolderJumper_2_Open_arrow
+D Solder Jumper, 2-pole, open
+K solder jumper SPST
+F ~
+$ENDCMP
+#
+$CMP SolderJumper_2_Open_round
+D Solder Jumper, 2-pole, open
+K solder jumper SPST
+F ~
+$ENDCMP
+#
+$CMP SolderJumper_3_Bridged12
+D 3-pole Solder Jumper, pins 1+2 closed/bridged
+K Solder Jumper SPDT
+F ~
+$ENDCMP
+#
+$CMP SolderJumper_3_Open_arrow
+D Solder Jumper, 3-pole, open
+K Solder Jumper SPDT
+F ~
+$ENDCMP
+#
+#End Doc Library
