@@ -35,9 +35,19 @@ D Vbat
 K Vbat
 $ENDCMP
 #
+$CMP Vbuzzer
+D Vbuzzer
+K Vbuzzer
+$ENDCMP
+#
 $CMP Vin
 D Vout
 K Vout
+$ENDCMP
+#
+$CMP Voled
+D Voled
+K Voled
 $ENDCMP
 #
 $CMP Vout
@@ -45,9 +55,19 @@ D Vout
 K Vout
 $ENDCMP
 #
+$CMP Vstm32
+D Vstm32
+K Vstm32
+$ENDCMP
+#
 $CMP Vusb
 D Vusb
 K Vusb
+$ENDCMP
+#
+$CMP Vws2812
+D Vws2812
+K Vws2812
 $ENDCMP
 #
 #End Doc Library
