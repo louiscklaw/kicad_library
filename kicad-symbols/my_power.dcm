@@ -60,6 +60,11 @@ D Vstm32
 K Vstm32
 $ENDCMP
 #
+$CMP Vstm32_stlink
+D Vstm32_stlink
+K Vstm32_stlink Vstm32
+$ENDCMP
+#
 $CMP Vusb
 D Vusb
 K Vusb

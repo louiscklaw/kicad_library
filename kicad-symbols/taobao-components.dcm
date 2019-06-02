@@ -74,6 +74,16 @@ D SPI DEBUG HEADER
 K SPI DEBUG HEADER
 $ENDCMP
 #
+$CMP STM32F103C8T6
+D STM32F103C8T6
+K STM32F103C8T6
+$ENDCMP
+#
+$CMP STM32F103C8T6_rect
+D STM32F103C8T6
+K STM32F103C8T6
+$ENDCMP
+#
 $CMP SolderJumper_3_Open
 D Solder Jumper, 3-pole, open
 K Solder Jumper SPDT
@@ -110,6 +120,11 @@ $CMP Thermistor_NTC,0805
 D Temperature dependent resistor, negative temperature coefficient
 K thermistor NTC resistor sensor RTD
 F ~
+$ENDCMP
+#
+$CMP USBLC6-2SC6_SOT23-6
+D USBLC6-2 TVS USB
+K USBLC6-2 USB TVS
 $ENDCMP
 #
 $CMP USB_DEBUG
