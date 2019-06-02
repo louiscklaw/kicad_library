@@ -12,4 +12,10 @@ K switch normally-open pushbutton push-button reset
 F ~
 $ENDCMP
 #
+$CMP cherry_mx_no_led
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button reset
+F ~
+$ENDCMP
+#
 #End Doc Library

@@ -35,4 +35,21 @@ X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
+# cherry_mx_no_led
+#
+DEF cherry_mx_no_led SW 0 40 N N 1 F N
+F0 "SW" 50 100 50 H V L CNN
+F1 "cherry_mx_no_led" 0 -60 50 H V C CNN
+F2 "footprints-lib:cherry_mx_without_led_100H" 0 200 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library
