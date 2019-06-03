@@ -1,4 +1,4 @@
-(module USB_Micro-B_Molex-105017-0001 (layer F.Cu) (tedit 5CEFBB5E)
+(module USB_Micro-B_Molex-105017-0001 (layer F.Cu) (tedit 5CF4B89B)
   (descr http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf)
   (tags "Micro-USB SMD Typ-B")
   (attr smd)
@@ -50,8 +50,8 @@
   (pad 7 smd rect (at 2.9 1.2375) (size 1.2 1.9) (layers F.Cu F.Mask))
   (pad 6 smd rect (at -2.9 1.2375) (size 1.2 1.9) (layers F.Cu F.Mask))
   (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/Connector_USB_Extra.3dshapes/USB_Micro-B_Molex-105017-0001.wrl
-    (offset (xyz 0 -1 1.25))
-    (scale (xyz 0.4 0.4 0.4))
-    (rotate (xyz -90 0 0))
+    (at (xyz 0 0 0))
+    (scale (xyz 1.1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

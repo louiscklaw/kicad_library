@@ -1,4 +1,4 @@
-(module sot23-6 (layer F.Cu) (tedit 5B4EDF50)
+(module sot23-6 (layer F.Cu) (tedit 5CF4BF13)
   (descr SOT23-6)
   (fp_text reference Q? (at 0 -2.1) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.1)))

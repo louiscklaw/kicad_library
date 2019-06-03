@@ -1,4 +1,4 @@
-(module cherry_mx_without_led_100H (layer F.Cu) (tedit 5CF37F27)
+(module cherry_mx_without_led_100H (layer F.Cu) (tedit 5CF4F2FA)
   (descr "cherry mx keyboard key button")
   (tags "cherry mx keyboard key button")
   (fp_text reference cherry_mx_without_led_100H (at 0 3.175) (layer F.SilkS)
@@ -35,9 +35,14 @@
   (pad HOLE np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu))
   (pad 2 thru_hole circle (at -3.81 -2.54) (size 2.286 2.286) (drill 1.4986) (layers *.Cu *.SilkS *.Mask))
   (pad 1 thru_hole circle (at 2.54 -5.08) (size 2.286 2.286) (drill 1.4986) (layers *.Cu *.SilkS *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/keyboard/MX.STEP
-    (offset (xyz 7.25 7.25 6))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/keyboard/cherry_mx.step
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -180))
+    (rotate (xyz 0 0 0))
+  )
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/keyboard/keycap_dsa_signatureplastics_r3.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
