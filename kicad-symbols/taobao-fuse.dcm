@@ -24,6 +24,78 @@ K fuse OPT,0402 OPT
 F ~
 $ENDCMP
 #
+$CMP 300mA
+D Fuse, small symbol
+K fuse 300mA 300mA
+F ~
+$ENDCMP
+#
+$CMP 300mA,0805
+D Fuse, small symbol
+K fuse 300mA,0805 300mA
+F ~
+$ENDCMP
+#
+$CMP 300mA,0603
+D Fuse, small symbol
+K fuse 300mA,0603 300mA
+F ~
+$ENDCMP
+#
+$CMP 300mA,0402
+D Fuse, small symbol
+K fuse 300mA,0402 300mA
+F ~
+$ENDCMP
+#
+$CMP 500mA
+D Fuse, small symbol
+K fuse 500mA 500mA
+F ~
+$ENDCMP
+#
+$CMP 500mA,0805
+D Fuse, small symbol
+K fuse 500mA,0805 500mA
+F ~
+$ENDCMP
+#
+$CMP 500mA,0603
+D Fuse, small symbol
+K fuse 500mA,0603 500mA
+F ~
+$ENDCMP
+#
+$CMP 500mA,0402
+D Fuse, small symbol
+K fuse 500mA,0402 500mA
+F ~
+$ENDCMP
+#
+$CMP 800mA
+D Fuse, small symbol
+K fuse 800mA 800mA
+F ~
+$ENDCMP
+#
+$CMP 800mA,0805
+D Fuse, small symbol
+K fuse 800mA,0805 800mA
+F ~
+$ENDCMP
+#
+$CMP 800mA,0603
+D Fuse, small symbol
+K fuse 800mA,0603 800mA
+F ~
+$ENDCMP
+#
+$CMP 800mA,0402
+D Fuse, small symbol
+K fuse 800mA,0402 800mA
+F ~
+$ENDCMP
+#
 $CMP 1A
 D Fuse, small symbol
 K fuse 1A 1A
