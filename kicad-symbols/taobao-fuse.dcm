@@ -1,3 +1,195 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP OPT
+D Fuse, small symbol
+K fuse OPT OPT
+F ~
+$ENDCMP
+#
+$CMP OPT,0805
+D Fuse, small symbol
+K fuse OPT,0805 OPT
+F ~
+$ENDCMP
+#
+$CMP OPT,0603
+D Fuse, small symbol
+K fuse OPT,0603 OPT
+F ~
+$ENDCMP
+#
+$CMP OPT,0402
+D Fuse, small symbol
+K fuse OPT,0402 OPT
+F ~
+$ENDCMP
+#
+$CMP 1A
+D Fuse, small symbol
+K fuse 1A 1A
+F ~
+$ENDCMP
+#
+$CMP 1A,0805
+D Fuse, small symbol
+K fuse 1A,0805 1A
+F ~
+$ENDCMP
+#
+$CMP 1A,0603
+D Fuse, small symbol
+K fuse 1A,0603 1A
+F ~
+$ENDCMP
+#
+$CMP 1A,0402
+D Fuse, small symbol
+K fuse 1A,0402 1A
+F ~
+$ENDCMP
+#
+$CMP 2A
+D Fuse, small symbol
+K fuse 2A 2A
+F ~
+$ENDCMP
+#
+$CMP 2A,0805
+D Fuse, small symbol
+K fuse 2A,0805 2A
+F ~
+$ENDCMP
+#
+$CMP 2A,0603
+D Fuse, small symbol
+K fuse 2A,0603 2A
+F ~
+$ENDCMP
+#
+$CMP 2A,0402
+D Fuse, small symbol
+K fuse 2A,0402 2A
+F ~
+$ENDCMP
+#
+$CMP 3A
+D Fuse, small symbol
+K fuse 3A 3A
+F ~
+$ENDCMP
+#
+$CMP 3A,0805
+D Fuse, small symbol
+K fuse 3A,0805 3A
+F ~
+$ENDCMP
+#
+$CMP 3A,0603
+D Fuse, small symbol
+K fuse 3A,0603 3A
+F ~
+$ENDCMP
+#
+$CMP 3A,0402
+D Fuse, small symbol
+K fuse 3A,0402 3A
+F ~
+$ENDCMP
+#
+$CMP 5A
+D Fuse, small symbol
+K fuse 5A 5A
+F ~
+$ENDCMP
+#
+$CMP 5A,0805
+D Fuse, small symbol
+K fuse 5A,0805 5A
+F ~
+$ENDCMP
+#
+$CMP 5A,0603
+D Fuse, small symbol
+K fuse 5A,0603 5A
+F ~
+$ENDCMP
+#
+$CMP 5A,0402
+D Fuse, small symbol
+K fuse 5A,0402 5A
+F ~
+$ENDCMP
+#
+$CMP 6A
+D Fuse, small symbol
+K fuse 6A 6A
+F ~
+$ENDCMP
+#
+$CMP 6A,0805
+D Fuse, small symbol
+K fuse 6A,0805 6A
+F ~
+$ENDCMP
+#
+$CMP 6A,0603
+D Fuse, small symbol
+K fuse 6A,0603 6A
+F ~
+$ENDCMP
+#
+$CMP 6A,0402
+D Fuse, small symbol
+K fuse 6A,0402 6A
+F ~
+$ENDCMP
+#
+$CMP 8A
+D Fuse, small symbol
+K fuse 8A 8A
+F ~
+$ENDCMP
+#
+$CMP 8A,0805
+D Fuse, small symbol
+K fuse 8A,0805 8A
+F ~
+$ENDCMP
+#
+$CMP 8A,0603
+D Fuse, small symbol
+K fuse 8A,0603 8A
+F ~
+$ENDCMP
+#
+$CMP 8A,0402
+D Fuse, small symbol
+K fuse 8A,0402 8A
+F ~
+$ENDCMP
+#
+$CMP 10A
+D Fuse, small symbol
+K fuse 10A 10A
+F ~
+$ENDCMP
+#
+$CMP 10A,0805
+D Fuse, small symbol
+K fuse 10A,0805 10A
+F ~
+$ENDCMP
+#
+$CMP 10A,0603
+D Fuse, small symbol
+K fuse 10A,0603 10A
+F ~
+$ENDCMP
+#
+$CMP 10A,0402
+D Fuse, small symbol
+K fuse 10A,0402 10A
+F ~
+$ENDCMP
+#
 #End Doc Library
