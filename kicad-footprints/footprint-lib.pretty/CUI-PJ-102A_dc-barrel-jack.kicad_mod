@@ -1,4 +1,4 @@
-(module CUI-PJ-102A_dc-barrel-jack (layer F.Cu) (tedit 5BC47847)
+(module CUI-PJ-102A_dc-barrel-jack (layer F.Cu) (tedit 5CF90452)
   (fp_text reference CUI-PJ-102A_dc-barrel-jack (at 0 5.08) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
@@ -16,4 +16,9 @@
   (pad 1 thru_hole circle (at 0 3) (size 4 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 -3) (size 4 4) (drill 1.6) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -4.7 0) (size 4 4) (drill 1.6) (layers *.Cu *.Mask))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/CUI_PJ-102A.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
