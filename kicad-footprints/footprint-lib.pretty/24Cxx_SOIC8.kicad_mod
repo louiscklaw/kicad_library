@@ -1,4 +1,4 @@
-(module 24Cxx_SOIC8 (layer F.Cu) (tedit 5CF76F13)
+(module 24Cxx_SOIC8 (layer F.Cu) (tedit 5CFA36E1)
   (descr "SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "24Cxx_SOIC8 24c02")
   (attr smd)
@@ -39,6 +39,11 @@
   (pad 4 smd roundrect (at 0 0) (size 2.95 4.9) (layers F.Cu) (roundrect_rratio 0.08500000000000001))
   (pad "" smd roundrect (at 0 0) (size 2.71 3.4) (layers F.Mask) (roundrect_rratio 0.092251))
   (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
