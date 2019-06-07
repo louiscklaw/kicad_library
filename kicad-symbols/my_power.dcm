@@ -40,6 +40,11 @@ D Vbuzzer
 K Vbuzzer
 $ENDCMP
 #
+$CMP Vesp8266
+D Vesp8266
+K Vesp8266
+$ENDCMP
+#
 $CMP Vin
 D Vout
 K Vout
