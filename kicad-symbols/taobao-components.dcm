@@ -17,6 +17,11 @@ K EC11 rotatry switch
 F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.61152e8dxnonTp&id=532637189592&_u=rot8j1n8a4b
 $ENDCMP
 #
+$CMP ESP-12F
+D ESP-12F
+K ESP-12F
+$ENDCMP
+#
 $CMP ESP8266EX
 K ESP8266EX ESP8266
 $ENDCMP
