@@ -202,4 +202,9 @@ K W25Q32JVSSIQ
 F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi02JP0prjiAhXaBIgKHRI3AjoQFjAAegQIABAC&url=https%3A%2F%2Fwww.winbond.com%2Fresource-files%2Fw25q32jv%2520spi%2520revc%252008302016.pdf&usg=AOvVaw224j1hLYjMOvdAbYlB56Mn
 $ENDCMP
 #
+$CMP orange_pi_zero
+D orange_pi_zero
+K orange_pi_zero
+$ENDCMP
+#
 #End Doc Library
