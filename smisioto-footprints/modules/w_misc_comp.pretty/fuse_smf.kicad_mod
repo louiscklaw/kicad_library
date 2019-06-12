@@ -1,4 +1,4 @@
-(module fuse_smf (layer F.Cu)
+(module fuse_smf (layer F.Cu) (tedit 5D00EAE4)
   (descr "Fuse Holder SMF, Littelfuse")
   (tags Fuse)
   (autoplace_cost180 10)
