@@ -91,6 +91,10 @@ K O_EPSON_32.768K 32.768 OSC 32K
 F https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306&lang=en
 $ENDCMP
 #
+$CMP RFM95
+K RFM95
+$ENDCMP
+#
 $CMP SDCARD_HEADER
 D SDCARD HEADER
 K SDCARD HEADER
