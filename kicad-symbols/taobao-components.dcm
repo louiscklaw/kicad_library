@@ -15,6 +15,16 @@ $CMP CH340C
 K CH340C
 $ENDCMP
 #
+$CMP CH340H
+D CH340H
+K CH340H
+$ENDCMP
+#
+$CMP CH340T
+D CH340T
+K CH340T_SSOP-20
+$ENDCMP
+#
 $CMP EC11_VERTICAL
 D Rotary encoder, dual channel, incremental quadrate outputs, with switch
 K EC11 rotatry switch
