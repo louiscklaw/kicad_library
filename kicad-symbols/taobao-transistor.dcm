@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2N3904(1AM)
+K 2N3904 1AM
+F https://assets.nexperia.com/documents/data-sheet/MMBT3904.pdf
+$ENDCMP
+#
 $CMP 9013_NPN
 D 0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92
 K NPN Transistor
