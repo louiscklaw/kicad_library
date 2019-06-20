@@ -1,4 +1,4 @@
-(module DG_KF128-2 (layer F.Cu) (tedit 5D00EE64)
+(module DG_KF128-2 (layer F.Cu) (tedit 5D0710B0)
   (descr DG_KF128-2)
   (tags DG_KF128-2)
   (fp_text reference REF** (at 5.08 4.318) (layer F.SilkS)
@@ -18,11 +18,11 @@
   (fp_line (start -0.45 4.694) (end 0.55 4.694) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.05 4.194) (end 0.55 4.694) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.05 4.194) (end -0.45 4.694) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole rect (at 0 0) (size 3 4) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole oval (at 5.08 0) (size 3 4) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/kicad-jst-xh-2.54.3dshapes/JST_B2B-XH-A-2.54.wrl
+  (pad 1 thru_hole rect (at 0 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole oval (at 5.08 0) (size 3 4) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/EDG/2EDG-5.08-02P.STEP
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
