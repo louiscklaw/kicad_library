@@ -1,4 +1,4 @@
-(module RFM95 (layer F.Cu) (tedit 5D034843)
+(module RFM95 (layer F.Cu) (tedit 5D070755)
   (tags RFM95)
   (attr smd)
   (fp_text reference RFM95 (at -7.26579 -9.54026) (layer F.SilkS)
@@ -43,6 +43,8 @@
   (pad 14 smd rect (at 7.7 -3) (size 3 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 7.7 -5) (size 3 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 7.7 -7) (size 3 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad "" np_thru_hole oval (at 0 0) (size 7 12) (drill oval 7 12) (layers *.Cu *.Mask)
+    (solder_mask_margin 1) (clearance 1) (zone_connect 0))
   (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/lora/RFM95.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
