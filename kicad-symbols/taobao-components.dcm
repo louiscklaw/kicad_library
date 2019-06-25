@@ -89,6 +89,10 @@ D I2C DEBUG
 K I2C DEBUG
 $ENDCMP
 #
+$CMP IPEX
+F https://www.digikey.com/product-detail/en/samtec-inc/RSP-122811-02/SAM9852-ND/6678589?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol
+$ENDCMP
+#
 $CMP LED_dual_small
 D Light emitting diode, small symbol
 K led dual small
