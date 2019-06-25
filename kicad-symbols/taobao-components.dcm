@@ -118,6 +118,12 @@ $CMP MIC2026
 K MIC2026
 $ENDCMP
 #
+$CMP NEO-6M
+D UBLOX U-BLOX NEO-6M
+K UBLOX U-BLOX NEO-6M
+F https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
+$ENDCMP
+#
 $CMP O_EPSON_32.768K
 D O_EPSON_32.768K
 K O_EPSON_32.768K 32.768 OSC 32K

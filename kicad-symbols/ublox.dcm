@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NEO-6M
-D UBLOX U-BLOX NEO-6M
-K UBLOX U-BLOX NEO-6M
+$CMP UBLOX-NEO-6M-0-001
+D UBLOX-NEO-6M-0-001
+K UBLOX U-BLOX NEO-6M UBLOX-NEO-6M-0-001
 F https://www.u-blox.com/sites/default/files/products/documents/NEO-6_DataSheet_%28GPS.G6-HW-09005%29.pdf
 $ENDCMP
 #
