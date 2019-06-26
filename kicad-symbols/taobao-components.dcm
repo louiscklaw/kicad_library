@@ -44,6 +44,11 @@ $CMP CSI-AVDD
 K CSI-AVDD
 $ENDCMP
 #
+$CMP DS1307_SOIC8
+D DS1307_SOIC8
+K DS1307
+$ENDCMP
+#
 $CMP EC11_VERTICAL
 D Rotary encoder, dual channel, incremental quadrate outputs, with switch
 K EC11 rotatry switch
