@@ -1,0 +1,11 @@
+(module DESIGNED_IN_HONG_KONG (layer F.Cu) (tedit 5D162E6F)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DESIGNED_IN_HONG_KONG (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "designed in hong kong" (at 0 0) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
+)
