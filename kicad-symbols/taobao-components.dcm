@@ -275,6 +275,11 @@ D USB_Micro
 K USB_Micro
 $ENDCMP
 #
+$CMP VEML6070
+D VEML6070
+K VEML6070
+$ENDCMP
+#
 $CMP Va
 D Power symbol creates a global label with name "+1V0"
 K power-flag
