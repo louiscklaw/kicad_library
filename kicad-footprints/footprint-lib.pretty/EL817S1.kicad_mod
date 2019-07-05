@@ -1,4 +1,4 @@
-(module EL817S1 (layer F.Cu) (tedit 5D1DC642)
+(module EL817S1 (layer F.Cu) (tedit 5D1F2601)
   (attr smd)
   (fp_text reference REF** (at 0 -3.635) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -22,4 +22,9 @@
   (pad 2 smd rect (at -4.85 1.27) (size 1.41 1.47) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 4.85 1.27 180) (size 1.41 1.47) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 4.85 -1.27 180) (size 1.41 1.47) (layers F.Cu F.Paste F.Mask))
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/EL817S1.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
