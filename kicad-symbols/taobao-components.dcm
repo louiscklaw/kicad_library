@@ -94,6 +94,11 @@ K FE1.1 usb hubs
 F https://www.snapeda.com/parts/FE1.1/Terminus-Tech/datasheet/
 $ENDCMP
 #
+$CMP HLK-PM03
+D HLK-PM03
+K HLK-PM03 HILINK
+$ENDCMP
+#
 $CMP I2C_DEBUG
 D I2C DEBUG
 K I2C DEBUG
