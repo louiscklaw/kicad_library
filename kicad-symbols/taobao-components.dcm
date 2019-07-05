@@ -56,8 +56,9 @@ F https://item.taobao.com/item.htm?spm=a1z09.2.0.0.61152e8dxnonTp&id=53263718959
 $ENDCMP
 #
 $CMP EL817S1
-D EL817
-K EL817
+D DC Optocoupler, Vce 35V, CTR 50%, DIP-4
+K NPN DC Optocoupler
+F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
 $ENDCMP
 #
 $CMP ESP-07
@@ -208,6 +209,11 @@ $ENDCMP
 $CMP SPI_HEADER
 D SPI DEBUG HEADER
 K SPI DEBUG HEADER
+$ENDCMP
+#
+$CMP SRD-05VDC-SL-C
+D SRD-05VDC-SL-C
+K SRD-05VDC-SL-C
 $ENDCMP
 #
 $CMP STM32F030F4_TSSOP20
