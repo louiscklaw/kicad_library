@@ -1,10 +1,10 @@
-(module OMRON-G3MB-202P locked (layer F.Cu) (tedit 5BFD4C63)
+(module OMRON-G3MB-202P locked (layer F.Cu) (tedit 5D206963)
   (descr "relay, 34.51series")
   (fp_text reference U2 (at 0 -3.8) (layer F.SilkS)
-    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value OMRON-G3MB-202P (at 0 -1.7) (layer F.SilkS)
-    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 11.74962 -2.24962) (end 11.74962 -2.75) (angle 90) (layer F.SilkS) (width 0.3048))
   (fp_arc (start -11.74962 -2.24962) (end -12.25 -2.24962) (angle 90) (layer F.SilkS) (width 0.3048))
@@ -32,7 +32,7 @@
   (pad 4 thru_hole oval (at -10.16 1.48) (size 1.8 3.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 10.16 1.48) (size 4 4) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -7.62 1.48) (size 1.8 3.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/relay/relay_34.81.wrl
+  (model "/home/logic/_workspace/kicad/kicad_library/kicad-packages3d/Relay - G3MB-202P.step"
     (at (xyz 0 0 0))
     (scale (xyz 0.9 0.9 0.9))
     (rotate (xyz 0 0 0))
