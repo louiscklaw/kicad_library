@@ -1,7 +1,7 @@
 # 中景 0.96 OLED SSD1306 (128 x 64) for KiCAD
 # Copyright (C) 2018 Johann Lee <me@qinka.pro>
 
-(module OLED_096_12864_SSD1306_LOW (layer F.Cu) (tedit 5D1EDD5A)
+(module OLED_096_12864_SSD1306_LOW (layer F.Cu) (tedit 5D2066F8)
   (tags "SSD1306 OLED")
   (fp_text reference REF** (at 0 8.128) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.1)))
@@ -57,7 +57,7 @@
   (pad SCL thru_hole oval (at 1.27 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
   (pad VCC thru_hole oval (at -1.27 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
   (pad GND thru_hole rect (at -3.81 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/OLED_27x27.step
+  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/__96_OLED_Module___i2C_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
