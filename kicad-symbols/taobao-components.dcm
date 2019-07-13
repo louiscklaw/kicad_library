@@ -303,6 +303,14 @@ D STM32F103C8T6
 K STM32F103C8T6
 $ENDCMP
 #
+$CMP SX1508
+K SX1509
+$ENDCMP
+#
+$CMP SX1509
+K SX1509
+$ENDCMP
+#
 $CMP SolderJumper_3_Open
 D Solder Jumper, 3-pole, open
 K Solder Jumper SPDT
