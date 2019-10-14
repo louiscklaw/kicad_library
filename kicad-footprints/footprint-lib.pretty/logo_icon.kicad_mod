@@ -1,4 +1,4 @@
-(module logo (layer F.Cu) (tedit 5D8DB95A)
+(module logo_icon (layer F.Cu) (tedit 5D8DB95A)
   (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
