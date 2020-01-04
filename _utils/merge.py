@@ -16,10 +16,10 @@ TRAVIS_BRANCH = os.environ['TRAVIS_BRANCH']
 TRAVIS_COMMIT = os.environ['TRAVIS_COMMIT']
 TRAVIS_BUILD_NUMBER = os.environ['TRAVIS_BUILD_NUMBER']
 GITHUB_REPO = os.environ['TRAVIS_REPO_SLUG']
-GITHUB_SECRET_TOKEN = os.environ['GITHUB_SECRET_TOKEN']
+GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 TRAVIS_COMMIT_MESSAGE = os.environ['TRAVIS_COMMIT_MESSAGE']
 
-PUSH_URI="https://{}@github.com/{}".format(GITHUB_SECRET_TOKEN, GITHUB_REPO)
+PUSH_URI="https://{}@github.com/{}".format(GITHUB_TOKEN, GITHUB_REPO)
 
 TEMP_DIR = local('mktemp -d', capture=True)
 local('git clone "{}" "{}"'.format(PUSH_URI, TEMP_DIR))
