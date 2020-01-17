@@ -34,3 +34,6 @@
 	path = _ref/ESP32-kiCAD-Footprints
 	url = https://www.github.com/adamjvr/ESP32-kiCAD-Footprints.git
 	shallow = true
+[submodule "_ref/contrib-kicad_parts"]
+	path = _ref/contrib-kicad_parts
+	url = https://github.com/Agilack/contrib-kicad_parts.git

@@ -1,0 +1,20 @@
+(module leila (layer F.Cu) (tedit 524DC075)
+  (descr Leila)
+  (attr smd)
+  (fp_text reference leila (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.00254)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.00254)))
+  )
+  (fp_line (start -2 -2) (end 2 -2) (layer F.SilkS) (width 0.254))
+  (fp_line (start 2 -2) (end 2 2) (layer F.SilkS) (width 0.254))
+  (fp_line (start 2 2) (end -2 2) (layer F.SilkS) (width 0.254))
+  (fp_line (start -2 2) (end -2 -2) (layer F.SilkS) (width 0.254))
+  (fp_circle (center 0 0) (end -10.8 0) (layer F.SilkS) (width 0.254))
+  (model ${HOME}/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/lens/leila.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

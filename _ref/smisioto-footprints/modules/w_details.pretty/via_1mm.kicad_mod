@@ -1,0 +1,10 @@
+(module via_1mm (layer F.Cu) (tedit 57E54BF7)
+  (descr "Via 1mm-0.5mm hole")
+  (fp_text reference via_1mm (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.00254)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.127 0.127) (thickness 0.00254)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.5) (layers *.Cu *.Mask F.SilkS))
+)
