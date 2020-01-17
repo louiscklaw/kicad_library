@@ -1,36 +1,36 @@
 [submodule "kicad-footprints/Panelization.pretty"]
-	path = kicad-footprints/Panelization.pretty
+	path = _ref/kicad-footprints/Panelization.pretty
 	url = https://www.github.com/madworm/Panelization.pretty.git
 	shallow = true
 [submodule "digikey-kicad-library"]
-	path = digikey-kicad-library
+	path = _ref/digikey-kicad-library
 	url = https://www.github.com/digikey/digikey-kicad-library.git
 	shallow = true
 [submodule "olimex-kicad"]
-	path = olimex-kicad
+	path = _ref/olimex-kicad
 	url = https://www.github.com/OLIMEX/KiCAD.git
 	shallow = true
 [submodule "SparkFun-KiCad-Libraries"]
-	path = SparkFun-KiCad-Libraries
+	path = _ref/SparkFun-KiCad-Libraries
 	url = https://www.github.com/sparkfun/SparkFun-KiCad-Libraries.git
 	shallow = true
 [submodule "tinkerforge-kicad-libraries"]
-	path = tinkerforge-kicad-libraries
+	path = _ref/tinkerforge-kicad-libraries
 	url = https://www.github.com/Tinkerforge/kicad-libraries.git
 	shallow = true
 [submodule "freetronics_kicad_library"]
-	path = freetronics_kicad_library
+	path = _ref/freetronics_kicad_library
 	url = https://www.github.com/freetronics/freetronics_kicad_library.git
 	shallow = true
 [submodule "ab2-kicad-library"]
-	path = ab2-kicad-library
+	path = _ref/ab2-kicad-library
 	url = https://www.github.com/ab2tech/KiCad.git
 	shallow = true
 [submodule "stm32-kicad-lib"]
-	path = stm32-kicad-lib
+	path = _ref/stm32-kicad-lib
 	url = https://www.github.com/esden/stm32-kicad-lib.git
 	shallow = true
 [submodule "ESP32-kiCAD-Footprints"]
-	path = ESP32-kiCAD-Footprints
+	path = _ref/ESP32-kiCAD-Footprints
 	url = https://www.github.com/adamjvr/ESP32-kiCAD-Footprints.git
 	shallow = true
