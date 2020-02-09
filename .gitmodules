@@ -34,3 +34,6 @@
 	path = ESP32-kiCAD-Footprints
 	url = https://www.github.com/adamjvr/ESP32-kiCAD-Footprints.git
 	shallow = true
+[submodule "_ref/kicad-library-utils"]
+	path = _ref/kicad-library-utils
+	url = https://github.com/KiCad/kicad-library-utils.git
