@@ -1,0 +1,110 @@
+#!/usr/bin/env bash
+
+helloearth(){
+  echo $PWD
+}
+
+update_shortcut(){
+  OWD=$PWD
+  cd /home/logic/_workspace/kicad-playlist
+  cp ./.env /tmp/.env
+
+python3 << END
+import os,sys
+import subprocess
+import shlex
+import re
+from pprint import pprint
+
+new_command_template='''
+new_from_##PROJ_NAME##(){
+  new_from ##PROJ_DIR_NAME##
+
+}
+'''
+
+def simple_replace(x):
+  output = re.sub( '##PROJ_NAME##', x.replace('-','_'), new_command_template,
+    flags=re.MULTILINE)
+
+  output = re.sub( '##PROJ_DIR_NAME##', x, output,
+    flags=re.MULTILINE)
+
+  return output
+
+dirs = subprocess.check_output(shlex.split('ls -1')).decode('utf-8').split('\n')
+tryout_dirs = list(filter(lambda x: x.find('-tryout') > 0, dirs))
+
+new_commands_content = map( lambda x: simple_replace(x), tryout_dirs)
+
+start_string = '''
+# update_by_dir_start
+#/home/logic/_workspace/preactjs-playlist/scripts/update_shortcut.rc
+'''
+
+end_string = '# update_by_dir_end'
+
+new_commands_content=list(new_commands_content)+[
+  '''testing_shortcut(){
+  echo testing_shortcut
+}
+'''
+]
+
+new_commands_string='\n'.join(
+  [start_string]+list(new_commands_content)+[end_string]
+  )
+
+
+temp = ''
+with open('/tmp/.env','r') as fi:
+  temp = ''.join(fi.readlines())
+  temp = re.sub(r'# update_by_dir_start.+?# update_by_dir_end',
+    new_commands_string,
+    temp, count=1,flags=re.MULTILINE|re.DOTALL)
+
+with open('/tmp/.env','w') as fo:
+  fo.writelines(temp)
+
+END
+
+  cp /tmp/.env ./.env
+
+  cd $OWD
+}
+
+new_from(){
+  set -x
+
+  rm -rf * &
+  rm -rf .* &
+  wait
+
+  TEST=`echo $PWD|rev |cut -d'/' -f1 |rev`
+  # git branch -D test/$TEST
+  # git checkout -b test/$TEST
+
+  rsync -avzh ../$1/ .
+
+  CURR_PROG_NAME=`basename $PWD`
+
+
+  cd kicad
+    mv example.kicad_pcb $CURR_PROG_NAME.kicad_pcb
+    mv example.pro $CURR_PROG_NAME.pro
+    mv example.sch $CURR_PROG_NAME.sch
+    mv example-cache.lib $CURR_PROG_NAME-cache.lib
+
+  cd ..
+
+  sed -i -e 's/example/'$CURR_PROG_NAME'/' Makefile
+
+  ./build.sh
+
+  kicad kicad/$CURR_PROG_NAME.pro &
+
+}
+
+helloworld(){
+  echo 'helloworld'
+}
