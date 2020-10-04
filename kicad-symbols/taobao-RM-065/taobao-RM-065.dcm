@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RV_202
+D Variable resistor
+K R res resistor variable potentiometer rheostat
+F ~
+$ENDCMP
+#
+#End Doc Library
