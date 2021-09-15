@@ -34,7 +34,7 @@
   (pad 10 thru_hole circle (at 22.86 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at 25.4 0) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS))
 
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/kicad-jst-xh-2.54.3dshapes/JST_B11B-XH-A-2.54.wrl
+  (model ${KICAD_LIBRARY}/kicad-packages3d/kicad-jst-xh-2.54.3dshapes/JST_B11B-XH-A-2.54.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))

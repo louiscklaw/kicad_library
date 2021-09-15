@@ -87,7 +87,7 @@
   (pad 14 smd rect (at 7.6 -0.9) (size 2.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 7.6 -2.9) (size 2.5 1) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 7.6 -4.9) (size 2.5 1) (layers F.Cu F.Paste F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/esp-07.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/esp-07.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

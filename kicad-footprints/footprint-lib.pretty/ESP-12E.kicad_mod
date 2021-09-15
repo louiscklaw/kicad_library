@@ -76,7 +76,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/logic/_workspace/kicad/kicad_library/espressif/ESP8266 single.stp"
+  (model "${KICAD_LIBRARY}/espressif/ESP8266 single.stp"
     (offset (xyz -8 -12 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

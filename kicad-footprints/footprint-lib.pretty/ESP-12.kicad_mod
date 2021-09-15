@@ -86,7 +86,7 @@
   (pad "" np_thru_hole circle (at 3.917 -0.254) (size 0.8 0.8) (drill 0.4) (layers *.Cu F.Mask))
   (pad "" np_thru_hole circle (at -3.83 5.715) (size 0.8 0.8) (drill 0.4) (layers *.Cu F.Mask))
   (pad "" np_thru_hole circle (at 3.79 5.715) (size 0.8 0.8) (drill 0.4) (layers *.Cu F.Mask))
-  (model "/home/logic/_workspace/kicad/kicad_library/espressif/ESP8266 single.stp"
+  (model "${KICAD_LIBRARY}/espressif/ESP8266 single.stp"
     (offset (xyz -8 -11 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

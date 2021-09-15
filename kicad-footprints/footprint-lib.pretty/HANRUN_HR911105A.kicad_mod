@@ -37,7 +37,7 @@
   (pad 16 thru_hole circle (at -7.745 3.05 270) (size 2.8 2.8) (drill 1.63) (layers *.Cu *.Mask))
   (pad Hole np_thru_hole circle (at -5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
   (pad Hole np_thru_hole circle (at 5.715 0) (size 3.25 3.25) (drill 3.25) (layers *.Cu *.Mask F.SilkS))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/HANRUN_HR911105A.wrl
+  (model ${KICAD_LIBRARY}/kicad-packages3d/HANRUN_HR911105A.wrl
     (offset (xyz -15.5 -28.5 -1))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 0 -90))

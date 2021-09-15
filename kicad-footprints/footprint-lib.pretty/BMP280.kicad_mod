@@ -25,7 +25,7 @@
   (pad 1 smd rect (at 0.8 -0.975) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0.8 0.975) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -0.8 0.975) (size 0.5 0.35) (layers F.Cu F.Paste F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/BMP280.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/BMP280.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

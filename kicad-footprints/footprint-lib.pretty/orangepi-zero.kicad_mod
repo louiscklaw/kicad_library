@@ -93,17 +93,17 @@
   (pad 1 thru_hole circle (at -20.685 -15.732) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 20.775 -21.632) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask)
     (solder_mask_margin 1.2) (clearance 1.2))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/orange-pi-zero/Orange_Pi_Zero_v1_1___Ensamblaje_cp.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/orange-pi-zero/Orange_Pi_Zero_v1_1___Ensamblaje_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/orange-pi-zero/PinSocket_1x13_P254mm_Vertical.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/orange-pi-zero/PinSocket_1x13_P254mm_Vertical.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/orange-pi-zero/PinSocket_2x13_P254mm_Vertical.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/orange-pi-zero/PinSocket_2x13_P254mm_Vertical.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -120,7 +120,7 @@
   (pad "" np_thru_hole circle (at 4 8.5) (size 3 3) (drill oval 3) (layers *.Cu *.Mask)
     (solder_mask_margin 0.8) (clearance 0.6))
   (pad 39 smd rect (at 0 3) (size 16 18) (layers B.Cu F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/espressif/esp-wroom-32.stp
+  (model ${KICAD_LIBRARY}/espressif/esp-wroom-32.stp
     (offset (xyz -9 -12.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

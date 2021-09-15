@@ -18,7 +18,7 @@
   (fp_line (start 2.10058 1.39954) (end 2.10058 -1.39954) (layer F.SilkS) (width 0.127))
   (pad 1 smd rect (at -1.72974 0) (size 2.10058 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.72974 0) (size 2.10058 1.69926) (layers F.Cu F.Paste F.Mask))
-  (model ${HOME}/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/smd_diode/do214ac.wrl
+  (model ${KICAD_LIBRARY}/smisioto-footprints/modules/packages3d/walter/smd_diode/do214ac.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

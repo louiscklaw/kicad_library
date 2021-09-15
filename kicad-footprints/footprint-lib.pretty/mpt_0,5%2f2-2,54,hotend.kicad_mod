@@ -18,7 +18,7 @@
   (fp_line (start -2.79908 -3.0988) (end -2.79908 3.0988) (layer F.SilkS) (width 0.254))
   (pad 2 thru_hole oval (at -1.27 0) (size 1.5 3) (drill 1.09728) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 1.27 0) (size 1.5 3) (drill 1.09728) (layers *.Cu *.Mask))
-  (model ${HOME}/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/conn_mpt/mpt_0,5-2-2,54.wrl
+  (model ${KICAD_LIBRARY}/smisioto-footprints/modules/packages3d/walter/conn_mpt/mpt_0,5-2-2,54.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

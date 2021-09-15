@@ -32,7 +32,7 @@
     (clearance 0.2))
   (pad 1 smd rect (at -0.66 1) (size 0.4 0.66) (layers F.Cu F.Paste F.Mask)
     (clearance 0.2))
-  (model ${HOME}/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/smd_trans/sc70-6.wrl
+  (model ${KICAD_LIBRARY}/smisioto-footprints/modules/packages3d/walter/smd_trans/sc70-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

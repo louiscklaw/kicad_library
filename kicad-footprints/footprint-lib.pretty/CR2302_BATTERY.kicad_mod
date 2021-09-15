@@ -124,7 +124,7 @@
   (fp_line (start 17.75 -10.25) (end -17.75 -10.25) (layer Eco1.User) (width 0.05))
   (pad + smd rect (at -15.9 0) (size 3.2 4.2) (layers F.Cu F.Paste F.Mask))
   (pad - smd rect (at 15.9 0) (size 3.2 4.2) (layers F.Cu F.Paste F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/BU2032SM_HD_GCR2032_Battery_Holder003_cp.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/BU2032SM_HD_GCR2032_Battery_Holder003_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

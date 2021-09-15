@@ -61,7 +61,7 @@
   (pad 3 thru_hole oval (at 1.00076 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -1.00076 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 2.99974 0) (size 1.19888 1.69926) (drill 0.70104) (layers *.Cu *.Mask F.SilkS))
-  (model ${HOME}/_workspace/kicad/kicad_library/smisioto-footprints/modules/packages3d/walter/conn_jst-ph/b4b-ph-kl.wrl
+  (model ${KICAD_LIBRARY}/smisioto-footprints/modules/packages3d/walter/conn_jst-ph/b4b-ph-kl.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

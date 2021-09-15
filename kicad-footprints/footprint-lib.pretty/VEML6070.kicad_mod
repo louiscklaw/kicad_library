@@ -23,7 +23,7 @@
   (pad 6 smd rect (at 1.075 -0.6 90) (size 0.4 1) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.075 0 90) (size 0.4 1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1.075 0.6 90) (size 0.4 1) (layers F.Cu F.Paste F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/VEML6070_v4_cp.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/VEML6070_v4_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

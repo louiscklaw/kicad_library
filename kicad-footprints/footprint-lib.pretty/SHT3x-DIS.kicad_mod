@@ -26,7 +26,7 @@
   (pad 6 smd rect (at 1.175 0.25) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.175 0.75) (size 0.55 0.25) (layers F.Cu F.Paste F.Mask))
   (pad PAD smd rect (at 0 0) (size 1 2) (layers F.Cu F.Paste F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/Sensirion_Humidity_SHT3x_STEP-file.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/Sensirion_Humidity_SHT3x_STEP-file.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

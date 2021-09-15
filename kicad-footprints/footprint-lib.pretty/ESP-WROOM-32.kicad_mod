@@ -114,7 +114,7 @@
   (pad 39 thru_hole circle (at 0.254 5.08) (size 0.7 0.7) (drill 0.6) (layers *.Cu F.Mask))
   (pad 39 thru_hole circle (at 2.794 5.08) (size 0.7 0.7) (drill 0.6) (layers *.Cu F.Mask))
   (pad 39 smd rect (at 0.3 2.45) (size 10 10) (layers B.Cu))
-  (model /home/logic/_workspace/kicad/kicad_library/espressif/esp-wroom-32.stp
+  (model ${KICAD_LIBRARY}/espressif/esp-wroom-32.stp
     (offset (xyz -9 -12.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

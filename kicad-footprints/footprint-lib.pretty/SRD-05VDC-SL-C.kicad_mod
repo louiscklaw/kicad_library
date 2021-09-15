@@ -28,7 +28,7 @@
   (pad A2 thru_hole circle (at -6.1 6) (size 1.98 1.98) (drill 1.32) (layers *.Cu *.Mask))
   (pad NO thru_hole circle (at 6.1 6) (size 1.98 1.98) (drill 1.32) (layers *.Cu *.Mask))
   (pad NC thru_hole circle (at 6.1 -6) (size 1.98 1.98) (drill 1.32) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/SRD-05VDC-SL-C.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/SRD-05VDC-SL-C.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

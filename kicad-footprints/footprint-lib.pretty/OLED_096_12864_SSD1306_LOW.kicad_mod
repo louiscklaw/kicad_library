@@ -57,7 +57,7 @@
   (pad SCL thru_hole oval (at 1.27 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
   (pad VCC thru_hole oval (at -1.27 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
   (pad GND thru_hole rect (at -3.81 0) (size 2 2.8) (drill oval 1.2 1.8) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/__96_OLED_Module___i2C_cp.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/__96_OLED_Module___i2C_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

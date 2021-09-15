@@ -24,7 +24,7 @@
   (fp_line (start -1.016 -25.4) (end 20.32 -25.4) (layer Dwgs.User) (width 0.1905))
   (fp_line (start 20.32 -25.4) (end 20.32 -23.876) (layer Dwgs.User) (width 0.1905))
   (fp_line (start 20.32 -23.876) (end -1.016 -23.876) (layer Dwgs.User) (width 0.1905))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/PMS5003_BODY.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/PMS5003_BODY.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

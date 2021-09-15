@@ -12,7 +12,7 @@
   (fp_line (start -7.62 -5.08) (end -7.62 5.08) (layer Dwgs.User) (width 0.15))
   (pad 2 thru_hole circle (at 3.81 0) (size 5 5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole trapezoid (at -3.81 0) (size 5 5) (drill 1.2) (layers *.Cu *.Mask))
-  (model "/home/logic/_workspace/kicad/kicad_library/kicad-packages3d/terminal block/KF35.STEP"
+  (model "${KICAD_LIBRARY}/kicad-packages3d/terminal block/KF35.STEP"
     (offset (xyz 23 9 -9))
     (scale (xyz 0.9 0.9 0.9))
     (rotate (xyz -90 0 90))

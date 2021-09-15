@@ -62,7 +62,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model /home/logic/_workspace/kicad/kicad_library/KiCad-SSD1306_OLED-0.91-128x32/OLED_0.91_128x32.stp
+  (model ${KICAD_LIBRARY}/KiCad-SSD1306_OLED-0.91-128x32/OLED_0.91_128x32.stp
     (offset (xyz 17.5 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

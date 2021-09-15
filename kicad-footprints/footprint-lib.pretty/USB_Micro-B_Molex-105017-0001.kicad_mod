@@ -49,7 +49,7 @@
   (pad 7 thru_hole oval (at 3.5 1.2375) (size 1.2 1.9) (drill oval 0.6 1.3) (layers *.Cu *.Mask))
   (pad 7 smd rect (at 2.9 1.2375) (size 1.2 1.9) (layers F.Cu F.Mask))
   (pad 6 smd rect (at -2.9 1.2375) (size 1.2 1.9) (layers F.Cu F.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/Connector_USB_Extra.3dshapes/USB_Micro-B_Molex-105017-0001.wrl
+  (model ${KICAD_LIBRARY}/kicad-packages3d/Connector_USB_Extra.3dshapes/USB_Micro-B_Molex-105017-0001.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1.1 1 1))
     (rotate (xyz 0 0 0))

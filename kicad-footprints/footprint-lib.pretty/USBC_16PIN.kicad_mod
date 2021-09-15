@@ -45,7 +45,7 @@
   (pad S1 thru_hole oval (at -4.32 -2.31) (size 0.9 2.1) (drill oval 0.5 1.7) (layers *.Cu *.Mask))
   (pad S1 thru_hole oval (at 4.32 1.87) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
   (pad S1 thru_hole oval (at -4.32 1.87) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/USBC_16PIN.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/USBC_16PIN.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

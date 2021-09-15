@@ -16,7 +16,7 @@
   (fp_poly (pts (xy -4.655 -1.45) (xy 4.655 -1.45) (xy 4.655 8.25) (xy -4.655 8.25)) (layer Eco1.User) (width 0.127))
   (pad 2 thru_hole circle (at 1.905 0 180) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -1.905 0 180) (size 2.1 2.1) (drill 1.4) (layers *.Cu *.Mask))
-  (model "/home/logic/_workspace/kicad/kicad_library/kicad-packages3d/terminal block/691322310002.step"
+  (model "${KICAD_LIBRARY}/kicad-packages3d/terminal block/691322310002.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

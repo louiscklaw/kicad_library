@@ -457,7 +457,7 @@
   (pad 2 thru_hole circle (at -14.7 2.5) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 14.7 -7.7) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 14.7 7.7) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/hlk_pm03.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/hlk_pm03.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

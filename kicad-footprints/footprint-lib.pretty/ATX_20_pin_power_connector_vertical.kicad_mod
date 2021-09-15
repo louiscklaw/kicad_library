@@ -120,12 +120,12 @@
   (pad +5V thru_hole circle (at 33.6 5.5) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad +12V thru_hole circle (at 37.8 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad +5V thru_hole circle (at 37.8 5.5) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/ATX_20_pin_power_connector_vertical/C_2_1586037_0_cp.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/ATX_20_pin_power_connector_vertical/C_2_1586037_0_cp.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model /home/logic/_workspace/kicad/kicad_library/kicad-packages3d/ATX_20_pin_power_connector_vertical/ATX_20_pin_power_connector.step
+  (model ${KICAD_LIBRARY}/kicad-packages3d/ATX_20_pin_power_connector_vertical/ATX_20_pin_power_connector.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
