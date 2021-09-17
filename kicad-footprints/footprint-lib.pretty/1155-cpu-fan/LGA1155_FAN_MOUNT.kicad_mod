@@ -1,5 +1,5 @@
 (footprint "LGA1155_FAN_MOUNT" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 61447FD9)
+  (tedit 61447E51)
   (attr through_hole)
   (fp_text reference "REF**" (at -37.366 -56.134) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
