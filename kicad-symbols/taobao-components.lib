@@ -1794,6 +1794,7 @@ F0 "J" 0 210 50 H V C CNN
 F1 "DC_JACK" 0 -200 50 H V C CNN
 F2 "" 50 -40 50 H I C CNN
 F3 "" 50 -40 50 H I C CNN
+F4 "https://item.taobao.com/item.htm?spm=a230r.1.14.35.5a925a11CKypRU&id=635784713871&ns=1&abbucket=11#detail" 0 0 50 H V C CNN "taobao_link"
 $FPLIST
  DC_JACK
 $ENDFPLIST
