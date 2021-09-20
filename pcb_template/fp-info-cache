@@ -1,0 +1,2430 @@
+567835294812997
+footprint
+691322110003
+<b>WR-TBL Serie 3221 - 3.50mm Horizontal PCB Header, 3 Pins
+
+0
+3
+3
+footprint
+691322310002
+<b>WR-TBL Serie 322 - 3.81mm Vertical PCB Header , 2 Pins
+
+0
+2
+2
+footprint
+10D-11
+NTC
+NTC
+0
+2
+2
+footprint
+24AA32A
+
+
+0
+8
+8
+footprint
+24Cxx_SOIC8
+SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
+24Cxx_SOIC8 24c02
+0
+14
+8
+footprint
+74HCT4050_SOP16
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+74HCT4050_SOP16
+0
+16
+16
+footprint
+9013,J3,SOT23
+SOT23
+
+0
+3
+3
+footprint
+AMS1117_SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+10
+3
+footprint
+AN9520
+SMD antenna, 9.5x2.0mm, 2p
+
+0
+2
+2
+footprint
+AQ_mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+footprint
+ATMEGA328
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+ATMEGA328
+0
+40
+32
+footprint
+ATX_20_pin_power_connector_vertical
+
+
+0
+20
+9
+footprint
+Ai-Thinker-Ra-01-LoRa
+Ai Thinker Ra-01 LoRa
+LoRa Ra-01
+0
+16
+16
+footprint
+Ai-Thinker-Ra-02-LoRa
+Ai Thinker Ra-01 LoRa
+LoRa Ra-02
+0
+16
+16
+footprint
+AllWinner-A64(FBGA396)
+
+
+0
+399
+399
+footprint
+Arduino_Nano
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+footprint
+BCT4157
+BCT4157 SC70-6
+BCT4157
+0
+6
+6
+footprint
+BLUEPILL_SWD
+BLUEPILL SWD TERMINAL
+BLUEPILL SWD STM32
+0
+4
+4
+footprint
+BMP180
+BMP180
+BMP180
+0
+7
+7
+footprint
+BMP280
+
+
+0
+8
+8
+footprint
+BOARD_REVISION
+
+
+0
+1
+0
+footprint
+CH340C
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+CH340C
+0
+16
+16
+footprint
+CH340T_SSOP-20
+CH340T_SSOP-20
+CH340T
+0
+20
+20
+footprint
+CONN_I2C_SSD1306
+pinsocket for SSD1306 in i2c interface
+SSD1306 I2C
+0
+4
+4
+footprint
+CONN_SPI_SSD1306
+SSD1306 SPI
+SSD1306 SPI
+0
+7
+7
+footprint
+CP2102_qfn28
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+CP2102_qfn28 CP2102
+0
+29
+29
+footprint
+CR2302_BATTERY
+CR2302_BATTERY
+CR2302_BATTERY
+0
+2
+2
+footprint
+CSTCE8M00G52-R0
+
+
+0
+3
+3
+footprint
+CUI-PJ-102A_dc-barrel-jack
+
+
+0
+3
+2
+footprint
+Conn_RPi_02_20
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+footprint
+D882,SOT-89-3,thermal_vias
+D882,SOT-89-3,thermal_vias
+D882, SOT-89-3
+0
+12
+3
+footprint
+DC_SOCKET
+
+
+0
+3
+3
+footprint
+DESIGNED_IN_HONG_KONG
+
+
+0
+1
+0
+footprint
+DFN-6-1EP_3x3mm_Pitch0.95mm_copy
+DFN6 3*3 MM, 0.95 PITCH; CASE 506AH-01 (see ON Semiconductor 506AH.PDF)
+DFN 0.95
+0
+10
+7
+footprint
+DO-214AC
+DO214AC SS12
+SS12
+0
+2
+2
+footprint
+DS1307_SOIC8
+SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+DS1307
+0
+8
+8
+footprint
+EL817S1
+
+
+0
+4
+4
+footprint
+ESP-07
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/a007ps01a2_esp-07_product_specification_v1.2.pdf
+Wi-Fi Module
+0
+16
+16
+footprint
+ESP-12
+
+
+0
+18
+16
+footprint
+ESP-12E
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
+Wi-Fi Module
+0
+22
+22
+footprint
+ESP-12F
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/aithinker_esp_12f_datasheet_en.pdf
+Wi-Fi Module
+0
+22
+22
+footprint
+ESP-32S
+
+
+0
+39
+39
+footprint
+ESP-WROOM-32
+
+ESP-WROOM-32
+0
+54
+39
+footprint
+ESP-WROOM-32_MODULE
+
+
+0
+53
+39
+footprint
+ESP8089
+QFN, 32 Pin (https://www.exar.com/ds/mxl7704.pdf (Page 35)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+ESP8266EX
+0
+59
+33
+footprint
+ESP8266EX
+QFN, 32 Pin (https://www.exar.com/ds/mxl7704.pdf (Page 35)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+ESP8266EX
+0
+59
+33
+footprint
+ESP8266EX_SERVICE
+ESP8266EX_SERVICE
+ESP8266EX_SERVICE
+0
+4
+4
+footprint
+ESP8266EX_copy
+QFN, 32 Pin (https://www.exar.com/ds/mxl7704.pdf (Page 35)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+ESP8266EX
+0
+59
+33
+footprint
+FBGA96
+FBGA96-UNIVERSAL PACKAGE
+FBGA96-UNIVERSAL PACKAGE
+0
+100
+100
+footprint
+FE1.1_LQFP48
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+58
+48
+footprint
+FE11_SSOP-28
+SSOP28: plastic shrink small outline package; 28 leads; body width 3.9 mm; lead pitch 0.635; (see http://cds.linear.com/docs/en/datasheet/38901fb.pdf)
+FE1.1
+0
+28
+28
+footprint
+FUSE_382
+
+
+0
+2
+2
+footprint
+Fuse_2920_7451Metric_Pad2.10x5.45mm_HandSolder
+Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+footprint
+Fuse_holder_SMF_with_via
+Fuse Holder SMF, Littelfuse
+Fuse
+0
+22
+2
+footprint
+GITHUB_ADDRESS
+
+
+0
+1
+0
+footprint
+GPS24P-SMD-1.1-16X12.2MM
+
+
+0
+24
+24
+footprint
+HANRUN_HR911105A
+
+
+0
+14
+14
+footprint
+HANRUN_HR911130C
+RJ45
+RJ45
+0
+18
+16
+footprint
+HDMI-SWM-19
+PADOVETE OT 1.6X0.28 STAVAT NA 1.6X0.25
+PADOVETE OT 1.6X0.28 STAVAT NA 1.6X0.25
+0
+39
+23
+footprint
+HE05P15LRN
+HE05P15LRN
+HE05P15LRN HIECUBE
+0
+4
+4
+footprint
+HIROSE_FH12A-40S-0.5SH(55)
+
+
+0
+42
+42
+footprint
+HIROSE_FH12S-40S-0.5SH(55)
+
+
+0
+42
+42
+footprint
+HLK-PM03
+HLK-PM03
+HLK-PM03 HILINK
+0
+4
+4
+footprint
+HLT1160
+
+
+0
+7
+3
+footprint
+HRS1H-S-DC5V
+
+
+0
+6
+5
+footprint
+Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-15S-0.5SH, 15 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+17
+16
+footprint
+Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal
+Molex FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose  top entry
+0
+42
+41
+footprint
+I2C_DEBUG
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
+2
+footprint
+I2C_DEBUG,2.54
+I2C_HEADER,2.54
+I2C_HEADER,2.54 I2C_DEBUG,2.54
+0
+2
+2
+footprint
+IPEX
+SAMTEC_RSP-122811-02
+IPEX SAMTEC_RSP-122811-02
+0
+4
+4
+footprint
+KF141V141R_Straight_1x02_Pitch2.54mm
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+KF141V141R 1x02
+0
+4
+2
+footprint
+KF141V141R_Straight_1x03_Pitch2.54mm
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+KF141V141R_Straight_1x03_Pitch2.54mm
+0
+6
+3
+footprint
+KF141V141R_Straight_1x04_Pitch2.54mm
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+KF141V141R_Straight_1x04_Pitch2.54mm
+0
+8
+4
+footprint
+KF141V141R_Straight_1x08_Pitch2.54mm
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+16
+8
+footprint
+LCC110P1570X1760X250-42N
+
+
+0
+42
+42
+footprint
+LED_0402_1005Metric
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+footprint
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+footprint
+LED_0805_2012Metric
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode
+0
+2
+2
+footprint
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+footprint
+LED_1210_3225Metric
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+footprint
+LED_WS2812B_5050_white
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED_WS2812B_5050_white WS2812 5050
+0
+4
+4
+footprint
+LGA1155_FAN_MOUNT
+
+
+0
+4
+4
+footprint
+LM2940CT-5
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+LM2940CT-5
+0
+4
+3
+footprint
+LORA_DEBUG1
+LORA_DEBUG1
+LORA_DEBUG1
+0
+8
+8
+footprint
+LORA_DEBUG2
+LORA_DEBUG2
+LORA_DEBUG2
+0
+8
+8
+footprint
+L_CD43
+Inductor SMD, d.4.8mm x h.2.8mm
+
+0
+2
+2
+footprint
+L_CD54
+Inductor SMD, 5mm x h.4mm, Wurth LQS
+
+0
+2
+2
+footprint
+L_CD127_shielded
+Choke, SMD, 12x12mm 8mm height
+Choke SMD
+0
+2
+2
+footprint
+L_SMD_ALL
+Inductor, Wuerth Elektronik, Wuerth_HCI-1040, 10.2mmx10.2mm
+inductor Wuerth hci smd
+0
+2
+2
+footprint
+MBT3904_1AM_SOT
+SOT-23, Standard
+MBT3904_1AM_SOT
+0
+3
+3
+footprint
+MC-306
+<b>MC-306 CRYSTAL UNIT</b><p>Source: MC-306_405_406_E07X.PDF
+
+0
+4
+4
+footprint
+MCP73831_SOT23_5
+5-pin SOT23 package
+MCP73831 SOT-23-5
+0
+5
+5
+footprint
+MCP73833_DFN
+Plastic DFN, 10 pins, 3x3, Linear Technology
+MCP73833_DFN
+0
+12
+11
+footprint
+MCP73833_MSOP10
+MSOP, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf#page=18), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MCP73833_MSOP10
+0
+20
+11
+footprint
+MCP73837_MSOP10
+MSOP, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf#page=18), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MCP73837_MSOP10
+0
+28
+11
+footprint
+ML8511
+
+
+0
+12
+12
+footprint
+MLT-8530
+
+
+0
+4
+4
+footprint
+MMA8451Q_QFN16
+MMA8451Q_QFN16
+MMA8451Q_QFN16 MMA8451
+0
+16
+16
+footprint
+MP1584,SOIC-8_3.9x4.9mm_P1.27mm,thermal_via
+MP1584
+MP1584 SOIC-8
+0
+20
+9
+footprint
+MP1584_buck_module
+
+
+0
+8
+4
+footprint
+MP2303,SOIC-8_3.9x4.9mm_P1.27mm,thermal_via
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
+SOIC 1.27
+0
+20
+8
+footprint
+MPU-6050-QFN24
+
+
+0
+24
+24
+footprint
+MountingHole_2.7mm_M2.5,rpi_like
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+footprint
+MountingHole_3.1mm_M3,rpi_like
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+footprint
+MountingHole_3.2mm_M3,rpi_like
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+footprint
+NEO-6M-GPS
+
+
+0
+24
+24
+footprint
+NodeMCU1.0(12-E)
+
+
+0
+30
+30
+footprint
+O3_mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+footprint
+OLED_096_12864_SSD1306
+
+
+0
+8
+4
+footprint
+OLED_096_12864_SSD1306_LOW
+
+SSD1306 OLED
+0
+8
+4
+footprint
+OMRON-G3MB-202P
+relay, 34.51series
+
+0
+4
+4
+footprint
+OSC_3225
+Miniature Crystal Clock Oscillator Abracon ASE series, http://www.abracon.com/Oscillators/ASEseries.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal oscillator hand-soldering 3225
+0
+4
+3
+footprint
+PCF8575C
+TSSOP24: plastic thin shrink small outline package; 24 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot355-1_po.pdf)
+PCF8575C
+0
+24
+24
+footprint
+PC_FAN_s4b-ph-kl
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+footprint
+PJ320D_3.5mm_Jack
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+footprint
+PJ320D_3.5mm_Jack_Short
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+footprint
+PJ320E_Headphones_Plug_Short
+Headphones with microphone connector, 3.5mm, 4 pins.
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+5
+5
+footprint
+PMS5003S_BODY
+PMS5003S
+PMS5003S PMS5003S BODY
+0
+0
+0
+footprint
+PWRJ-2mm(YDJ-1134)
+
+
+0
+3
+2
+footprint
+PWR_SRC_s2b-ph-kl
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+footprint
+PhoenixContact_MCV-G_02x5.08mm_Vertical
+Generic Phoenix Contact connector footprint for series: MCV-G; number of pins: 02; pin pitch: 5.08mm; Vertical || order number: 1836299 8A 320V
+phoenix_contact connector MCV_01x02_G_5.08mm
+0
+2
+2
+footprint
+PhoenixContact_MCV_1,5_2-G-3.81_1x02_P3.81mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.81; number of pins: 02; pin pitch: 3.81mm; Vertical || order number: 1803426 8A 160V
+phoenix_contact connector MCV_01x02_G_3.81mm
+0
+2
+2
+footprint
+PhoenixContact_MCV_1,5_3-G-5.08_1x03_P5.08mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-5.08; number of pins: 03; pin pitch: 5.08mm; Vertical || order number: 1836309 8A 320V
+phoenix_contact connector MCV_01x03_G_5.08mm
+0
+3
+3
+footprint
+PhoenixContact_MCV_1,5_8-G-3.81_1x08_P3.81mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/8-G-3.81; number of pins: 08; pin pitch: 3.81mm; Vertical || order number: 1803484 8A 160V
+phoenix_contact connector MCV_01x08_G_3.81mm
+0
+8
+8
+footprint
+PinHeader_1x02_P2.54mm_power_output_terminal_copy
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+footprint
+PinHeader_1x06_P1.27mm_Vertical
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+Through hole pin header THT 1x06 1.27mm single row
+0
+6
+6
+footprint
+PinHeader_2x02_P2.54mm_Vertical
+Through hole straight pin header, 2x02, 2.54mm pitch, double rows
+Through hole pin header THT 2x02 2.54mm double row
+0
+4
+4
+footprint
+PinHeader_2x03_P2.54mm_Vertical_with_soldering_jumper
+Through hole straight pin header, 2x03, 2.54mm pitch, double rows
+Through hole pin header THT 2x03 2.54mm double row
+0
+6
+6
+footprint
+PinHeader_2x05_P1.00mm_Vertical
+Through hole straight pin header, 2x05, 1.00mm pitch, double rows
+Through hole pin header THT 2x05 1.00mm double row
+0
+10
+10
+footprint
+Pin_Header_Straight_1x01_Pitch1.27mm
+Through hole straight pin header, 1x01, 1.27mm pitch, single row
+Through hole pin header THT 1x01 1.27mm single row
+0
+1
+1
+footprint
+Pin_Header_Straight_1x01_Pitch2.54mm
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+footprint
+Pin_Header_Straight_1x02_Pitch1.27mm
+Through hole straight pin header, 1x02, 1.27mm pitch, single row
+Through hole pin header THT 1x02 1.27mm single row
+0
+2
+2
+footprint
+Pin_Header_Straight_1x02_Pitch2.54mm
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+footprint
+Pin_Header_Straight_1x03_Pitch1.27mm
+Through hole straight pin header, 1x03, 1.27mm pitch, single row
+Through hole pin header THT 1x03 1.27mm single row
+0
+3
+3
+footprint
+Pin_Header_Straight_1x03_Pitch2.54mm
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+footprint
+Pin_Header_Straight_1x04_Pitch1.27mm
+Through hole straight pin header, 1x04, 1.27mm pitch, single row
+Through hole pin header THT 1x04 1.27mm single row
+0
+4
+4
+footprint
+Pin_Header_Straight_1x04_Pitch2.54mm
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+footprint
+Pin_Header_Straight_1x05_Pitch1.27mm
+Through hole straight pin header, 1x05, 1.27mm pitch, single row
+Through hole pin header THT 1x05 1.27mm single row
+0
+5
+5
+footprint
+Pin_Header_Straight_1x05_Pitch2.54mm
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+footprint
+Pin_Header_Straight_1x06_Pitch1.27mm
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+Through hole pin header THT 1x06 1.27mm single row
+0
+6
+6
+footprint
+Pin_Header_Straight_1x06_Pitch2.54mm
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+footprint
+Pin_Header_Straight_1x07_Pitch1.27mm
+Through hole straight pin header, 1x07, 1.27mm pitch, single row
+Through hole pin header THT 1x07 1.27mm single row
+0
+7
+7
+footprint
+Pin_Header_Straight_1x07_Pitch2.54mm
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+footprint
+Pin_Header_Straight_1x08_Pitch1.27mm
+Through hole straight pin header, 1x08, 1.27mm pitch, single row
+Through hole pin header THT 1x08 1.27mm single row
+0
+8
+8
+footprint
+Pin_Header_Straight_1x08_Pitch2.54mm
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+footprint
+Pin_Header_Straight_1x09_Pitch1.27mm
+Through hole straight pin header, 1x09, 1.27mm pitch, single row
+Through hole pin header THT 1x09 1.27mm single row
+0
+9
+9
+footprint
+Pin_Header_Straight_1x09_Pitch2.54mm
+Through hole straight pin header, 1x09, 2.54mm pitch, single row
+Through hole pin header THT 1x09 2.54mm single row
+0
+9
+9
+footprint
+Pin_Header_Straight_1x10_Pitch1.27mm
+Through hole straight pin header, 1x10, 1.27mm pitch, single row
+Through hole pin header THT 1x10 1.27mm single row
+0
+10
+10
+footprint
+Pin_Header_Straight_1x10_Pitch2.54mm
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+footprint
+Pin_Header_Straight_1x11_Pitch1.27mm
+Through hole straight pin header, 1x11, 1.27mm pitch, single row
+Through hole pin header THT 1x11 1.27mm single row
+0
+11
+11
+footprint
+Pin_Header_Straight_1x11_Pitch2.54mm
+Through hole straight pin header, 1x11, 2.54mm pitch, single row
+Through hole pin header THT 1x11 2.54mm single row
+0
+11
+11
+footprint
+Pin_Header_Straight_1x12_Pitch1.27mm
+Through hole straight pin header, 1x12, 1.27mm pitch, single row
+Through hole pin header THT 1x12 1.27mm single row
+0
+12
+12
+footprint
+Pin_Header_Straight_1x12_Pitch2.54mm
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+footprint
+Pin_Header_Straight_1x13_Pitch1.27mm
+Through hole straight pin header, 1x13, 1.27mm pitch, single row
+Through hole pin header THT 1x13 1.27mm single row
+0
+13
+13
+footprint
+Pin_Header_Straight_1x13_Pitch2.54mm
+Through hole straight pin header, 1x13, 2.54mm pitch, single row
+Through hole pin header THT 1x13 2.54mm single row
+0
+13
+13
+footprint
+Pin_Header_Straight_1x14_Pitch1.27mm
+Through hole straight pin header, 1x14, 1.27mm pitch, single row
+Through hole pin header THT 1x14 1.27mm single row
+0
+14
+14
+footprint
+Pin_Header_Straight_1x14_Pitch2.54mm
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+14
+14
+footprint
+Pin_Header_Straight_1x15_Pitch1.27mm
+Through hole straight pin header, 1x15, 1.27mm pitch, single row
+Through hole pin header THT 1x15 1.27mm single row
+0
+15
+15
+footprint
+Pin_Header_Straight_1x15_Pitch2.54mm
+Through hole straight pin header, 1x15, 2.54mm pitch, single row
+Through hole pin header THT 1x15 2.54mm single row
+0
+15
+15
+footprint
+Pin_Header_Straight_1x16_Pitch1.27mm
+Through hole straight pin header, 1x16, 1.27mm pitch, single row
+Through hole pin header THT 1x16 1.27mm single row
+0
+16
+16
+footprint
+Pin_Header_Straight_1x16_Pitch2.54mm
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+footprint
+Pin_Header_Straight_1x17_Pitch1.27mm
+Through hole straight pin header, 1x17, 1.27mm pitch, single row
+Through hole pin header THT 1x17 1.27mm single row
+0
+17
+17
+footprint
+Pin_Header_Straight_1x17_Pitch2.54mm
+Through hole straight pin header, 1x17, 2.54mm pitch, single row
+Through hole pin header THT 1x17 2.54mm single row
+0
+17
+17
+footprint
+Pin_Header_Straight_1x18_Pitch1.27mm
+Through hole straight pin header, 1x18, 1.27mm pitch, single row
+Through hole pin header THT 1x18 1.27mm single row
+0
+18
+18
+footprint
+Pin_Header_Straight_1x18_Pitch2.54mm
+Through hole straight pin header, 1x18, 2.54mm pitch, single row
+Through hole pin header THT 1x18 2.54mm single row
+0
+18
+18
+footprint
+Pin_Header_Straight_1x19_Pitch1.27mm
+Through hole straight pin header, 1x19, 1.27mm pitch, single row
+Through hole pin header THT 1x19 1.27mm single row
+0
+19
+19
+footprint
+Pin_Header_Straight_1x19_Pitch2.54mm
+Through hole straight pin header, 1x19, 2.54mm pitch, single row
+Through hole pin header THT 1x19 2.54mm single row
+0
+19
+19
+footprint
+Pin_Header_Straight_1x20_Pitch1.27mm
+Through hole straight pin header, 1x20, 1.27mm pitch, single row
+Through hole pin header THT 1x20 1.27mm single row
+0
+20
+20
+footprint
+Pin_Header_Straight_1x20_Pitch2.54mm
+Through hole straight pin header, 1x20, 2.54mm pitch, single row
+Through hole pin header THT 1x20 2.54mm single row
+0
+20
+20
+footprint
+Pin_Header_Straight_1x21_Pitch1.27mm
+Through hole straight pin header, 1x21, 1.27mm pitch, single row
+Through hole pin header THT 1x21 1.27mm single row
+0
+21
+21
+footprint
+Pin_Header_Straight_1x21_Pitch2.54mm
+Through hole straight pin header, 1x21, 2.54mm pitch, single row
+Through hole pin header THT 1x21 2.54mm single row
+0
+21
+21
+footprint
+Pin_Header_Straight_1x22_Pitch1.27mm
+Through hole straight pin header, 1x22, 1.27mm pitch, single row
+Through hole pin header THT 1x22 1.27mm single row
+0
+22
+22
+footprint
+Pin_Header_Straight_1x22_Pitch2.54mm
+Through hole straight pin header, 1x22, 2.54mm pitch, single row
+Through hole pin header THT 1x22 2.54mm single row
+0
+22
+22
+footprint
+Pin_Header_Straight_1x23_Pitch1.27mm
+Through hole straight pin header, 1x23, 1.27mm pitch, single row
+Through hole pin header THT 1x23 1.27mm single row
+0
+23
+23
+footprint
+Pin_Header_Straight_1x23_Pitch2.54mm
+Through hole straight pin header, 1x23, 2.54mm pitch, single row
+Through hole pin header THT 1x23 2.54mm single row
+0
+23
+23
+footprint
+Pin_Header_Straight_1x24_Pitch1.27mm
+Through hole straight pin header, 1x24, 1.27mm pitch, single row
+Through hole pin header THT 1x24 1.27mm single row
+0
+24
+24
+footprint
+Pin_Header_Straight_1x24_Pitch2.54mm
+Through hole straight pin header, 1x24, 2.54mm pitch, single row
+Through hole pin header THT 1x24 2.54mm single row
+0
+24
+24
+footprint
+Pin_Header_Straight_1x25_Pitch1.27mm
+Through hole straight pin header, 1x25, 1.27mm pitch, single row
+Through hole pin header THT 1x25 1.27mm single row
+0
+25
+25
+footprint
+Pin_Header_Straight_1x25_Pitch2.54mm
+Through hole straight pin header, 1x25, 2.54mm pitch, single row
+Through hole pin header THT 1x25 2.54mm single row
+0
+25
+25
+footprint
+Pin_Header_Straight_1x26_Pitch1.27mm
+Through hole straight pin header, 1x26, 1.27mm pitch, single row
+Through hole pin header THT 1x26 1.27mm single row
+0
+26
+26
+footprint
+Pin_Header_Straight_1x26_Pitch2.54mm
+Through hole straight pin header, 1x26, 2.54mm pitch, single row
+Through hole pin header THT 1x26 2.54mm single row
+0
+26
+26
+footprint
+Pin_Header_Straight_1x27_Pitch1.27mm
+Through hole straight pin header, 1x27, 1.27mm pitch, single row
+Through hole pin header THT 1x27 1.27mm single row
+0
+27
+27
+footprint
+Pin_Header_Straight_1x27_Pitch2.54mm
+Through hole straight pin header, 1x27, 2.54mm pitch, single row
+Through hole pin header THT 1x27 2.54mm single row
+0
+27
+27
+footprint
+Pin_Header_Straight_1x28_Pitch1.27mm
+Through hole straight pin header, 1x28, 1.27mm pitch, single row
+Through hole pin header THT 1x28 1.27mm single row
+0
+28
+28
+footprint
+Pin_Header_Straight_1x28_Pitch2.54mm
+Through hole straight pin header, 1x28, 2.54mm pitch, single row
+Through hole pin header THT 1x28 2.54mm single row
+0
+28
+28
+footprint
+Pin_Header_Straight_1x29_Pitch1.27mm
+Through hole straight pin header, 1x29, 1.27mm pitch, single row
+Through hole pin header THT 1x29 1.27mm single row
+0
+29
+29
+footprint
+Pin_Header_Straight_1x29_Pitch2.54mm
+Through hole straight pin header, 1x29, 2.54mm pitch, single row
+Through hole pin header THT 1x29 2.54mm single row
+0
+29
+29
+footprint
+Pin_Header_Straight_1x30_Pitch1.27mm
+Through hole straight pin header, 1x30, 1.27mm pitch, single row
+Through hole pin header THT 1x30 1.27mm single row
+0
+30
+30
+footprint
+Pin_Header_Straight_1x30_Pitch2.54mm
+Through hole straight pin header, 1x30, 2.54mm pitch, single row
+Through hole pin header THT 1x30 2.54mm single row
+0
+30
+30
+footprint
+Pin_Header_Straight_1x31_Pitch1.27mm
+Through hole straight pin header, 1x31, 1.27mm pitch, single row
+Through hole pin header THT 1x31 1.27mm single row
+0
+31
+31
+footprint
+Pin_Header_Straight_1x31_Pitch2.54mm
+Through hole straight pin header, 1x31, 2.54mm pitch, single row
+Through hole pin header THT 1x31 2.54mm single row
+0
+31
+31
+footprint
+Pin_Header_Straight_1x32_Pitch1.27mm
+Through hole straight pin header, 1x32, 1.27mm pitch, single row
+Through hole pin header THT 1x32 1.27mm single row
+0
+32
+32
+footprint
+Pin_Header_Straight_1x32_Pitch2.54mm
+Through hole straight pin header, 1x32, 2.54mm pitch, single row
+Through hole pin header THT 1x32 2.54mm single row
+0
+32
+32
+footprint
+Pin_Header_Straight_1x33_Pitch1.27mm
+Through hole straight pin header, 1x33, 1.27mm pitch, single row
+Through hole pin header THT 1x33 1.27mm single row
+0
+33
+33
+footprint
+Pin_Header_Straight_1x33_Pitch2.54mm
+Through hole straight pin header, 1x33, 2.54mm pitch, single row
+Through hole pin header THT 1x33 2.54mm single row
+0
+33
+33
+footprint
+Pin_Header_Straight_1x34_Pitch1.27mm
+Through hole straight pin header, 1x34, 1.27mm pitch, single row
+Through hole pin header THT 1x34 1.27mm single row
+0
+34
+34
+footprint
+Pin_Header_Straight_1x34_Pitch2.54mm
+Through hole straight pin header, 1x34, 2.54mm pitch, single row
+Through hole pin header THT 1x34 2.54mm single row
+0
+34
+34
+footprint
+Pin_Header_Straight_1x35_Pitch1.27mm
+Through hole straight pin header, 1x35, 1.27mm pitch, single row
+Through hole pin header THT 1x35 1.27mm single row
+0
+35
+35
+footprint
+Pin_Header_Straight_1x35_Pitch2.54mm
+Through hole straight pin header, 1x35, 2.54mm pitch, single row
+Through hole pin header THT 1x35 2.54mm single row
+0
+35
+35
+footprint
+Pin_Header_Straight_1x36_Pitch1.27mm
+Through hole straight pin header, 1x36, 1.27mm pitch, single row
+Through hole pin header THT 1x36 1.27mm single row
+0
+36
+36
+footprint
+Pin_Header_Straight_1x36_Pitch2.54mm
+Through hole straight pin header, 1x36, 2.54mm pitch, single row
+Through hole pin header THT 1x36 2.54mm single row
+0
+36
+36
+footprint
+Pin_Header_Straight_1x37_Pitch1.27mm
+Through hole straight pin header, 1x37, 1.27mm pitch, single row
+Through hole pin header THT 1x37 1.27mm single row
+0
+37
+37
+footprint
+Pin_Header_Straight_1x37_Pitch2.54mm
+Through hole straight pin header, 1x37, 2.54mm pitch, single row
+Through hole pin header THT 1x37 2.54mm single row
+0
+37
+37
+footprint
+Pin_Header_Straight_1x38_Pitch1.27mm
+Through hole straight pin header, 1x38, 1.27mm pitch, single row
+Through hole pin header THT 1x38 1.27mm single row
+0
+38
+38
+footprint
+Pin_Header_Straight_1x38_Pitch2.54mm
+Through hole straight pin header, 1x38, 2.54mm pitch, single row
+Through hole pin header THT 1x38 2.54mm single row
+0
+38
+38
+footprint
+Pin_Header_Straight_1x39_Pitch1.27mm
+Through hole straight pin header, 1x39, 1.27mm pitch, single row
+Through hole pin header THT 1x39 1.27mm single row
+0
+39
+39
+footprint
+Pin_Header_Straight_1x39_Pitch2.54mm
+Through hole straight pin header, 1x39, 2.54mm pitch, single row
+Through hole pin header THT 1x39 2.54mm single row
+0
+39
+39
+footprint
+Pin_Header_Straight_1x40_Pitch1.27mm
+Through hole straight pin header, 1x40, 1.27mm pitch, single row
+Through hole pin header THT 1x40 1.27mm single row
+0
+40
+40
+footprint
+Pin_Header_Straight_1x40_Pitch2.54mm
+Through hole straight pin header, 1x40, 2.54mm pitch, single row
+Through hole pin header THT 1x40 2.54mm single row
+0
+40
+40
+footprint
+Pololu_Breakout-16_15.2x20.3mm
+Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\
+Pololu Breakout
+0
+16
+16
+footprint
+QFN68
+
+
+0
+100
+71
+footprint
+RFM95
+
+RFM95
+0
+16
+16
+footprint
+RL-SM02BD(RTL8723BS)
+
+
+0
+46
+46
+footprint
+R_0805_HandSoldering
+Resistor SMD 0805, hand soldering
+resistor 0805
+0
+2
+2
+footprint
+R_0805_HandSoldering_louis
+Resistor SMD 0805, hand soldering
+resistor 0805
+0
+2
+2
+footprint
+Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
+footprint
+RotaryEncoder_Alps_EC11E_Vertical_H20mm
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+footprint
+SDCARD_HEADER
+Through hole straight pin header, 1x06, 1.27mm pitch, single row
+SDCARD HEADER
+0
+6
+6
+footprint
+SDCARD_HEADER_10PIN
+Through hole straight pin header, 1x10, 1.27mm pitch, single row
+SDCARD HEADER 10
+0
+10
+10
+footprint
+SHT3x-DIS
+
+
+0
+9
+9
+footprint
+SHT20
+SHT20
+SHT20
+0
+10
+7
+footprint
+SIM800C_MODULE
+SIM800C
+SIM800C SIM800C_MODULE
+0
+16
+16
+footprint
+SLA-05VDC-SL-C
+relay, TE T9AS5x1 series
+
+0
+5
+5
+footprint
+SO-8_5.3x6.2mm_P1.27mm
+8-Lead Plastic Small Outline, 5.3x6.2mm Body (http://www.ti.com.cn/cn/lit/ds/symlink/tl7705a.pdf)
+SOIC 1.27
+0
+8
+8
+footprint
+SOIC-8_3.9x4.9mm_P1.27mm,thermal_via
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
+SOIC 1.27
+0
+20
+8
+footprint
+SOIC127P790X216-8N
+
+
+0
+8
+8
+footprint
+SOP-16_4.4x10.4mm_Pitch1.27mm
+16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf
+SOP 1.27
+0
+16
+16
+footprint
+SOT-89-3,thermal_vias
+SOT-89-3,thermal_vias
+SOT-89-3,thermal_vias
+0
+12
+3
+footprint
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+footprint
+SPI_DEBUG
+Through hole straight pin header, 1x04, 1.27mm pitch, single row
+SPI DEBUG
+0
+4
+4
+footprint
+SRD-05VDC-SL-C
+SRD-05VDC-SL-C
+SRD-05VDC-SL-C
+0
+5
+5
+footprint
+SRV05-4
+6-pin SOT-23 package
+SRV05-4
+0
+6
+6
+footprint
+SS12,do214ac
+DO214AC SS12
+SS12
+0
+2
+2
+footprint
+SSD1306_OLED-0.91-128x32_4pin
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+OLED SSD1306 12832
+0
+4
+4
+footprint
+SSD1306_OLED-0.91-128x32_14pin
+
+SSD1306 12832
+0
+14
+14
+footprint
+SSOP-20_4.4x6.5mm_Pitch0.65mm
+SSOP20: plastic shrink small outline package; 20 leads; body width 4.4 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot266-1_po.pdf)
+SSOP 0.65
+0
+20
+20
+footprint
+SSR_TERMINAL_s2b-ph-kl
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+footprint
+STEP_MOTOR_2.54_TERMINAL
+STEP_MOTOR STEP_MOTOR_2.54_TERMINAL
+STEP_MOTOR STEP_MOTOR_2.54_TERMINAL
+0
+4
+4
+footprint
+STM32F030F4_TSSOP20
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+STM32F030F4 TSSOP20
+0
+20
+20
+footprint
+STM32F042FxPx_TSSOP20
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+STM32F042FxPx
+0
+20
+20
+footprint
+STM32F103C8T6
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf) STM32F103C8T6
+STM32F103C8T6
+0
+49
+48
+footprint
+STM32_PWR_SRC_s3b-ph-kl
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+footprint
+STP55NF06,TO-263-2,thermal_vias
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+51
+3
+footprint
+SUNTECH_ST-TF-003A
+
+
+0
+13
+10
+footprint
+SWD_PROGRAMMING_JIG_1.27
+SWD TESTPIN 1.27 JIG
+SWD TESTPIN 1.27 JIG
+0
+4
+4
+footprint
+SWD_PROGRAMMING_JIG_2.54
+SWD PROGRAMMING JIG 2.54
+SWD PROGRAMMING JIG 2.54
+0
+4
+4
+footprint
+SW_SPST_CK_RS282G05A3
+https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
+SPST button tactile switch
+0
+2
+2
+footprint
+SW_SPST_PTS645
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+footprint
+SX1508
+
+SX1508
+0
+25
+21
+footprint
+SX1509
+28-Lead Plastic Quad Flat, No Lead Package (MK) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.4
+0
+32
+29
+footprint
+TLV1117-33
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+footprint
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+footprint
+TO-263-2,drill_array
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+43
+3
+footprint
+TO-263-2,thermal_vias
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+51
+3
+footprint
+TO-263-5_TabPin3,heat_drill
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
+0
+35
+5
+footprint
+TPD4S012
+
+
+0
+6
+6
+footprint
+TPS54335ADDAR
+
+
+0
+13
+9
+footprint
+TPS54340
+Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, thermal vias, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
+TPS54340
+0
+20
+9
+footprint
+TSOT-23-6_HandSoldering
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6 Hand-soldering
+0
+6
+6
+footprint
+TTL_HEADER
+Through hole straight pin header, 1x03, 1.27mm pitch, single row
+Through hole pin header THT 1x03 1.27mm single row
+0
+3
+3
+footprint
+TTL_TERMINAL_1.27mm
+TTL DEBUG TERMINAL
+TTL DEBUG
+0
+3
+3
+footprint
+TTL_TERMINAL_2.54mm
+ttl terminal 2.54 pitch for debug
+TTL TERMINAL 2.54 DEBUG
+0
+3
+3
+footprint
+TTL_USB_CONVERTER
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+footprint
+TYCO-2-2013022
+
+
+0
+208
+204
+footprint
+UBLOX-NEO-6M-0-001
+
+UBLOX-NEO-6M-0-001 UBLOX NEO-6M
+0
+24
+24
+footprint
+UBLOX-NEO-6M_DEBUG
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+footprint
+UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm_handsoldering
+28-Lead Plastic Ultra Thin Quad Flat, No Lead Package (MV) - 4x4x0.5 mm Body [UQFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.4
+0
+33
+29
+footprint
+USB-MICRO_MISB-SWMM-5B_LF
+
+
+0
+11
+6
+footprint
+USBC_16PIN
+USB TYPE C, RA RCPT PCB, SMT, https://github.com/arturo182/GT-USB-7010/raw/master/GT-USB-7010.pdf
+USB C Type-C Receptacle SMD USBC_16PIN
+0
+20
+17
+footprint
+USBLC6-2SC6_SOT23-6
+USBLC6-2SC6_SOT23-6
+USBLC6-2SC6_SOT23-6
+0
+6
+6
+footprint
+USB_B_F_X2
+USB_B_F_X2
+
+0
+12
+12
+footprint
+USB_Micro-B_Molex-105017-0001
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+13
+9
+footprint
+USB_PN87520_HOST_PTH
+
+
+0
+6
+6
+footprint
+VAR_0402
+varistor 0402
+varistor 0402
+0
+2
+2
+footprint
+VAR_0603
+varistor 0603
+varistor 0603
+0
+2
+2
+footprint
+VAR_0805
+varistor 0805
+varistor 0805
+0
+2
+2
+footprint
+VAR_1206
+VAR_1206
+VAR_1206
+0
+2
+2
+footprint
+VEML6070
+
+
+0
+6
+6
+footprint
+W25Q32JVSSIQ
+
+
+0
+8
+8
+footprint
+WS2812_s3b-ph-kl
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+footprint
+WSK220N04,TO-263-2,thermal_vias
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+51
+3
+footprint
+XCVR_NEO-6M-GPS
+U-BLOX NEO-6M
+U-BLOX UBLOX NEO-6M
+0
+24
+24
+footprint
+XH_PROBE_TERMINAL_2.54
+JST XH series connector, JST_B3B-XH-A
+XH_PROBE_TERMINAL_2.54
+0
+3
+3
+footprint
+XH_TEMPERATURE_SENSOR_TERMINAL_2.54
+JST XH series connector, JST_B2B-XH-A
+connector jst xh
+0
+2
+2
+footprint
+aboutme_louislabs_com
+
+
+0
+0
+0
+footprint
+b2b-ph-kl,end_stop
+JST PH series connector, B2B-PH-KL
+
+0
+2
+2
+footprint
+b2b-ph-kl,fan_pwm_out
+JST PH series connector, B2B-PH-KL
+
+0
+2
+2
+footprint
+b2b-xh-2.54,temperature_terminal
+JST XH series connector, JST_B2B-XH-A
+connector jst xh
+0
+2
+2
+footprint
+b3b-ph-kl,end_stop
+JST PH series connector, B3B-PH-KL
+
+0
+3
+3
+footprint
+b3b-xh-2.54,end_stop
+JST XH series connector, JST_B3B-XH-A
+connector jst xh
+0
+3
+3
+footprint
+b4b-ph-kl,stepper_terminal
+JST PH series connector, B4B-PH-KL
+
+0
+4
+4
+footprint
+b4b-xh-2.54,stepper_terminal
+JST XH series connector, JST_B4B-XH-A
+connector jst xh
+0
+4
+4
+footprint
+bluepill_socket
+STM32F103C8 BluePill board
+
+0
+42
+42
+footprint
+bq25606_VQFN24
+VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+bq25606 VQFN24
+0
+39
+25
+footprint
+cherry_mx_without_led_100H
+cherry mx keyboard key button
+cherry mx keyboard key button
+0
+2
+2
+footprint
+conn_01_04_board_splitter
+
+
+0
+4
+4
+footprint
+flow_mpt_0,5%2f5-2,54
+5-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+5
+5
+footprint
+friendlyarm_nano_pi_duo2
+
+
+0
+32
+32
+footprint
+hc-49_smd
+Crystal, HC-49/SMD
+QUARTZ
+0
+2
+2
+footprint
+hdmi-001-05
+HDMI
+
+0
+23
+23
+footprint
+heatbed-soldering-power-terminal
+heatbed soldering power terminal
+
+0
+1
+1
+footprint
+hv_large
+
+
+0
+0
+0
+footprint
+licheepi_nano
+
+
+0
+82
+64
+footprint
+logo
+
+
+0
+0
+0
+footprint
+logo_icon
+
+
+0
+0
+0
+footprint
+logo_icon_500
+
+
+0
+0
+0
+footprint
+logo_icon_2000
+
+
+0
+0
+0
+footprint
+logo_icon_4000
+
+
+0
+0
+0
+footprint
+lora-RA-02
+Ai Thinker Ra-01 LoRa
+LoRa Ra-01
+0
+16
+16
+footprint
+louislabs_qr_logo
+
+
+0
+0
+0
+footprint
+louislabs_sign
+
+
+0
+99
+1
+footprint
+mouse-bite-2mm-5mm-slot
+
+
+0
+0
+0
+footprint
+mouse-bite-2mm-8mm-slot
+
+
+0
+0
+0
+footprint
+mouse-bite-2mm-10mm-slot
+
+
+0
+0
+0
+footprint
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+footprint
+mpt_0,5%2f2-2,54
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+footprint
+mpt_0,5%2f2-2,54,12V_SRC
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+footprint
+mpt_0,5%2f2-2,54,heatbed
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+footprint
+mpt_0,5%2f2-2,54,hotend
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+footprint
+mpt_0,5%2f3-2,54
+3-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+3
+3
+footprint
+mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+footprint
+mpt_0,5%2f5-2,54
+5-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+5
+5
+footprint
+nano-sim-card-holder
+
+
+0
+8
+7
+footprint
+orangepi-zero
+
+
+0
+42
+42
+footprint
+osc_debug
+Crystal, HC-49/SMD, 3225
+QUARTZ HC-49 SMD 3225
+0
+8
+4
+footprint
+qr_formal_aboutme_louislabs_com
+
+
+0
+0
+0
+footprint
+rainsun-AN9520
+
+
+0
+2
+2
+footprint
+s2b-ph-kl
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+footprint
+s2b-ph-kl,fan_output
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+footprint
+s2b-ph-kl,hotend_output
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+footprint
+s3b-ph-kl
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+footprint
+s3b-ph-kl,end_stop
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+footprint
+s3b-ph-kl_UART_GTR
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+footprint
+s4b-ph-kl
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+footprint
+s4b-ph-kl,I2C_TERMINAL
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+footprint
+s4b-ph-kl,stepper_terminal
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+footprint
+s8b-ph-kl
+JST PH series connector, S8B-PH-KL
+
+0
+8
+8
+footprint
+screw_terminal_01_02
+
+
+0
+2
+2
+footprint
+sim-holder
+
+
+0
+13
+13
+footprint
+sim-socket-91228-3001
+
+
+0
+8
+8
+footprint
+smd_push
+SMD Pushbutton
+
+0
+2
+2
+footprint
+stm32_LQFP-48_7x7mm_P0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+58
+48
+footprint
+usb-PCB
+
+
+0
+4
+4
+footprint
+v3s-elqfp128
+LQFP-128
+
+0
+129
+129
+footprint
+waveshare-swd-pinsocket
+Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x04 2.54mm double row
+0
+8
+8
+footprint
+waveshare_ov2640_pinsocket
+Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x09 2.54mm double row
+0
+18
+18
+footprint
+waveshare_ov7670_pinsocket
+Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x09 2.54mm double row
+0
+18
+18
