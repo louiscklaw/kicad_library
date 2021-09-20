@@ -1,4 +1,4 @@
-19776797899834991
+19788223388415690
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56209,6 +56209,20 @@ Yellow 5381 Series LED
 0
 2
 2
+M.2
+Conn_TE-M.2-0.5-67P-doublesided
+
+
+0
+69
+67
+M.2
+M.2
+
+
+0
+67
+67
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -83608,13 +83622,6 @@ LED_WS2812B_5050_white WS2812 5050
 4
 4
 footprint
-LGA1155_FAN_MOUNT
-
-
-0
-4
-4
-footprint
 LM2940CT-5
 TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 LM2940CT-5
@@ -83763,13 +83770,6 @@ mounting hole 2.7mm no annular m2.5
 0
 footprint
 MountingHole_3.1mm_M3,rpi_like
-Mounting Hole 2.7mm, no annular, M2.5
-mounting hole 2.7mm no annular m2.5
-0
-0
-0
-footprint
-MountingHole_3.2mm_M3,rpi_like
 Mounting Hole 2.7mm, no annular, M2.5
 mounting hole 2.7mm no annular m2.5
 0
@@ -85469,3 +85469,38 @@ Through hole socket strip THT 2x09 2.54mm double row
 0
 18
 18
+mpcie
+mpcie-full-card
+
+
+0
+60
+52
+mpcie
+mpcie-half-card
+
+
+0
+56
+52
+mpcie
+mpcie-socket
+
+mpci, pci, pci express
+0
+60
+52
+mpcie
+mpcie-socket-full-card
+
+mpci, pci, pci express
+0
+60
+52
+mpcie
+mpcie-socket-half-card
+
+mpci, pci, pci express
+0
+60
+52
