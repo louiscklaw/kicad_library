@@ -64,6 +64,12 @@ $CMP Conn_RPi_02_20
 K raspberry rpi
 $ENDCMP
 #
+$CMP DC_JACK
+D DC_JACK
+K DC_JACK
+F ~
+$ENDCMP
+#
 $CMP DHT-11
 D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
 K connector
