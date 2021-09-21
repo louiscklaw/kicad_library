@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATX24PIN
+D ATX24PIN
+K ATX24PIN
+$ENDCMP
+#
 #End Doc Library
