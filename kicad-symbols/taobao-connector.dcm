@@ -5,4 +5,10 @@ D ATX24PIN
 K ATX24PIN
 $ENDCMP
 #
+$CMP Raspberry_Pi_2_3
+D Raspberry Pi Zero W (v1.3) Single-board Computers
+K rpi raspberry
+F https://cdn.sparkfun.com/assets/learn_tutorials/6/7/6/PiZero_1.pdf
+$ENDCMP
+#
 #End Doc Library
