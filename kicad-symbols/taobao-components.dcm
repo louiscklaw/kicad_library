@@ -127,6 +127,12 @@ K FE1.1 usb hubs
 F https://www.snapeda.com/parts/FE1.1/Terminus-Tech/datasheet/
 $ENDCMP
 #
+$CMP FMMT718
+D FMMT718
+K transistor PNP FMMT718
+F https://s.taobao.com/search?q=FMMT718&type=p&tmhkh5=&from=sea_1_searchbutton&catId=100&spm=a2141.241046-cn.searchbar.d_2_searchbox
+$ENDCMP
+#
 $CMP FUSE_250V
 D 382圆形保险管 250V 慢断
 $ENDCMP

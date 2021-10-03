@@ -15,6 +15,16 @@ D V8266
 K V8266
 $ENDCMP
 #
+$CMP VDD3V3
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
+$CMP VDD5V
+D Power symbol creates a global label with name "VDD"
+K power-flag
+$ENDCMP
+#
 $CMP VDDR
 D Power flag, +3.3V
 K power-flag
@@ -23,6 +33,11 @@ $ENDCMP
 $CMP VDDS
 D Power flag, VDDS
 K power-flag VDDS
+$ENDCMP
+#
+$CMP VDDUSB
+D Power symbol creates a global label with name "VDD"
+K power-flag
 $ENDCMP
 #
 $CMP VDO
