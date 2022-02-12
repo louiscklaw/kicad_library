@@ -18,6 +18,9 @@
     (property "ki_description" "STM32 Blue Pill ; KLC compliant ; broken out SWD port" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_fp_filters" "*BluePill*" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "YAAJ_BluePill_SWD_Breakout_0_0"
       (circle (center -15.748 -20.32) (radius 0.3556)
         (stroke (width 0) (type default) (color 0 0 0 0))
