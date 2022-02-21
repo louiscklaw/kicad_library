@@ -1,0 +1,67 @@
+Cmp-Mod V01 Created by PcbNew   date = Sun Sep 19 18:28:31 2021
+
+BeginCmp
+TimeStamp = 6146C479
+Path = /6146C61B
+Reference = H8;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C470
+Path = /6145F2BE
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C459
+Path = /6146C625
+Reference = H7;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C44E
+Path = /6145F63E
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C443
+Path = /6146C611
+Reference = H6;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C43A
+Path = /6145F800
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C431
+Path = /6146C607
+Reference = H5;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+BeginCmp
+TimeStamp = 6146C428
+Path = /6145F4A7
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = footprint:MountingHole_3.2mm_M3,rpi_like;
+EndCmp
+
+EndListe
